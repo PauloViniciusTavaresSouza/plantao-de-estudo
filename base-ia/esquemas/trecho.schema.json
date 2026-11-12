@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "trecho.schema.json",
+  "title": "Trecho de documento",
+  "description": "Unidade que a IA busca e cita. Para leis, um trecho = um artigo com seus incisos e parágrafos.",
+  "type": "object",
+  "required": ["id", "documento_id", "dispositivo", "texto", "url_fonte", "data_coleta", "situacao"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string"},
+    "documento_id": {"type": "string", "description": "Igual ao id do catalogo_fontes.csv"},
+    "dispositivo": {"type": "string", "description": "Ex.: art. 11. Para fichas, o título da seção"},
+    "texto": {"type": "string", "minLength": 1},
+    "tipo_conteudo": {"enum": ["texto_oficial", "resumo_proprio"], "default": "texto_oficial"},
+    "situacao": {"enum": ["vigente", "alterado", "revogado", "verificar"]},
+    "url_fonte": {"type": ["string", "null"]},
+    "data_coleta": {"type": "string", "format": "date"},
+    "temas": {"type": "array", "items": {"type": "string"}}
+  }
+}

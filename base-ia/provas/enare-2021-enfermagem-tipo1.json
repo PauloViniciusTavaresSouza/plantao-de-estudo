@@ -1,0 +1,609 @@
+{
+  "banca": "Instituto AOCP",
+  "ano": 2021,
+  "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+  "cargo": "Residência em área profissional da saúde · Enfermagem",
+  "categoria_profissional": "enfermeiro",
+  "especialidades": [],
+  "unidades": [
+    "Todas"
+  ],
+  "grupo_prova": "Enfermagem",
+  "tipo_prova": "Tipo 01",
+  "tipo": "residencia",
+  "data_prova": null,
+  "fonte_gabarito": "gabarito definitivo ENARE 2021/2022 (Ebserh/Instituto AOCP), enviado pelo usuário",
+  "gabarito_conferido": "Lido do PDF do gabarito definitivo: Enfermagem, Prova 1",
+  "status": "texto das questões importado (rascunho, falta revisão)",
+  "arquivo_questoes": "questoes/enare-2021-enfermagem-tipo1.json",
+  "questoes": [
+    {
+      "numero": 1,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "História das políticas de saúde no Brasil",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 2,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Movimento sanitário",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 3,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "8ª Conferência Nacional de Saúde",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 4,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Instâncias de pactuação do SUS (CIB e CIT)",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "lei-8080-1990",
+        "decreto-7508-2011"
+      ]
+    },
+    {
+      "numero": 5,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Participação social: Lei 8.142/1990",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "lei-8142-1990",
+        "lei-8080-1990"
+      ]
+    },
+    {
+      "numero": 6,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Contrato Organizativo da Ação Pública (COAP)",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "decreto-7508-2011"
+      ]
+    },
+    {
+      "numero": 7,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Regionalização",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "decreto-7508-2011"
+      ]
+    },
+    {
+      "numero": 8,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Redes de Atenção à Saúde",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "portaria-4279-2010"
+      ]
+    },
+    {
+      "numero": 9,
+      "disciplina": "Competências comuns",
+      "tema": "vigilancia",
+      "assunto": "Indicadores: incidência",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 10,
+      "disciplina": "Competências comuns",
+      "tema": "vigilancia",
+      "assunto": "Rede Cievs",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "guia-vigilancia-saude"
+      ]
+    },
+    {
+      "numero": 11,
+      "disciplina": "Competências comuns",
+      "tema": "vigilancia",
+      "assunto": "Competências da Anvisa",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "lei-9782-1999"
+      ]
+    },
+    {
+      "numero": 12,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "História natural da doença (Leavell e Clark)",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 13,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Política Nacional de Atenção Básica",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "portaria-2436-2017"
+      ]
+    },
+    {
+      "numero": 14,
+      "disciplina": "Competências comuns",
+      "tema": "gestao",
+      "assunto": "Educação permanente em saúde",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "portaria-1996-2007"
+      ]
+    },
+    {
+      "numero": 15,
+      "disciplina": "Competências comuns",
+      "tema": "mental",
+      "assunto": "Trabalho interdisciplinar em saúde mental",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "portaria-3088-2011"
+      ]
+    },
+    {
+      "numero": 16,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Política de Saúde Integral LGBT",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "portaria-2836-2011"
+      ]
+    },
+    {
+      "numero": 17,
+      "disciplina": "Competências comuns",
+      "tema": "gestao",
+      "assunto": "Avaliação em saúde: estrutura, processo e resultado",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 18,
+      "disciplina": "Competências comuns",
+      "tema": "seguranca",
+      "assunto": "Classificação Internacional de Segurança do Paciente (OMS)",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "portaria-529-2013",
+        "rdc-36-2013"
+      ]
+    },
+    {
+      "numero": 19,
+      "disciplina": "Competências comuns",
+      "tema": "sus",
+      "assunto": "Modelos assistenciais",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 20,
+      "disciplina": "Competências comuns",
+      "tema": "etica",
+      "assunto": "Princípios da bioética",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 21,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Processo de enfermagem: diagnóstico",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "res-cofen-736-2024",
+        "res-cofen-358-2009"
+      ]
+    },
+    {
+      "numero": 22,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Anamnese: avaliação da dor",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 23,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Percussão",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 24,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Sistema vascular periférico",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 25,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Exame vascular dos membros inferiores",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 26,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Termorregulação",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 27,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Exame do estado mental",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 28,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Ausculta cardíaca",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 29,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Aferição da pressão arterial: tamanho do manguito",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "diretrizes-has-2020"
+      ]
+    },
+    {
+      "numero": 30,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Cianose",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 31,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Lesões elementares de pele",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 32,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Ruídos adventícios pulmonares",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 33,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Marcos anatômicos do tórax",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 34,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Insuficiência venosa e arterial",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 35,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Avaliação do edema (cacifo)",
+      "gabarito": "X",
+      "anulada": true,
+      "normas": []
+    },
+    {
+      "numero": 36,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Riscos nutricionais na internação",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 37,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Disfagia e risco de aspiração",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 38,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "calc",
+      "assunto": "Apresentações de medicamentos",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 39,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "calc",
+      "assunto": "Medidas caseiras e conversão de doses",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 40,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Avaliação de feridas",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 41,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Terapia de feridas por pressão negativa",
+      "gabarito": "X",
+      "anulada": true,
+      "normas": []
+    },
+    {
+      "numero": 42,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "seguranca",
+      "assunto": "Locais de lesão por pressão",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "portaria-529-2013"
+      ]
+    },
+    {
+      "numero": 43,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Escala de flebite",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 44,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Fatores que alteram a velocidade de infusão",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 45,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Compatibilidade ABO na transfusão",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "portaria-158-2016"
+      ]
+    },
+    {
+      "numero": 46,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Controle da transfusão de hemocomponentes",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "portaria-158-2016"
+      ]
+    },
+    {
+      "numero": 47,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Classificação ASA e sedação",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 48,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Cuidados pós-operatórios",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 49,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "mental",
+      "assunto": "Efeitos extrapiramidais de antipsicóticos",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 50,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "mental",
+      "assunto": "Delirium",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 51,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "mental",
+      "assunto": "Síndrome neuroléptica maligna",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 52,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "clinica",
+      "assunto": "Infecção do trato urinário",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 53,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Preparo para exames de sangue",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 54,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "bio",
+      "assunto": "Biossegurança hospitalar",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "nr-32"
+      ]
+    },
+    {
+      "numero": 55,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Diagnósticos de enfermagem NANDA-I: domínios",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "res-cofen-736-2024",
+        "res-cofen-358-2009"
+      ]
+    },
+    {
+      "numero": 56,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "mulher",
+      "assunto": "Cistos mamários",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 57,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "etica",
+      "assunto": "Análise ética na enfermagem",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "res-cofen-564-2017"
+      ]
+    },
+    {
+      "numero": 58,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Processo de enfermagem: implementação",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "res-cofen-736-2024",
+        "res-cofen-358-2009"
+      ]
+    },
+    {
+      "numero": 59,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "mental",
+      "assunto": "Comunicação terapêutica",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 60,
+      "disciplina": "Competências específicas de Enfermagem",
+      "tema": "fund",
+      "assunto": "Modelo transteórico de mudança de comportamento",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    }
+  ]
+}

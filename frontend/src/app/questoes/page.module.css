@@ -1,0 +1,17 @@
+.pagina {
+  max-width: 940px;
+  padding-block: 20px 48px;
+}
+.topo {
+  margin-bottom: 20px;
+}
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 1.08rem;
+  color: var(--ink);
+  text-decoration: none;
+}

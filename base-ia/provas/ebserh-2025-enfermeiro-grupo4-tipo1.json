@@ -1,0 +1,663 @@
+{
+  "banca": "FGV",
+  "ano": 2025,
+  "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+  "data_prova": "2025-03-16",
+  "tipo": "concurso",
+  "unidades": [
+    "Todas"
+  ],
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ebserrhassistencial2024_gabarito_definitivo.pdf",
+  "fonte_gabarito": "gabarito definitivo FGV",
+  "cargo": "Enfermeiro (função geral e 30 especialidades)",
+  "categoria_profissional": "enfermeiro",
+  "grupo_prova": "Grupo 4",
+  "tipo_prova": "Tipo 1",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/grupo-4-enfermageme3cnsgp04-tipo-1.pdf",
+  "especialidades": [
+    "Auditoria",
+    "Cardiologia",
+    "Cardiologia - Hemodinâmica",
+    "Cardiologia - Perfusionista",
+    "Centro Cirúrgico",
+    "Dermatológica - Estomaterapia",
+    "Educação em Enfermagem",
+    "Educação em Enfermagem - Pesquisa",
+    "Gerenciamento/Gestão - Gestão da Qualidade em Saúde",
+    "Gerenciamento/Gestão - Administração Hospitalar",
+    "Gerenciamento/Gestão - Gestão de Saúde",
+    "Gerenciamento/Gestão - Home Care",
+    "Hematologia e Hemoterapia",
+    "Infecção Hospitalar",
+    "Nefrologia",
+    "Neurologia",
+    "Oncologia",
+    "Saúde da Criança e Adolescente - Neonatologia",
+    "Saúde da Criança e Adolescente - Pediatria",
+    "Saúde da Mulher",
+    "Saúde da Mulher - Obstetrícia",
+    "Saúde do Trabalhador",
+    "Saúde Indígena",
+    "Saúde Mental",
+    "Terapia Intensiva",
+    "Terapia Intensiva Neonatal",
+    "Terapia Intensiva Pediátrica",
+    "Transplantes",
+    "Vigilância",
+    "Vigilância - Epidemiológica"
+  ],
+  "status": "texto das questões importado (rascunho, falta revisão)",
+  "questoes": [
+    {
+      "numero": 1,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 2,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 3,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 4,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 5,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 6,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 7,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 8,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 9,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 10,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 11,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Finalidades da Ebserh",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "lei-12550-2011"
+      ]
+    },
+    {
+      "numero": 12,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Colegiados internos da Ebserh",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "ebserh-regimento-interno"
+      ]
+    },
+    {
+      "numero": 13,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Contratação de pessoal na Ebserh",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "lei-12550-2011",
+        "ebserh-regulamento-pessoal"
+      ]
+    },
+    {
+      "numero": 14,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Composição do Conselho de Administração",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "ebserh-estatuto-social"
+      ]
+    },
+    {
+      "numero": 15,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Caráter da Comissão de Ética",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "ebserh-codigo-etica"
+      ]
+    },
+    {
+      "numero": 16,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Controle social: conselhos e conferências",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "lei-8142-1990"
+      ]
+    },
+    {
+      "numero": 17,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Histórico do SUS",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "cf-1988-saude"
+      ]
+    },
+    {
+      "numero": 18,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Revolta da Vacina e saúde pública",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 19,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Determinantes sociais da saúde",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "lei-8080-1990"
+      ]
+    },
+    {
+      "numero": 20,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "gestao",
+      "assunto": "Blockchain na gestão em saúde",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 21,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Saúde suplementar e SUS",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 22,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "etica",
+      "assunto": "Bioética e edição genética",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 23,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Atenção Primária à Saúde",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "portaria-2436-2017"
+      ]
+    },
+    {
+      "numero": 24,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Política Nacional de Humanização",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "pnh-humanizasus"
+      ]
+    },
+    {
+      "numero": 25,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Estratégia Saúde da Família",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "portaria-2436-2017"
+      ]
+    },
+    {
+      "numero": 26,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Política Nacional de Atenção Hospitalar",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "portaria-3390-2013"
+      ]
+    },
+    {
+      "numero": 27,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Direitos e deveres da pessoa usuária",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "res-cns-553-2017"
+      ]
+    },
+    {
+      "numero": 28,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Redes de Atenção à Saúde",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 29,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Saúde do trabalhador do SUS",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "nob-rh-sus"
+      ]
+    },
+    {
+      "numero": 30,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Saúde da População Negra",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "portaria-992-2009"
+      ]
+    },
+    {
+      "numero": 31,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "imunizacao",
+      "assunto": "Vacina rotavírus humano",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "calendario-vacinacao",
+        "manual-vacinacao"
+      ]
+    },
+    {
+      "numero": 32,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "vigilancia",
+      "assunto": "Vigilância da influenza e síndrome gripal",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "guia-vigilancia-saude"
+      ]
+    },
+    {
+      "numero": 33,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "mental",
+      "assunto": "Cuidado à pessoa com TEA no CAPS",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "portaria-3088-2011"
+      ]
+    },
+    {
+      "numero": 34,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "mental",
+      "assunto": "Transtorno bipolar, Peplau e leitos da RAPS",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "pcdt-tab-2016",
+        "instrutivo-raps-2022"
+      ]
+    },
+    {
+      "numero": 35,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "crianca",
+      "assunto": "Consulta de enfermagem à criança: medidas",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "caderneta-crianca"
+      ]
+    },
+    {
+      "numero": 36,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "mulher",
+      "assunto": "Rede Alyne",
+      "gabarito": null,
+      "anulada": true,
+      "normas": [
+        "portaria-5350-2024",
+        "portaria-5359-2024"
+      ]
+    },
+    {
+      "numero": 37,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "mulher",
+      "assunto": "Cuidados no parto vaginal",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 38,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "mulher",
+      "assunto": "Consulta de amamentação",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 39,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "clinica",
+      "assunto": "PEP e PrEP",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "pcdt-pep",
+        "pcdt-prep"
+      ]
+    },
+    {
+      "numero": 40,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "vigilancia",
+      "assunto": "Eventos climáticos e agravos",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 41,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "sus",
+      "assunto": "Objetivos e atribuições do SUS",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "lei-8080-1990"
+      ]
+    },
+    {
+      "numero": 42,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "gestao",
+      "assunto": "Auditoria em enfermagem",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 43,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "urg",
+      "assunto": "Traumatismo cranioencefálico e escalas",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 44,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "clinica",
+      "assunto": "Tratamentos do câncer",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "abc-do-cancer-2020"
+      ]
+    },
+    {
+      "numero": 45,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "urg",
+      "assunto": "SBV e SAVC no adulto",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "diretriz-rcp-aha"
+      ]
+    },
+    {
+      "numero": 46,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "clinica",
+      "assunto": "Cuidados com fístula arteriovenosa",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 47,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "urg",
+      "assunto": "Atendimento à dor torácica",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 48,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "clinica",
+      "assunto": "Enfermagem em doação e transplantes",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "res-cofen-710-2022"
+      ]
+    },
+    {
+      "numero": 49,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "gestao",
+      "assunto": "Liderança, educação continuada e dimensionamento",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "parecer-cofen-1-2024"
+      ]
+    },
+    {
+      "numero": 50,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "bio",
+      "assunto": "Resíduos de serviços de saúde",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "rdc-222-2018"
+      ]
+    },
+    {
+      "numero": 51,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "etica",
+      "assunto": "Processo de Enfermagem: evolução",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "res-cofen-736-2024"
+      ]
+    },
+    {
+      "numero": 52,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "etica",
+      "assunto": "Processo de Enfermagem: planejamento",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "res-cofen-736-2024"
+      ]
+    },
+    {
+      "numero": 53,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "clinica",
+      "assunto": "Período transoperatório",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 54,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "fund",
+      "assunto": "Padrões respiratórios",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 55,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "clinica",
+      "assunto": "DRC estágio 4 e hiperfosfatemia",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 56,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "bio",
+      "assunto": "Flushing e manutenção de cateter periférico",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "anvisa-caderno-iras-2017"
+      ]
+    },
+    {
+      "numero": 57,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "bio",
+      "assunto": "Precauções padrão e por transmissão",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 58,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "bio",
+      "assunto": "Monitoramento da esterilização",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "rdc-15-2012"
+      ]
+    },
+    {
+      "numero": 59,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "idoso",
+      "assunto": "Avaliação inicial do idoso",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 60,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "fund",
+      "assunto": "Ausculta cardíaca: focos",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": []
+    }
+  ],
+  "arquivo_questoes": "questoes/ebserh-2025-enfermeiro-grupo4-tipo1.json",
+  "gabarito_conferido": "Conferido em 12/11/2026 contra o PDF do gabarito definitivo da FGV: 60 de 60 respostas iguais"
+}

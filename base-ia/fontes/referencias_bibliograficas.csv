@@ -1,0 +1,45 @@
+id,tipo,autores,titulo,editora_ou_orgao,tema,como_usar
+ref-potter,livro,Potter; Perry; Stockert; Hall,Fundamentos de Enfermagem,Elsevier,fund,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-taylor,livro,Taylor; Lynn; Bartlett,Fundamentos de Enfermagem: a arte e a ciência do cuidado de enfermagem,Artmed,fund,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-posso,livro,"Posso, M. B. S.",Semiologia e Semiotécnica de Enfermagem,Atheneu,fund,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-barros,livro,"Barros, A. L. B. L. (org.)",Anamnese e Exame Físico: avaliação diagnóstica de enfermagem no adulto,Artmed,fund,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-porto,livro,"Porto, C. C.",Semiologia Médica,Guanabara Koogan,fund,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-giovani,livro,"Giovani, A. M. M.",Enfermagem: cálculo e administração de medicamentos,Scrinium,calc,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-clayton,livro,Clayton; Willihnganz,Farmacologia na Prática de Enfermagem,Elsevier,calc,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-nanda,livro,NANDA International,Diagnósticos de Enfermagem da NANDA-I: definições e classificação,Artmed,fund,Títulos e definições são protegidos e licenciados. Usar só com licença ou citar sem reproduzir.
+ref-brunner,livro,Hinkle; Cheever (Brunner & Suddarth),Tratado de Enfermagem Médico-Cirúrgica,Guanabara Koogan,clinica,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-sobecc,livro,SOBECC,Diretrizes de Práticas em Enfermagem Cirúrgica e Processamento de Produtos para a Saúde,SOBECC / Manole,clinica,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-fermi,livro,"Fermi, M. R. V.",Diálise para Enfermagem: guia prático,Guanabara Koogan,clinica,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-phtls,livro,NAEMT,PHTLS: Atendimento Pré-hospitalar ao Traumatizado,Artmed / Jones & Bartlett,urg,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-gold,diretriz,Global Initiative for Chronic Obstructive Lung Disease,Relatório GOLD: estratégia global para DPOC,GOLD,clinica,Relatório de acesso livre com direitos autorais: citar a edição e resumir.
+ref-cdc-isolamento,diretriz,Siegel; Rhinehart; Jackson; Chiarello (CDC/HICPAC),"Guideline for Isolation Precautions (2007, atualizado)",CDC,bio,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-ricci,livro,"Ricci, S. S.",Enfermagem Materno-Neonatal e Saúde da Mulher,Guanabara Koogan,mulher,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-rezende,livro,Montenegro; Rezende Filho,Rezende Obstetrícia Fundamental,Guanabara Koogan,mulher,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-wong,livro,Hockenberry; Wilson (Wong),Wong Fundamentos de Enfermagem Pediátrica,Elsevier,crianca,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-eliopoulos,livro,"Eliopoulos, C.",Enfermagem Gerontológica,Artmed,idoso,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-townsend,livro,"Townsend, M. C.",Enfermagem em Saúde Mental e Psiquiátrica,Guanabara Koogan,mental,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-kurcgant,livro,"Kurcgant, P. (coord.)",Gerenciamento em Enfermagem,Guanabara Koogan,gestao,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-motta,livro,"Motta, A. L. C.",Auditoria de Enfermagem nos Hospitais e Operadoras de Planos de Saúde,Iátria,gestao,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-beauchamp,livro,Beauchamp; Childress,Princípios de Ética Biomédica,Loyola,etica,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-rouquayrol,livro,Rouquayrol; Gurgel,Epidemiologia & Saúde,MedBook,vigilancia,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-paim,livro,Paim; Almeida-Filho (org.),Saúde Coletiva: Teoria e Prática,MedBook,sus,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-mendes-ras,livro,"Mendes, E. V.",As Redes de Atenção à Saúde,OPAS,sus,Publicação da OPAS de acesso livre: citar e resumir.
+ref-mendes-patologia,livro,"Mendes, R. (org.)",Patologia do Trabalho,Atheneu,saude_trabalhador,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-kendall,livro,Kendall; McCreary; Provance,Músculos: provas e funções,Manole,saude_trabalhador,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-ms-doencas-trabalho,manual oficial,Ministério da Saúde; OPAS,Doenças Relacionadas ao Trabalho: manual de procedimentos para os serviços de saúde,Ministério da Saúde,saude_trabalhador,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-ms-ler-dort,manual oficial,Ministério da Saúde,"Dor relacionada ao trabalho: LER/DORT (Saúde do Trabalhador, Protocolos de Complexidade Diferenciada)",Ministério da Saúde,saude_trabalhador,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-ms-agrotoxicos,manual oficial,Ministério da Saúde,Diretrizes Brasileiras para o Diagnóstico e Tratamento de Intoxicações por Agrotóxicos,Ministério da Saúde,saude_trabalhador,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-cab-23,manual oficial,Ministério da Saúde,"Caderno de Atenção Básica nº 23: Saúde da criança, aleitamento materno e alimentação complementar",Ministério da Saúde,crianca,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-cab-13,manual oficial,Ministério da Saúde,Caderno de Atenção Básica nº 13: Controle dos cânceres do colo do útero e da mama,Ministério da Saúde,mulher,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-cab-19,manual oficial,Ministério da Saúde,Caderno de Atenção Básica nº 19: Envelhecimento e saúde da pessoa idosa,Ministério da Saúde,idoso,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-cab-38,manual oficial,Ministério da Saúde,"Caderno de Atenção Básica nº 38: Estratégias para o cuidado da pessoa com doença crônica, obesidade",Ministério da Saúde,clinica,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-pcdt-ist,manual oficial,Ministério da Saúde,PCDT para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis,Ministério da Saúde,clinica,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-plano-dant,manual oficial,Ministério da Saúde,Plano de Ações Estratégicas para o Enfrentamento das Doenças Crônicas e Agravos Não Transmissíveis no Brasil 2021-2030,Ministério da Saúde,clinica,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-diretriz-parto,manual oficial,Ministério da Saúde; Conitec,Diretrizes Nacionais de Assistência ao Parto Normal,Ministério da Saúde,mulher,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-pnaish,manual oficial,Ministério da Saúde,Política Nacional de Atenção Integral à Saúde do Homem: princípios e diretrizes,Ministério da Saúde,clinica,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-anvisa-notivisa,manual oficial,Anvisa,Notivisa: Sistema de Notificações em Vigilância Sanitária (orientações oficiais),Anvisa,vigilancia,Publicação oficial de acesso livre: pode entrar na base de trechos da IA citando a fonte.
+ref-bechara,livro,"Bechara, E.",Moderna Gramática Portuguesa,Nova Fronteira,portugues,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-cunha-cintra,livro,Cunha; Cintra,Nova Gramática do Português Contemporâneo,Lexikon,portugues,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-garcia,livro,"Garcia, O. M.",Comunicação em Prosa Moderna,FGV Editora,portugues,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-koch,livro,"Koch, I. V.",A Coesão Textual,Contexto,portugues,"Livro com direitos autorais: citar e escrever resumo próprio, sem copiar trechos."
+ref-volp,manual oficial,Academia Brasileira de Letras,Vocabulário Ortográfico da Língua Portuguesa (VOLP),ABL,portugues,Consulta oficial de grafia: citar.

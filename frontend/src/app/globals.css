@@ -1,0 +1,106 @@
+/* Tokens do Plantão de Estudo. Toda cor vem daqui, no tema claro e no escuro. */
+:root {
+  --bg: #f4f7fb;
+  --surface: #ffffff;
+  --soft: #eaf0f7;
+  --ink: #0f1b2d;
+  --muted: #56667c;
+  --line: #dfe6ef;
+  --accent: #0a9784;
+  --accent-ink: #ffffff;
+  --accent-soft: #d8f3ee;
+  --coral: #f2604c;
+  --gold: #e8a800;
+  --good: #15803d;
+  --bad: #d9363e;
+  --h1: #2f7de1;
+  --h2: #e0567a;
+  --h3: #7a5af0;
+  --h4: #e8a800;
+  --h5: #0a9784;
+  --h6: #f2604c;
+  --display: var(--font-sora), "Segoe UI", system-ui, sans-serif;
+  --body: var(--font-manrope), system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a111d;
+    --surface: #121c2c;
+    --soft: #1a2639;
+    --ink: #edf3fb;
+    --muted: #9caec5;
+    --line: #25344c;
+    --accent: #2cc5ad;
+    --accent-ink: #04201b;
+    --accent-soft: #11352f;
+    --coral: #ff7a66;
+    --gold: #f5c03a;
+    --good: #3ccf73;
+    --bad: #ff6b70;
+    color-scheme: dark;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: var(--display);
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+
+p {
+  margin: 0;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+a {
+  color: var(--accent);
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Largura e respiro lateral padrão das páginas */
+.container {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}

@@ -1,0 +1,350 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "questao.schema.json",
+  "title": "Questão",
+  "type": "object",
+  "required": [
+    "id",
+    "origem",
+    "tipo",
+    "tema",
+    "dificuldade",
+    "enunciado",
+    "alternativas",
+    "gabarito",
+    "status_revisao"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "origem": {
+      "enum": [
+        "prova",
+        "inedita",
+        "exemplo"
+      ],
+      "description": "prova = questão de prova real; inedita = escrita pela equipe; exemplo = do protótipo"
+    },
+    "banca": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ano": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1990,
+      "maximum": 2100
+    },
+    "orgao": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Órgão ou instituição da prova"
+    },
+    "cargo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "categoria_profissional": {
+      "enum": [
+        "enfermeiro",
+        "tecnico_enfermagem",
+        "auxiliar_enfermagem",
+        "multiprofissional",
+        null
+      ],
+      "description": "Filtro principal do app"
+    },
+    "especialidades": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Especialidades ou vagas a que a questão se aplica. Lista vazia = cargo geral"
+    },
+    "unidades": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Hospitais ou unidades. [\"Todas\"] quando a prova é nacional e única"
+    },
+    "grupo_prova": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ex.: Grupo 4"
+    },
+    "tipo_prova": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ex.: Tipo 1. A numeração vale para este tipo"
+    },
+    "numero": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "disciplina": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ex.: Língua Portuguesa, Legislação EBSERH, Políticas Públicas de Saúde, Conhecimentos Específicos"
+    },
+    "tipo": {
+      "enum": [
+        "concurso",
+        "residencia",
+        "treino"
+      ]
+    },
+    "tema": {
+      "enum": [
+        "sus",
+        "etica",
+        "fund",
+        "calc",
+        "urg",
+        "mulher",
+        "crianca",
+        "bio",
+        "mental",
+        "idoso",
+        "vigilancia",
+        "imunizacao",
+        "seguranca",
+        "gestao",
+        "clinica",
+        "portugues",
+        "legislacao_institucional",
+        "saude_trabalhador",
+        "outros"
+      ]
+    },
+    "subtema": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dificuldade": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "enunciado": {
+      "type": "string",
+      "minLength": 10
+    },
+    "alternativas": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": [
+          "letra",
+          "texto"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "letra": {
+            "enum": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ]
+          },
+          "texto": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "gabarito": {
+      "enum": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        null
+      ],
+      "description": "null só quando a questão foi anulada sem gabarito"
+    },
+    "anulada": {
+      "type": "boolean",
+      "default": false
+    },
+    "comentario": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "fontes": {
+      "type": "array",
+      "description": "Liga a questão aos trechos da base de documentos. É o que permite à IA citar a lei certa.",
+      "items": {
+        "type": "object",
+        "required": [
+          "documento_id"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "documento_id": {
+            "type": "string"
+          },
+          "dispositivo": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Ex.: art. 11, I, i"
+          }
+        }
+      }
+    },
+    "data_referencia": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "Data da legislação em que o gabarito se baseia"
+    },
+    "status_revisao": {
+      "enum": [
+        "rascunho",
+        "revisada",
+        "desatualizada"
+      ]
+    },
+    "revisor": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "texto_apoio": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Texto-base compartilhado por várias questões, como em Língua Portuguesa"
+    },
+    "referencias": {
+      "type": "array",
+      "description": "Livros e manuais que embasam a resposta (ids de fontes/referencias_bibliograficas.csv)",
+      "items": {
+        "type": "object",
+        "required": [
+          "referencia_id"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "referencia_id": {
+            "type": "string"
+          },
+          "onde": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Capítulo ou seção, preenchido na revisão"
+          }
+        }
+      }
+    },
+    "imagens": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Figuras da questão, caminhos relativos à pasta base-ia (ex.: imagens/enare-2021-enf-q031-0.png)"
+    },
+    "assuntos": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "sus-leis",
+          "sus-politicas",
+          "sus-controle",
+          "sus-financ",
+          "sus-historia",
+          "vig-epi",
+          "vig-sanit",
+          "vig-amb",
+          "vig-trab",
+          "vig-imun",
+          "vig-pnvs",
+          "gest-enf",
+          "gest-aud",
+          "gest-qual",
+          "gest-edu",
+          "leg-prof",
+          "leg-pe",
+          "leg-ebserh",
+          "urg-rcp",
+          "urg-trauma",
+          "urg-clin",
+          "urg-org",
+          "cri-ped",
+          "cri-neo",
+          "cri-alei",
+          "mul-obs",
+          "mul-gin",
+          "cli-cir",
+          "cli-card",
+          "cli-resp",
+          "cli-nef",
+          "cli-hemo",
+          "cli-feridas",
+          "cli-cron",
+          "cli-infec",
+          "cli-neuro",
+          "fund-semio",
+          "fund-ssvv",
+          "fund-proc",
+          "farm-calc",
+          "farm-adm",
+          "bio-prec",
+          "bio-proc",
+          "bio-resid",
+          "men-pol",
+          "men-clin",
+          "ido-geral",
+          "port-texto",
+          "port-gram"
+        ]
+      },
+      "description": "Assuntos finos da questão (esquemas/taxonomia.json). Cada assunto pertence a uma temática"
+    },
+    "localidade": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "UF da prova, ou Nacional"
+    }
+  }
+}
