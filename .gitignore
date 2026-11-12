@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+!.env.example
+.DS_Store
+__pycache__/
+*.log
+# textos baixados das normas (gerados por base-ia/scripts/baixar_fontes.py)
+base-ia/dados/bruto/
