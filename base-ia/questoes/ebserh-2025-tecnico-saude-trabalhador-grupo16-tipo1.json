@@ -1,0 +1,4007 @@
+[
+  {
+    "id": "fgv-2025-ebserh-g16-q001",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 1,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale a frase em que não há a presença de um interlocutor.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vamos, crianças, silêncio na classe!"
+      },
+      {
+        "letra": "B",
+        "texto": "Eu estou te dizendo que a festa será hoje!"
+      },
+      {
+        "letra": "C",
+        "texto": "Outras informações, na secretaria, por favor!"
+      },
+      {
+        "letra": "D",
+        "texto": "Por favor, não fumem!"
+      },
+      {
+        "letra": "E",
+        "texto": "Vocês, João e Pedro, vão passear?"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-garcia",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-koch",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-texto"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q002",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 2,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Observe o seguinte texto argumentativo: “Os médicos algumas vezes não respeitam seu horário de trabalho fixado na porta do posto médico. Ontem fui consultar o médico de plantão, mas ele estava ausente!” Nesse caso, a argumentação do emissor utiliza",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uma comparação."
+      },
+      {
+        "letra": "B",
+        "texto": "um exemplo."
+      },
+      {
+        "letra": "C",
+        "texto": "uma explicação."
+      },
+      {
+        "letra": "D",
+        "texto": "um apelo à inteligência."
+      },
+      {
+        "letra": "E",
+        "texto": "um apelo à emoção."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-garcia",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-koch",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-texto"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q003",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 3,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale a frase em que, comparativamente, as reticências mostram a expressão de uma emoção intensa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quadro não é ... um pouco ... como dizer?"
+      },
+      {
+        "letra": "B",
+        "texto": "Mas a barata ... a barata ... você a matou?"
+      },
+      {
+        "letra": "C",
+        "texto": "Quem diria..."
+      },
+      {
+        "letra": "D",
+        "texto": "Você já sabe, né? O casamento dele..."
+      },
+      {
+        "letra": "E",
+        "texto": "Comprei o carro barato... barato ..."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-bechara",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-cunha-cintra",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-gram"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q004",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 4,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale a frase que mostra um termo que indica a participação pessoal do autor na mensagem da frase.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A população aplaudiu a inauguração do mercado."
+      },
+      {
+        "letra": "B",
+        "texto": "Os impostos sobre a água não aumentarão."
+      },
+      {
+        "letra": "C",
+        "texto": "O Rio, como São Paulo, enfrenta problemas."
+      },
+      {
+        "letra": "D",
+        "texto": "O acusado foi, felizmente, preso."
+      },
+      {
+        "letra": "E",
+        "texto": "As máquinas interditaram a pista."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-garcia",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-koch",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-texto"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q005",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 5,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale a frase que não mostra uma ordem de forma direta ou indireta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tente não gastar todo o seu dinheiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Lembre-me daqui a dois dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Que ela venha aqui amanhã de manhã."
+      },
+      {
+        "letra": "D",
+        "texto": "A chuva vai continuar por todo o dia."
+      },
+      {
+        "letra": "E",
+        "texto": "Tome um comprimido a cada dia."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-bechara",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-cunha-cintra",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-texto"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q006",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 6,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A interrogação direta numa frase é a que leva a uma resposta de sim ou não. Assinale a frase que está nesse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Será que vai chover no final de semana?"
+      },
+      {
+        "letra": "B",
+        "texto": "Quando haverá novas eleições?"
+      },
+      {
+        "letra": "C",
+        "texto": "Como ele conseguiu essa proeza?"
+      },
+      {
+        "letra": "D",
+        "texto": "Onde fica a nova agência do banco?"
+      },
+      {
+        "letra": "E",
+        "texto": "Por que tudo está tão caro? GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-bechara",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-cunha-cintra",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-gram"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q007",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 7,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale a frase em que a palavra sublinhada está empregada corretamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Chegamos meios cansados."
+      },
+      {
+        "letra": "B",
+        "texto": "Ela estava meia abatida."
+      },
+      {
+        "letra": "C",
+        "texto": "As frutas estavam meio caras."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos meio tempos, os times mudam."
+      },
+      {
+        "letra": "E",
+        "texto": "Ficaram todos meios tristes com o ocorrido."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-bechara",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-cunha-cintra",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-gram"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q008",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 8,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale a frase em que a colocação do pronome oblíquo está correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Me mostraram a prova do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "Deram-me três dias de prazo."
+      },
+      {
+        "letra": "C",
+        "texto": "Não deu-me a menor importância."
+      },
+      {
+        "letra": "D",
+        "texto": "Quem viu-me fazer isso?"
+      },
+      {
+        "letra": "E",
+        "texto": "Ninguém observou-me durante a corrida."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-bechara",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-cunha-cintra",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-gram"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q009",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 9,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale a frase cuja pontuação está correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A verdade, como todos sabem incomoda."
+      },
+      {
+        "letra": "B",
+        "texto": "Você Paulo, me deve um grande favor."
+      },
+      {
+        "letra": "C",
+        "texto": "Eis a verdade: nada dura a vida toda."
+      },
+      {
+        "letra": "D",
+        "texto": "Eu, cumpri o meu dever."
+      },
+      {
+        "letra": "E",
+        "texto": "Nós, graças a Deus, estamos, bem."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-bechara",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-cunha-cintra",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-gram"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q010",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 10,
+    "disciplina": "Língua Portuguesa",
+    "tipo": "concurso",
+    "tema": "portugues",
+    "subtema": null,
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Assinale o vocábulo que mostra correta grafia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "analizar."
+      },
+      {
+        "letra": "B",
+        "texto": "democratisar."
+      },
+      {
+        "letra": "C",
+        "texto": "concretizar."
+      },
+      {
+        "letra": "D",
+        "texto": "gazeificar."
+      },
+      {
+        "letra": "E",
+        "texto": "civilisar."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-volp",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-bechara",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "port-gram"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q011",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 11,
+    "disciplina": "Legislação EBSERH",
+    "tipo": "concurso",
+    "tema": "legislacao_institucional",
+    "subtema": "Regulamento de Pessoal da Ebserh",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O Regulamento de Pessoal da Ebserh disciplina, em âmbito geral, os direitos, os deveres, as obrigações e as penalidades aplicáveis aos integrantes do quadro de pessoal da Ebserh, de suas filiais e das demais unidades descentralizadas. Com base em seus conhecimentos sobre o Regulamento de Pessoal da Ebserh, avalie as afirmativas a seguir. I. É vedado ao empregado efetuar ressarcimento de valores pela utilização de equipamentos da empresa, para uso pessoal, na forma regulada em norma específica. II. É direito do colaborador organizar ou participar de quaisquer atividades político-partidárias nas dependências da Ebserh. III. Os cargos em comissão e as funções gratificadas constituem cargos de confiança e caracterizam-se por atividades de direção, assessoramento ou chefia. Está correto apenas o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "II. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "ebserh-regulamento-pessoal",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "leg-ebserh"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q012",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 12,
+    "disciplina": "Legislação EBSERH",
+    "tipo": "concurso",
+    "tema": "legislacao_institucional",
+    "subtema": "Lei 12.550/2011: criação e regras da Ebserh",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Conforme a Lei Federal nº 12.550, de 15 de dezembro de 2011, avalie as afirmativas a seguir acerca da regulamentação da Ebserh. I. A Ebserh, respeitado o princípio da autonomia universitária, poderá prestar os serviços relacionados às suas competências mediante contrato com as instituições federais de ensino ou instituições congêneres. II. A Ebserh será administrada por um Conselho de Administração, com funções deliberativas, e por uma Diretoria Executiva, e contará, ainda, com um Conselho Fiscal e um Conselho Consultivo. III. O regime de pessoal permanente da Ebserh será o da Consolidação das Leis do Trabalho. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "lei-12550-2011",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "leg-ebserh"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q013",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 13,
+    "disciplina": "Legislação EBSERH",
+    "tipo": "concurso",
+    "tema": "legislacao_institucional",
+    "subtema": "Estatuto Social da Ebserh (Decreto 7.661/2011)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Conforme o Decreto nº 7.661, de 28 de dezembro de 2011, que aprova o Estatuto Social da Empresa Brasileira de Serviços Hospitalares – Ebserh e dá outras providências, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o órgão de orientação superior da Ebserh é o Conselho de Administração, composto por nove membros, três dos quais indicados pelo Ministro da Saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "o prazo de gestão dos membros do Conselho de Administração será de dois anos contados a partir da data de publicação do ato de nomeação, não podendo ser os membros reconduzidos por período subsequente."
+      },
+      {
+        "letra": "C",
+        "texto": "no caso de vacância definitiva do cargo de Conselheiro, o substituto será nomeado pelo Ministro de Estado referente."
+      },
+      {
+        "letra": "D",
+        "texto": "compete ao Conselho de Administração apreciar os relatórios anuais de auditoria e as informações sobre os resultados da ação da Ebserh, bem como sobre os principais projetos por esta apoiados."
+      },
+      {
+        "letra": "E",
+        "texto": "o Presidente da Empresa poderá exercer a Presidência do Conselho, de forma interina, por até 30 dias."
+      }
+    ],
+    "gabarito": null,
+    "anulada": true,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "ebserh-estatuto-social",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "leg-ebserh"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q014",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 14,
+    "disciplina": "Legislação EBSERH",
+    "tipo": "concurso",
+    "tema": "legislacao_institucional",
+    "subtema": "Conselho Consultivo da Ebserh",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O Conselho Consultivo é órgão permanente da Ebserh que tem as finalidades de consulta, controle social e apoio à Diretoria Executiva e ao Conselho de Administração. Sobre a constituição do Conselho de Administração da Ebserh, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a atuação de membros da sociedade civil no Conselho Consultivo será remunerada e considerada como função relevante, sendo assegurado o reembolso das despesas de locomoção e estada necessárias ao desempenho da função."
+      },
+      {
+        "letra": "B",
+        "texto": "deve ter um representante dos trabalhadores dos hospitais universitários federais administrados pela Ebserh, indicado pela respectiva entidade representativa."
+      },
+      {
+        "letra": "C",
+        "texto": "deve ter dois representantes do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "os membros do Conselho Consultivo serão indicados anualmente pelos respectivos órgãos e pelas entidades e designados pelo Ministro de Estado da Educação."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ter um representante do Ministério da Educação. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": null,
+    "anulada": true,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "ebserh-estatuto-social",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "leg-ebserh"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q015",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 15,
+    "disciplina": "Legislação EBSERH",
+    "tipo": "concurso",
+    "tema": "legislacao_institucional",
+    "subtema": "Código de Ética e Conduta da Ebserh",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O Código de Ética e Conduta da Ebserh apresenta os princípios e os valores requeridos de seus colaboradores. Ele é o norteador principiológico de ações, buscando assegurar, em um patamar superior de ética e valores, a todas as categorias e níveis hierárquicos, uma conduta íntegra no relacionamento com pacientes e seus familiares, com colegas, com fornecedores e com o público em geral. Nesse sentido, trata-se de um documento balizador das condutas pessoais e profissionais de todos os empregados da Ebserh, independentemente do cargo ou da função que ocupem. Assinale a afirmativa correta acerca dos ditames do Código de Ética e Conduta da Ebserh.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os colaboradores em cargos de chefia deverão contribuir para o estabelecimento e a manutenção de um ambiente de trabalho em que prevaleçam a cooperação, a eficiência, a dedicação, a iniciativa, a justiça, a responsabilidade, a transparência e a urbanidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A Ebserh buscará adotar medidas para que haja distinção de tratamento entre as pessoas, com respeito à hierarquia e ao desempenho das competências de cada um, em conformidade com os princípios e valores fundamentais."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedado ao colaborador atuar, com ganho financeiro ou não, em conflito com o desenvolvimento das atividades da organização."
+      },
+      {
+        "letra": "D",
+        "texto": "É direito do colaborador alegar desconhecimento deste Código para tentar defender-se em caso de cometimento de infração."
+      },
+      {
+        "letra": "E",
+        "texto": "Os conselheiros e diretores da Ebserh devem se comprometer no sentido de não serem coniventes com qualquer infração a este Código, bem como aos demais atos normativos da empresa."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "ebserh-codigo-etica",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "leg-prof",
+      "leg-ebserh"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q016",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 16,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Programa de Equidade de Gênero e Raça no SUS",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Portaria GM/MS nº 230, de 7 de março de 2023, institui o Programa Nacional de Equidade de Gênero, Raça e Valorização das Trabalhadoras no Sistema Único de Saúde (SUS). Avalie se as diretrizes da referida Portaria incluem: I. transversalizar os princípios do Programa Nacional de Equidade de Gênero e Raça e Valorização das Trabalhadoras no SUS para que estejam presentes nas demais políticas públicas; II. articular, no âmbito federal, a definição de estratégias de equidade de gênero e raça no trabalho na área da saúde; III. fomentar programas de prevenção e combate ao assédio moral e sexual no trabalho compreendendo a dimensão de gênero e raça. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-230-2023",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q017",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 17,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Conselhos de Saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Resolução CNS nº 453, de 10 de maio de 2012, aprova diretrizes para a instituição, a reformulação, a reestruturação e o funcionamento dos Conselhos de Saúde. De acordo com essa Resolução, o Conselho de Saúde será composto por representantes de entidades, instituições e movimentos representativos de usuários, de entidades representativas de trabalhadores da área da saúde, do governo e de entidades representativas de prestadores de serviços de saúde, sendo o seu presidente eleito entre os membros do Conselho, em reunião plenária. A referida Resolução preconiza que, de acordo com o que propõem as Resoluções nº 33/92 e nº 333/03 do CNS e de acordo com as Recomendações da 10ª e da 11ª Conferências Nacionais de Saúde, a seguinte distribuição de número de conselheiros está correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15% de representantes sindicais."
+      },
+      {
+        "letra": "B",
+        "texto": "30% de entidades e movimentos representativos de usuários."
+      },
+      {
+        "letra": "C",
+        "texto": "40% de representação de prestadores de serviços privados conveniados, ou sem fins lucrativos."
+      },
+      {
+        "letra": "D",
+        "texto": "50% de representantes do governo."
+      },
+      {
+        "letra": "E",
+        "texto": "25% de entidades representativas dos trabalhadores da área de saúde."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cns-453-2012",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "lei-8142-1990",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-controle"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q018",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 18,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "seguranca",
+    "subtema": "Boas Práticas de Funcionamento dos serviços de saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Resolução da Diretoria Colegiada da Agência Nacional de Vigilância Sanitária (RDC nº 63, de 25 de novembro de 2011) estabelece os requisitos de boas práticas de funcionamento para os serviços de saúde e os padrões para o funcionamento dos serviços de atenção à saúde fundamentados na qualificação, na humanização da atenção e da gestão e na redução e no controle de riscos aos usuários e ao meio ambiente. Conforme os ditames da RDC nº 63, de 25 de novembro de 2011, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Este Regulamento Técnico se aplica aos serviços de saúde no país, sejam eles públicos, filantrópicos, civis ou militares, incluindo aqueles que exercem ações de ensino e pesquisa."
+      },
+      {
+        "letra": "B",
+        "texto": "Os conceitos de Garantia da Qualidade e Boas Práticas de Funcionamento (BPF) são independentes, estando descritos nesta resolução de forma a individualizar a sua importância para o funcionamento dos serviços de saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "O serviço de saúde deve ser capaz de ofertar serviços, dentro dos padrões de qualidade exigidos, de forma independente dos requisitos das legislações e dos regulamentos vigentes."
+      },
+      {
+        "letra": "D",
+        "texto": "As reclamações sobre os serviços oferecidos devem ser examinadas e registradas, e as causas dos desvios da qualidade, investigadas e documentadas, devendo ser tomadas medidas com relação aos serviços que apresentem desvio da qualidade e adotadas as providências no sentido de prevenir reincidências."
+      },
+      {
+        "letra": "E",
+        "texto": "Os dados que compõem o prontuário pertencem ao serviço de saúde e devem estar permanentemente disponíveis aos pacientes ou aos seus representantes legais e à autoridade sanitária quando necessário. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "rdc-63-2011",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-sanit",
+      "gest-qual"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q019",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 19,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Estratégia Saúde da Família",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Estratégia Saúde da Família visa à reorganização da atenção básica no país, de acordo com os preceitos do Sistema Único de Saúde, e é tida pelo Ministério da Saúde e pelos gestores estaduais e municipais como estratégia de expansão, qualificação e consolidação da atenção básica por favorecer uma reorientação do processo de trabalho com maior potencial de aprofundar os princípios, as diretrizes e os fundamentos da atenção básica, de ampliar a resolutividade e o impacto na situação de saúde das pessoas e coletividades, além de propiciar uma importante relação custo-efetividade. (Política Nacional da Atenção Básica, pag. 54) Nesse sentido, avalie se os itens necessários à Estratégia Saúde da Família incluem: I. existência de equipe multiprofissional (equipe de Saúde da Família); II. número de Agentes Comunitários de Saúde (ACS) suficiente para cobrir 100% da população cadastrada, com um máximo de 750 pessoas por ACS e de 12 ACS por equipe de Saúde da Família, não ultrapassando o limite máximo recomendado de pessoas por equipe; III. cada equipe de Saúde da Família deve ser responsável por, no máximo, 4.000 pessoas, sendo a média recomendada de 3.000, respeitando critérios de equidade para essa definição; IV. cadastramento de cada profissional de saúde em apenas uma eSF, exceção feita somente ao profissional médico, que poderá atuar em, no máximo, duas eSF e com carga horária total de 40 horas semanais. Estão corretos os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": null,
+    "anulada": true,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-2436-2017",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q020",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 20,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Política Nacional de Atenção Básica",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Política Nacional de Atenção Básica (PNAB) é resultado da experiência acumulada pelo conjunto de atores envolvidos historicamente com o desenvolvimento e a consolidação do Sistema Único de Saúde (SUS), como movimentos sociais, usuários, trabalhadores e gestores das três esferas de governo. Avalie se as competências das Secretarias Estaduais de Saúde e do Distrito Federal incluem: I. prestar apoio institucional aos gestores dos Estados, ao Distrito Federal e aos Municípios no processo de qualificação e de consolidação da atenção básica; II. estabelecer, de forma tripartite, as diretrizes nacionais e disponibilizar instrumentos técnicos e pedagógicos que facilitem o processo de gestão, formação e educação permanente dos gestores e profissionais da atenção básica; III. consolidar, analisar e transferir para o Ministério da Saúde os arquivos dos sistemas de informação enviados pelos Municípios de acordo com os fluxos e prazos estabelecidos para cada sistema. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-2436-2017",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q021",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 21,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Financiamento: LC 141/2012",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Lei Complementar nº 141/2012 dispõe, em seu Capítulo III, sobre a aplicação de recursos em ações e serviços públicos de saúde. Com base na lei, avalie as afirmativas a seguir acerca dos recursos mínimos. I. A União aplicará, anualmente, em ações e serviços públicos de saúde, o montante correspondente ao valor empenhado no exercício financeiro anterior, apurado nos termos desta Lei Complementar, acrescido de, no mínimo, o percentual correspondente à variação nominal do Produto Interno Bruto (PIB) ocorrida no ano anterior ao da Lei Orçamentária Anual (LOA). II. Em caso de variação negativa do PIB, o valor de que trata o item I acima poderá ser reduzido, em termos nominais, de um exercício financeiro para o outro. III. Os Estados, o Distrito Federal e os Municípios deverão observar o disposto nas respectivas Constituições ou Leis Orgânicas sempre que os percentuais nelas estabelecidos forem superiores aos fixados nesta Lei Complementar para a aplicação em ações e serviços públicos de saúde. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III, apenas."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "lc-141-2012",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-financ"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q022",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 22,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Redes de Atenção à Saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "As Redes de Atenção à Saúde (RAS) são conjuntos de serviços de saúde que se organizam para garantir a integralidade do cuidado e o acesso dos usuários do Sistema Único de Saúde (SUS). O objetivo é que cada pessoa seja atendida pelo serviço mais adequado à sua situação de saúde, de forma contínua, integral, de qualidade e humanizada. A Portaria de Consolidação GM/MS nº 3/2017 apresenta os fundamentos para que as Redes de Atenção à Saúde sejam efetivadas de forma eficiente e com qualidade. Acerca do tema, considere a sentença a seguir. Os serviços de menor densidade tecnológica, como os das Unidades Básicas de Saúde (UBS), são ofertados de forma dispersa, uma vez que se beneficiam menos dela, enquanto os serviços com maior densidade tecnológica se beneficiam mais. A sentença se refere à seguinte diretriz/estratégia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "economia de escala."
+      },
+      {
+        "letra": "B",
+        "texto": "suficiência e qualidade."
+      },
+      {
+        "letra": "C",
+        "texto": "disponibilidade de recursos."
+      },
+      {
+        "letra": "D",
+        "texto": "integração vertical."
+      },
+      {
+        "letra": "E",
+        "texto": "integração horizontal. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-4279-2010",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q023",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 23,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Portaria GM/MS 1.526/2023",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Portaria GM/MS nº 1.526, de 11 de outubro de 2023 altera as Portarias de Consolidação GM/MS nº 2, nº 3 e nº 6, de 28 de setembro de 2017, para dispor sobre a Política Nacional de Atenção Integral à Saúde da Pessoa com Deficiência (PNAISPD) e Rede de Cuidados à Pessoa com Deficiência (RCPD) no âmbito do Sistema Único de Saúde (SUS). A PNAISPD tem por objetivo promover e proteger a saúde da pessoa com deficiência, por meio da ampliação do acesso ao cuidado integral no âmbito do SUS, em articulação com as demais políticas e ações intersetoriais, contribuindo para sua autonomia, qualidade de vida e inclusão social, bem como prevenindo diferentes agravos à saúde em todos os ciclos de vida. Avalie se os princípios ou as diretrizes estabelecidos pela Política Nacional de Atenção Integral à Saúde da Pessoa com Deficiência (PNAISPD) incluem: I. Gestão federativa das ações de saúde voltadas à pessoa com deficiência. II. Estímulo à isonomia dos cuidados com as pessoas com deficiência. III. Promoção da acessibilidade em suas diferentes dimensões. Está correto o que se apresenta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III, apenas."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-1526-2023",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q024",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 24,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "vigilancia",
+    "subtema": "Política Nacional de Vigilância em Saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Política Nacional de Vigilância em Saúde (PNVS) é um guia que orienta as ações de vigilância em saúde no Brasil. A PNVS define os princípios, as diretrizes e as estratégias para o desenvolvimento da vigilância em saúde, sob a gestão do SUS. Em relação à PNVS, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é uma política pública de Estado e função essencial do SUS, tendo caráter universal, horizontal e orientador do modelo de atenção nos territórios, sendo a sua gestão de responsabilidade exclusiva do Poder Público."
+      },
+      {
+        "letra": "B",
+        "texto": "incide sobre todos os níveis e todas as formas de atenção à saúde, abrangendo os serviços de saúde públicos, além de estabelecimentos relacionados à produção e circulação de bens de consumo e tecnologias que, direta ou indiretamente, se relacionem com a saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "compreende a articulação dos saberes, dos processos e das práticas relacionados à vigilância epidemiológica, vigilância em saúde ambiental, vigilância em saúde do trabalhador e vigilância sanitária e alinha-se com o conjunto de políticas de saúde no âmbito do SUS, considerando a transversalidade das ações de vigilância em saúde sobre a determinação do processo saúde-doença."
+      },
+      {
+        "letra": "D",
+        "texto": "tem como finalidade definir os princípios, as diretrizes e as estratégias a serem observados pela esfera federal de gestão do SUS para o desenvolvimento da vigilância em saúde, objetivando a promoção e a proteção da saúde e a prevenção de doenças e agravos."
+      },
+      {
+        "letra": "E",
+        "texto": "a análise de situação de saúde e as ações laboratoriais são atividades horizontais e essenciais no processo de trabalho da Vigilância em Saúde. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cns-588-2018",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-pnvs",
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q025",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 25,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "vigilancia",
+    "subtema": "Vigilância de eventos adversos de produtos (Notivisa)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "No Brasil, a vigilância de eventos adversos relacionados ao uso dos produtos que estão sob a vigilância sanitária inclui o monitoramento do uso desses produtos e tem como objetivo fundamental a detecção precoce de problemas relacionados a esse uso para desencadear as medidas pertinentes para que o risco seja interrompido ou minimizado. Em relação ao tema, avalie as afirmativas a seguir acerca do Sistema de Notificação de Eventos Adversos no Brasil. I. A notificação do cidadão é obrigatória, os dados sobre os notificadores são confidenciais, obedecidos os dispositivos legais, e sua guarda é de responsabilidade do Sistema Nacional de Vigilância Sanitária (SNVS). II. As notificações estarão acessíveis à unidade de saúde envolvida no relato para o devido tratamento. III. A linguagem a ser utilizada na notificação deve ser adaptada e amigável, de forma a promover a participação dos diferentes públicos. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III, apenas."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-anvisa-notivisa",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-rouquayrol",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-sanit",
+      "gest-qual"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q026",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 26,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "gestao",
+    "subtema": "Educação Permanente em Saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Política Nacional de Educação Permanente em Saúde (PNEPS- SUS) reafirma o compromisso com a universalidade, a equidade, a integralidade e a efetiva participação popular no SUS e propõe uma prática político-pedagógica que perpassa as ações voltadas para a promoção, proteção e recuperação da saúde, a partir do diálogo entre a diversidade de saberes, valorizando os saberes populares, a ancestralidade, o incentivo à produção individual e coletiva de conhecimentos e a inserção destes no SUS. Conforme a Portaria nº 2.761, de 19 de novembro de 2013, compete ao Ministério da Saúde",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estabelecer estratégias e ações de planejamento, monitoramento e avaliação da PNEPS-SUS construídas de forma participativa com atores da sociedade civil implicados com a Educação Popular em Saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "estabelecer estratégias e ações de planejamento, monitoramento e avaliação da PNEPS-SUS construídas no âmbito do Comitê Nacional de Educação Popular em Saúde (CNEPS)."
+      },
+      {
+        "letra": "C",
+        "texto": "garantir a inclusão da PNEPS-SUS nos respectivos Planos Municipais Plurianuais de Saúde, em consonância com as realidades, demandas e necessidades locais."
+      },
+      {
+        "letra": "D",
+        "texto": "estabelecer e implementar estratégias e ações de planejamento, monitoramento e avaliação da PNEPS-SUS construídas de forma participativa com atores da sociedade civil implicados com a Educação Popular em Saúde."
+      },
+      {
+        "letra": "E",
+        "texto": "garantir financiamento complementar aos Municípios para a implantação da PNEPS-SUS. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-1996-2007",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "gest-edu"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q027",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 27,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Decreto 7.508/2011",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O Decreto nº 7.508, de 28 de junho de 2011, regulamenta a Lei nº 8.080, de 19 de setembro de 1990, que trata do Sistema Único de Saúde (SUS). O referido decreto dispõe sobre a organização do SUS, o planejamento da saúde, a assistência à saúde e a articulação interfederativa. Com base nesse decreto, em relação ao planejamento da saúde, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o planejamento da saúde em âmbito municipal deve ser realizado de maneira regionalizada, a partir das necessidades dos Municípios, considerando o estabelecimento de metas de saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "o Mapa da Saúde será utilizado na identificação das necessidades de saúde e orientará o planejamento integrado dos Municípios, contribuindo para o estabelecimento de metas de saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "o planejamento da saúde é obrigatório para os entes privados e será indutor de políticas para a iniciativa da saúde pública."
+      },
+      {
+        "letra": "D",
+        "texto": "o processo de planejamento da saúde será ascendente e integrado, do nível local até o federal, ouvidos os respectivos Conselhos de Saúde, compatibilizando-se as necessidades das políticas de saúde com a disponibilidade de recursos financeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "compete à Comissão Intergestores Tripartite pactuar as etapas do processo e os prazos do planejamento municipal em consonância com os planejamentos municipal, estadual e nacional."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "decreto-7508-2011",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q028",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 28,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Seguridade social na Constituição",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Conforme a Constituição Federal de 1988, no seu Art. 194: A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social. Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social... Avalie se os objetivos que baseiam a organização da seguridade social incluem: I. Irredutibilidade do valor dos benefícios. II. Universalidade da cobertura e do atendimento. III. Caráter democrático e descentralizado da Administração. IV. Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais. Estão corretos os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "cf-1988-saude",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q029",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 29,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "seguranca",
+    "subtema": "Boas Práticas de Funcionamento (RDC 63)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A RDC nº 63, de 25 de novembro de 2011, objetiva estabelecer requisitos de Boas Práticas de Funcionamento (BPF) para os serviços de saúde, fundamentados na qualificação, na humanização da atenção e gestão e na redução e no controle de riscos aos usuários e meio ambiente. A referida RDC define que o serviço de saúde deve estabelecer estratégias e ações voltadas para a segurança do paciente. De acordo com essa RDC, as estratégias voltadas para a segurança do paciente incluem as elencadas a seguir, à exceção de uma. Assinale-a.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Implementação de mecanismos de identificação do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Orientações para limitar a participação do paciente na assistência prestada."
+      },
+      {
+        "letra": "C",
+        "texto": "Ações de prevenção e controle de eventos adversos relacionados à assistência à saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "Implementação de mecanismos para a prevenção de quedas dos pacientes."
+      },
+      {
+        "letra": "E",
+        "texto": "Orientações para a higienização das mãos."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "rdc-63-2011",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-sanit",
+      "gest-qual"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q030",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 30,
+    "disciplina": "Políticas Públicas de Saúde e Educação",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Carta dos direitos e deveres da pessoa usuária",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Resolução CNS nº 553, de 9 de agosto de 2017, dispõe sobre a carta dos direitos e deveres da pessoa usuária da saúde. Conforme a sua terceira diretriz, toda pessoa tem direito ao atendimento inclusivo, humanizado e acolhedor, realizado por profissionais qualificados, em ambiente limpo, confortável e acessível. Avalie, com base nessa diretriz, as afirmativas a seguir: I. Nos serviços de saúde, será dada igual visibilidade aos direitos e deveres das pessoas usuárias e das pessoas que trabalham no serviço de saúde. II. A Rede de Serviços do SUS utilizará as tecnologias disponíveis para facilitar o agendamento de procedimentos nos serviços de saúde em todos os níveis de complexidade. III. Os serviços de saúde serão organizados de acordo com a demanda da população, e não limitados por produção ou quantidades de atendimento predeterminados. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III, apenas. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cns-553-2017",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-controle"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q031",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 31,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "fund",
+    "subtema": "Preparo de medicamento em frasco-ampola",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Ao preparar a administração de medicamento endovenoso no posto de enfermagem, uma das apresentações de medicamentos é em forma de frasco-ampola. Ao final da aspiração, o frasco será descartado. De acordo com a RDC nº 222, de 28 de março de 2018, sobre o descarte desse tipo de frasco de medicamentos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no caso de descartá-lo em recipientes de papelão em bancadas com pia, recomenda-se que estes recipientes fiquem suspensos por suporte para evitar o contato com água."
+      },
+      {
+        "letra": "B",
+        "texto": "não podem ser descartados em recipiente de papelão, pois trata-se de resíduo classificado como produto químico."
+      },
+      {
+        "letra": "C",
+        "texto": "o frasco-ampola não é considerado “resíduo de serviços de saúde” e, portanto, a RDC nº 222 de 2018 não se aplica ao seu descarte."
+      },
+      {
+        "letra": "D",
+        "texto": "obrigatoriamente, o descarte de frascos-ampola de medicamentos deve ser feito em saco branco leitoso."
+      },
+      {
+        "letra": "E",
+        "texto": "se o frasco-ampola for de antibiótico, o descarte só pode ser feito em sacos vermelhos."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-giovani",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "farm-adm"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q032",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 32,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "etica",
+    "subtema": "Código de Ética dos Profissionais de Enfermagem",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Profissionais de saúde lidam com a vida e são postos diariamente frente a dilemas, muitos deles de cunho ético. Para uma atuação segura, o profissional deve se valer dos princípios universais da bioética e dos dispositivos legais da profissão. Por isso o profissional precisa conhecer a legislação e saber aplicá-la na orientação de suas ações, na garantia dos direitos humanos, dos direitos e deveres profissionais. Sobre esse tema, avalie as afirmativas a seguir. I. O Código de Ética dos Profissionais de Enfermagem menciona a Declaração Universal sobre Bioética e Direitos Humanos de 2005; no âmbito dessa Declaração, os interesses e o bem-estar do indivíduo devem ter prioridade sobre o interesse exclusivo da ciência ou da sociedade. II. Um trabalhador pede demissão por estar insatisfeito com a instituição e passa a difamá-la e também ao Conselho Regional de Enfermagem de seu estado; de acordo com o Código de Ética dos Profissionais de Enfermagem, essa infração é considerada grave e passível de receber como penalidade a censura. III. Para dar segurança aos usuários, uma instituição de saúde propôs a um trabalhador técnico de enfermagem a filmagem de atividades realizadas por ele, utilizando corretamente os equipamentos de proteção individual, com o objetivo de compor conteúdos das mídias sociais da instituição; pautado no Código de Ética dos Profissionais de Enfermagem, o técnico de enfermagem pode se negar a atender a esse pedido. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III, apenas. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cofen-564-2017",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q033",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 33,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "vigilancia",
+    "subtema": "Vigilância em saúde ambiental",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A vigilância em saúde ambiental se dedica ao estudo e à proposição de medidas de atenção integral à saúde de pessoas expostas a riscos relacionados a substâncias químicas advindas das inter-relações entre o homem e o ambiente. No atendimento de enfermagem a um adulto trabalhador com intoxicação aguda por agrotóxicos, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na medida dos sinais vitais, a FC (frequência cardíaca) foi de menos de 40; nesse caso, essa taquicardia indica comprometimento cardiovascular."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o trabalhador em questão estiver com sintomas leves, o técnico de enfermagem atua no monitoramento por um período mínimo de 6 a 12 horas, acompanhando os seguintes parâmetros: estado de alerta; sinais neurológicos; sinais vitais; se possível, oximetria de pulso."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas estratégias terapêuticas indicadas não se considera a toxicodinâmica da substância química, mas apenas a sua toxicocinética, pois, para o tratamento, é importante saber a distribuição, o metabolismo e a excreção do agente tóxico."
+      },
+      {
+        "letra": "D",
+        "texto": "Na realização do cuidado de descontaminação ocular, os olhos devem ser lavados com as pálpebras abertas e com fluxo contínuo de água, pois no caso de intoxicação com agrotóxico não se pode usar solução fisiológica."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de descontaminação gástrica, o técnico de enfermagem deve ajudar o paciente na indução ao vômito e usar Equipamento de Proteção Individual (EPI)."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-ms-agrotoxicos",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-amb"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q034",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 34,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "sus",
+    "subtema": "Programa Nacional de Controle do Tabagismo",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Portaria GM/MS nº 502, de 1º de junho de 2023, institui o Programa Nacional de Controle do Tabagismo (PNCT) no âmbito do Sistema Único de Saúde (SUS). Considerando os eixos estruturantes desse Programa, o técnico de enfermagem exerce um importante papel junto aos trabalhadores, de modo a ajudá-los nas medidas de promoção da saúde, prevenção e tratamento do tabagismo. Para uma atuação responsável e eficaz, o conhecimento sobre esse tema é primordial na elaboração de ações de educação em saúde. Nesse contexto, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O fumo passivo acomete especialmente as crianças, que correm o risco de desenvolver pneumonia, bronquite, agravamento de asma; com os adultos ocorrem incômodos, mas eles não correm risco de ter as mesmas doenças que o fumante. ( ) Deve-se informar ao tabagista que, entre os tratamentos disponíveis no SUS, há o medicamentoso por meio de adesivo, goma e pastilha, e que a duração do tratamento é de 12 meses e inclui a manutenção da abstinência. ( ) Se o trabalhador manifestar preocupação com o ganho de peso deve ser orientado para o fato de que isso é temporário, e que, na maioria dos casos, ocorre nos primeiros meses pós-cessação. ( ) A alternativa de uso de cigarros eletrônicos deve ser descartada, pois ele aumenta o risco para a síndrome respiratória aguda grave e, além disso, os cigarros eletrônicos podem causar danos ambientais tais como incêndios e explosões. As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – V – V – F."
+      },
+      {
+        "letra": "B",
+        "texto": "V – F – V – F."
+      },
+      {
+        "letra": "C",
+        "texto": "F – V – V – V."
+      },
+      {
+        "letra": "D",
+        "texto": "V – V – F – V."
+      },
+      {
+        "letra": "E",
+        "texto": "F – V – F – V. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-502-2023",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q035",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 35,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Ergonomia e postura",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Na análise dos ambientes de trabalho é fundamental aplicar os conhecimentos de ergonomia. E observar a postura na realização do trabalho é importante para respeitar a biomecânica. Sobre a relação da ergonomia e a biomecânica, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao usar o computador (desktop), o trabalhador deve posicionar o monitor na sua frente e regular a altura da tela para ficar com uma distância entre 30 e 50 cm, para que tenha mais conforto visual."
+      },
+      {
+        "letra": "B",
+        "texto": "Quem trabalha escrevendo por muito tempo, deve ser orientado a manter a mão, o punho e até a metade do antebraço apoiados na mesa, para manter uma posição de conforto."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma das posições usadas por mecânicos de automóveis é a posição deitada. Esta posição costuma ser confortável e não causa esforço estático no tronco e cabeça no tipo de trabalho realizado por estes trabalhadores."
+      },
+      {
+        "letra": "D",
+        "texto": "O trabalhador que precisar se manter na posição ortostática por muito tempo, deve alternar o peso do corpo de um pé para o outro para descansar os músculos das coxas e pernas."
+      },
+      {
+        "letra": "E",
+        "texto": "No desenvolvimento do trabalho na posição de pé, ocorre acentuação da cifose e da escoliose e, por isso, quadril e ombros devem se alinhar de forma assimétrica."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-17",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-ms-ler-dort",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q036",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 36,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "vigilancia",
+    "subtema": "Desastres e exposição a rejeitos de mineração",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Os rompimentos de barragens ocorridos neste século, em Minas Gerais, despejaram milhões de metros cúbicos de rejeitos de minério de ferro e sílica no meio ambiente, além de outros metais pesados. Essas tragédias ambientais evidenciaram ainda mais a importância da vigilância em saúde ambiental, saúde pública e as relações entre a saúde ambiental e a saúde do trabalhador. Em relação ao tema, avalie as afirmativas a seguir. I. Um dos componentes da vigilância em saúde ambiental é a Vigipeq, que trata da Vigilância em Saúde de Populações Expostas a Substâncias Químicas. II. A vigilância à exposição ambiental aos metais pesados na população exposta às citadas tragédias ambientais deve ser feita para monitorar as consequências, especialmente no que se refere ao controle e prevenção do câncer. III. O biomonitoramento humano de substâncias químicas (BioH) é um método de avaliação da exposição humana às substâncias químicas e seus efeitos; por meio da Portaria GM/MS nº 2.018, de 27 de novembro de 2023, o Ministério da Saúde instituiu um grupo de trabalho para elaborar proposta de programa de biomonitoramento humano de substâncias químicas do Brasil. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III, apenas. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "guia-vigilancia-saude",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-rouquayrol",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-amb"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q037",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 37,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Avaliação da força muscular",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Uma das provas funcionais na atenção à saúde do trabalhador e da aptidão para o exercício do trabalho é a avaliação da força muscular por meio do exame de dinamometria. Sobre a força muscular e o exame de dinamometria, avalie as afirmativas a seguir. I. A dinamometria escapular é específica para avaliar a força de preensão das mãos. II. A temperatura ambiente é um dos fatores que influenciam na força muscular. III. No exame de avaliação da resistência estática de membros superiores, o técnico de enfermagem deve oferecer ao trabalhador halteres apropriados para a realização do exame. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "II, apenas."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-kendall",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q038",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 38,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "LER/DORT",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Um dos problemas que acomete os trabalhadores decorre de utilização excessiva (sobrecarga) de determinados grupamentos osteomusculares. Para cuidar da saúde do trabalhador nos casos de Lesão por Esforço Repetitivo (LER) e Distúrbios Osteomusculares Relacionados ao Trabalho (DORT), há cuidados relacionados tanto à prevenção quanto ao tratamento. Sobre a prevenção e o tratamento de LER e DORT, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no caso de diagnóstico de LER/DORT, faz-se tratamento sintomático e acolhimento ao trabalhador, mas não há medidas que possibilitem seu retorno ao trabalho na mesma função/atividade."
+      },
+      {
+        "letra": "B",
+        "texto": "em um programa de prevenção de LER/DORT devem-se considerar os fatores de risco, que são apenas biomecânicos, sensoriais e de organização do trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "conhecer os seguintes aspectos, entre outros, da organização do trabalho é importante nos programas de prevenção: ausência de pausas, organização da produção, exigência de habilidades sincronizada com esforço físico e relações interpessoais."
+      },
+      {
+        "letra": "D",
+        "texto": "projetos mobiliários devem fazer parte dos programas de prevenção para atender às características antropométricas dos trabalhadores; a NR-17 trata das questões antropométricas, mas não aborda o tópico relativo aos mobiliários dos postos de trabalho."
+      },
+      {
+        "letra": "E",
+        "texto": "ginástica laboral é uma estratégia aplicada em algumas instituições para viabilizar a prática de exercícios físicos durante a jornada de trabalho; há três tipos de ginástica laboral, mas nenhuma delas é indicada como prevenção de LER/DORT. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-1999-2023",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-ms-ler-dort",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q039",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 39,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Doenças infectocontagiosas no trabalho",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Doenças infectocontagiosas são sempre preocupantes e podem comprometer de forma importante a saúde do trabalhador. Nesse sentido, o técnico de enfermagem precisa conhecer os meios de propagação e as precauções a serem aplicadas no atendimento de trabalhadores quando se tratar deste tipo de doenças. Nesse contexto, avalie as afirmativas a seguir. I. Na medição da temperatura de um trabalhador com varicela, deve-se tomar cuidado apenas com o contato direto com as vesículas, a única via de transmissão. II. Um trabalhador diagnosticado com caxumba que precisa ser transportado para um atendimento hospitalar, deve seguir com máscara cirúrgica. III. Nos casos de sarampo, para reduzir os riscos de propagação da doença, tanto para casos suspeitos como para os confirmados, a pessoa deve evitar a ida ao trabalho por pelo menos quatro dias, a partir da data de aparecimento do exantema. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-32",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "cli-infec"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q040",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 40,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Condições ambientais de trabalho",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O exercício do trabalho deve ser feito em condições de segurança e qualidade ambiental que previna a ocorrência de desconfortos, doenças e acidentes ocupacionais. Sobre a exposição a ruídos no ambiente laboral, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as leituras dos níveis de ruídos de impacto devem ser feitas a uma distância mínima de 50 cm do ouvido do trabalhador."
+      },
+      {
+        "letra": "B",
+        "texto": "as leituras dos níveis de tolerância para ruídos de impacto são feitas pela unidade de frequência do som (em hertz)."
+      },
+      {
+        "letra": "C",
+        "texto": "a classificação se o ruído é ou não de impacto tem caráter subjetivo e é feita pelo próprio trabalhador."
+      },
+      {
+        "letra": "D",
+        "texto": "a máxima exposição diária permissível em oito horas para ruídos contínuos ou intermitentes é de 85 decibéis (dB)."
+      },
+      {
+        "letra": "E",
+        "texto": "o tempo de exposição aos níveis de ruído não deve exceder aos limites de tolerância fixados pelas Comissões Internas de Prevenção de Acidentes e Assédio (CIPA), que varia em cada empresa/instituição. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-17",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-amb",
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q041",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 41,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "NR 4: SESMT",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Norma Regulamentadora nº 4 (NR-4), caracterizada como Norma Geral pela Portaria SIT nº 787, de 28 de novembro de 2018, estabelece requisitos para os Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho (SESMT) nas empresas. De acordo com essa norma, a quantidade de profissionais do SESMT a ser contratada depende de alguns fatores. Com base na NR-4, assinale a afirmativa correta a respeito do tema.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O SESMT deve ser composto por médicos do trabalho, engenheiros de segurança, enfermeiros do trabalho e técnicos de segurança, de forma obrigatória, em todas as empresas de qualquer porte."
+      },
+      {
+        "letra": "B",
+        "texto": "O SESMT é uma obrigação apenas para empresas de grande porte, independentemente do grau de risco da atividade."
+      },
+      {
+        "letra": "C",
+        "texto": "A NR-4 estabelece que o SESMT deve ser composto por médicos do trabalho, dispensando outros profissionais, como engenheiros de segurança e enfermeiros."
+      },
+      {
+        "letra": "D",
+        "texto": "A quantidade e a composição do SESMT dependem do número de empregados da empresa e da natureza do risco da atividade econômica da empresa."
+      },
+      {
+        "letra": "E",
+        "texto": "As empresas de grande porte não precisam contratar profissionais do SESMT, se realizarem treinamentos de segurança e saúde do trabalhador por meio de consultorias externas."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-4",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q042",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 42,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "NR 6: EPI",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Conforme classificação estabelecida na Portaria SIT n° 787, de 29 de novembro de 2018, a Norma Regulamentadora nº 6 é norma especial, posto que regulamenta a execução do trabalho com uso de Equipamentos de Proteção Individual (EPI), sem estar condicionada a setores ou atividades econômicas específicas. Em relação ao Equipamento de Proteção Individual (EPI), cabe à organização",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solicitar a colaboração do empregado em relação ao seu uso, enfatizando que a utilização é facultativa."
+      },
+      {
+        "letra": "B",
+        "texto": "adquirir os EPIs e fornecê-los aos empregados, não sendo necessário treinamento ou orientação sobre o seu uso."
+      },
+      {
+        "letra": "C",
+        "texto": "registrar o seu fornecimento ao empregado, podendo ser adotados livros, fichas ou sistema eletrônico, inclusive, por sistema biométrico para esse fim."
+      },
+      {
+        "letra": "D",
+        "texto": "fornecer EPIs adequados ao risco, mas não é sua responsabilidade garantir a manutenção ou substituição dos equipamentos danificados ou extraviados."
+      },
+      {
+        "letra": "E",
+        "texto": "exigir o uso de EPIs periodicamente, ou seja, quando houver fiscalização por parte de órgãos competentes em segurança e saúde no trabalho. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-6",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q043",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 43,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "CLT: segurança e medicina do trabalho",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Na atuação profissional, para o exercício pleno de suas funções, o técnico de enfermagem do trabalho precisa ter conhecimento da Consolidação das Leis do Trabalho (CLT), que estabelece diversas obrigações do empregador para garantir a segurança e saúde dos trabalhadores no ambiente de trabalho. Com base na CLT, acerca das atividades insalubres ou perigosas, avalie as afirmativas a seguir. I. Serão consideradas atividades ou operações insalubres aquelas que, por sua natureza, condições ou métodos de trabalho, exponham os empregados a agentes nocivos à saúde acima dos limites de tolerância fixados em razão da natureza e da intensidade do agente e do tempo de exposição aos seus efeitos. II. A eliminação ou a neutralização da insalubridade ocorrerá com a utilização de equipamentos de proteção individual ao trabalhador, que diminuam a intensidade do agente agressivo a limites de tolerância. III. A eliminação ou a neutralização da insalubridade ocorrerá com a adoção de medidas que conservem o ambiente de trabalho sem limites de tolerância e com a utilização de equipamentos de proteção individual ao trabalhador. IV. O exercício de trabalho em condições insalubres, acima dos limites de tolerância estabelecidos pelo Ministério do Trabalho, assegura a percepção de adicional de até 20% do salário-mínimo da região ao trabalhador, independentemente de classificação dos graus de risco. As afirmativas corretas são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "clt",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q044",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 44,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "NR 9: exposições ocupacionais",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Norma Regulamentadora nº 9, NR-9, estabelece os requisitos para a avaliação das exposições ocupacionais a agentes físicos, químicos e biológicos quando identificados no Programa de Gerenciamento de Riscos - PGR, previsto na NR-1, e subsidia o PGR quanto às medidas de prevenção para os riscos ocupacionais. Com base nessa norma sobre exposição ocupacional às Vibrações em Mãos e Braços (VMB) e às Vibrações de Corpo Inteiro (VCI), é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no processo de eliminação ou redução dos riscos relacionados à exposição às vibrações mecânicas devem ser considerados, entre outros fatores, os esforços físicos, e descartados os aspectos posturais."
+      },
+      {
+        "letra": "B",
+        "texto": "é facultativo à organização comprovar, no âmbito das ações de manutenção preventiva e corretiva de veículos, máquinas, equipamentos e ferramentas, a adoção de medidas que visem ao controle e à redução da exposição a vibrações."
+      },
+      {
+        "letra": "C",
+        "texto": "as organizações devem adotar medidas de prevenção e controle da exposição às vibrações mecânicas que possam afetar a segurança e a saúde dos trabalhadores, eliminando o risco ou, onde comprovadamente não houver tecnologia disponível, reduzindo-o aos menores níveis possíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "as organizações devem adotar medidas de prevenção e controle da exposição às vibrações mecânicas em casos em que o trabalhador já apresente sinais de danos à saúde."
+      },
+      {
+        "letra": "E",
+        "texto": "a redução da exposição às vibrações mecânicas é facultativa em ambientes onde não haja regulamentação específica, uma vez que a saúde dos trabalhadores nem sempre é diretamente afetada por esse risco. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-9",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q045",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 45,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Controle social em saúde do trabalhador (Cisttão/CNS)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "No 10º Encontro Nacional das Comissões Intersetoriais de Saúde do Trabalhador e da Trabalhadora (Cisttão), realizado pelo Conselho Nacional de Saúde (CNS) em parceria com a Secretaria de Vigilância em Saúde e Ambiente (SVSA/MS), em julho de 2024, destacou-se que a saúde do trabalhador e da trabalhadora deve ser observada e discutida para além dos espectros dos direitos trabalhista, previdenciário e sanitário, e finalmente alcançar o patamar dos direitos humanos. Essa reflexão, discutida até os dias atuais, remonta ao movimento sanitarista, e culminou com seu reconhecimento na Constituição Federal de 1988. No que se refere ao contexto da saúde do trabalhador e competência do Sistema Único de Saúde no Art. 200 da Constituição Federal de 1988, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A saúde do trabalhador é atualmente uma responsabilidade da Previdência Social, que deve fornecer os cuidados médicos necessários quando o trabalhador adquire doenças ocupacionais, sem envolver a atuação de outros órgãos ou políticas públicas de saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "A Constituição Federal de 1988, em seu Art. 200, assegura a execução de ações de vigilância sanitária, epidemiológica e de saúde do trabalhador e colaboração na proteção do meio ambiente, nele compreendido o do trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "A Constituição Federal de 1988 assegura que a saúde do trabalhador é um direito de trabalhadores formais com carteira assinada, não se aplicando a trabalhadores informais ou autônomos."
+      },
+      {
+        "letra": "D",
+        "texto": "A saúde do trabalhador é uma questão trabalhista, sendo de competência única do Ministério do Trabalho e Emprego, e não se relaciona com os direitos humanos ou com a saúde pública, conforme preconizado pela Constituição Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "A Constituição Federal de 1988 assegura cuidados médicos do trabalhador em relação às condições de aquisição de doença no trabalho, sem se estender à promoção da saúde em um sentido mais amplo, como direito humano."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "lei-8080-1990",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "res-cns-453-2012",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "sus-controle",
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q046",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 46,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "NR 9 e PPRA",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "De acordo com a NR-9, que estabelece os parâmetros para a elaboração e implementação do Programa de Prevenção de Riscos Ambientais (PPRA), assinale a opção que descreve corretamente os elementos que devem fazer parte da estrutura mínima do PPRA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O PPRA deve conter planejamento anual, estratégias de ação, registros e forma de avaliação do desenvolvimento, sendo dispensável estabelecer um cronograma."
+      },
+      {
+        "letra": "B",
+        "texto": "O PPRA deve estabelecer metas e cronograma sem necessidade de estabelecer estratégias ou avaliação contínua."
+      },
+      {
+        "letra": "C",
+        "texto": "O PPRA deve conter a definição de metas e o cronograma de ações, sem necessidade de outras informações adicionais."
+      },
+      {
+        "letra": "D",
+        "texto": "O PPRA deve ser realizado uma única vez, sem necessidade de atualização ou avaliação de suas ações ao longo do ano."
+      },
+      {
+        "letra": "E",
+        "texto": "O PPRA deve conter planejamento anual, estratégias e metodologia de ação, forma de registro e manutenção dos dados, e a periodicidade e forma de avaliação do desenvolvimento. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-9",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q047",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 47,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Organização Internacional do Trabalho",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Organização Internacional do Trabalho (OIT) foi fundada em 1919 com o objetivo de promover a justiça social e melhorar as condições de trabalho em todo o mundo. A OIT tem como um de seus principais objetivos promover normas internacionais para a proteção dos direitos dos trabalhadores, através de Convenções. Por ocasião da reunião do G20, sediada na cidade do Rio de Janeiro em 2024, a OIT pediu ao G20 para reduzir as desigualdades, promover a igualdade de gênero e incentivar a diversidade no mundo do trabalho. Sobre as Convenções da OIT, avalie as afirmativas a seguir. I. As convenções são tratados internacionais sobre um tema determinado, que estabelecem princípios e diretrizes a serem observados pelos países que as assinam. II. As Convenções da OIT são limitadas a condições de trabalho exclusivamente para trabalhadores formais com carteira assinada, não abrangendo trabalhadores informais ou autônomos. III. Indenização por doenças profissionais (Convenção 42), trabalho noturno de mulheres na indústria (Convenção 89), proteção ao salário (Convenção 95), igualdade salarial entre homens e mulheres (Convenção 100), amparo à maternidade (Convenção 103), discriminação em matéria de emprego e profissão (Convenção 111), férias (Convenção 132), incentivo à negociação coletiva (Convenção 154) e piores formas de trabalho infantil e ação imediata para sua eliminação (Convenção 182) são algumas das Convenções ratificadas pelo Brasil. IV. A OIT não possui influência sobre as questões de segurança e saúde no trabalho, sendo sua atuação restrita a questões trabalhistas relacionadas a salários e jornada de trabalho. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II e IV, apenas."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "decreto-1254-1994",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q048",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 48,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Normas de Higiene Ocupacional da Fundacentro",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "As Normas de Higiene Ocupacional (NHOs) compõem uma série de normas técnicas resultantes dos trabalhos técnicos da Fundacentro. Elas abordam diferentes aspectos dos procedimentos e critérios de identificação, avaliação e controle dos riscos e perigos ambientais e profissionais. As NHOs têm como objetivo principal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fomentar a adoção de medidas preventivas contra doenças profissionais e quaisquer outros riscos e fatores potencialmente danosos à saúde e à segurança dos trabalhadores em diversos ambientes ocupacionais."
+      },
+      {
+        "letra": "B",
+        "texto": "fornecer subsídios para a eliminação de todos os riscos ocupacionais sem a necessidade de medidas preventivas."
+      },
+      {
+        "letra": "C",
+        "texto": "criar ambientes livres de riscos físicos, desconsiderando agentes químicos e biológicos."
+      },
+      {
+        "letra": "D",
+        "texto": "regulamentar salários e condições de trabalho, sem abordar os riscos ambientais."
+      },
+      {
+        "letra": "E",
+        "texto": "estimular a formação acadêmica de profissionais da área de saúde, sem relação direta com a segurança no trabalho. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nho-fundacentro",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q049",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 49,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Prevenção de acidentes",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A prevenção de acidentes é o conjunto de práticas e medidas para identificar e mitigar riscos no ambiente de trabalho, promovendo segurança para os trabalhadores e trabalhadoras. A NR-05 estabelece os parâmetros e os requisitos da Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA) tendo por objetivo a prevenção de acidentes e doenças relacionadas ao trabalho, de modo a tornar compatível permanentemente o trabalho com a preservação da vida e promoção da saúde do trabalhador. Sobre a CIPA, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O acompanhamento do processo de identificação de perigos e avaliação de riscos bem como a adoção de medidas de prevenção implementadas pela organização e pela CIPA são facultativos."
+      },
+      {
+        "letra": "B",
+        "texto": "A CIPA tem como objetivo a prevenção de acidentes e doenças decorrentes do trabalho, de modo a tornar compatível, de forma permanente, o trabalho com a preservação da vida e a promoção da saúde do trabalhador."
+      },
+      {
+        "letra": "C",
+        "texto": "A verificação de ambientes e das condições de trabalho visando identificar situações que possam trazer riscos para a segurança e saúde dos trabalhadores pela CIPA é recomendada exclusivamente para empresas de médio e grande porte."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabe à CIPA solicitar à organização informações relacionadas à segurança e saúde dos trabalhadores, salvo as Comunicações de Acidente de Trabalho (CAT), as quais exigem sigilo médico e proteção das informações pessoais dos envolvidos."
+      },
+      {
+        "letra": "E",
+        "texto": "A CIPA deve ser constituída por estabelecimento, composta por representantes do empregador e dos empregados, e dimensionada de acordo com o número de ambientes da empresa."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-5",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q050",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 50,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "fund",
+    "subtema": "Administração intramuscular de dipirona",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Para a administração de dipirona por via intramuscular (IM), é fundamental seguir as normas técnicas e os protocolos de segurança para garantir a eficácia do medicamento e a prevenção de complicações, como lesões teciduais ou infecções. Considerando as boas práticas de enfermagem, assinale a opção que descreve corretamente a técnica para essa administração.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Higienizar as mãos, preparar o medicamento, posicionar o paciente em decúbito lateral, escolher o músculo ventroglúteo, introduzir a agulha em ângulo de 90, aspirar antes de aplicar e descartar a agulha em recipiente adequado."
+      },
+      {
+        "letra": "B",
+        "texto": "Higienizar as mãos, preparar o medicamento, posicionar o paciente sentado, escolher o músculo glúteo, introduzir a agulha em ângulo de 45 e aplicar sem necessidade de aspiração."
+      },
+      {
+        "letra": "C",
+        "texto": "Higienizar as mãos, preparar o medicamento, posicionar o paciente em decúbito ventral, escolher o músculo vasto lateral da coxa, introduzir a agulha em ângulo de 90, aspirar antes de aplicar e realizar movimentos circulares ao retirar a agulha."
+      },
+      {
+        "letra": "D",
+        "texto": "Higienizar as mãos, preparar o medicamento na seringa, posicionar o paciente em decúbito dorsal, escolher o músculo deltoide, introduzir a agulha em ângulo de 90 e realizar movimentos circulares ao retirar a agulha."
+      },
+      {
+        "letra": "E",
+        "texto": "Higienizar as mãos, preparar o medicamento, posicionar o paciente sentado, escolher o músculo deltoide, introduzir a agulha em ângulo de 45, aplicar o medicamento e massagear vigorosamente após a retirada da agulha. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-giovani",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "farm-adm"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q051",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 51,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Política Nacional de Segurança e Saúde no Trabalho",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Política Nacional de Segurança e Saúde no Trabalho-PNSST tem por objetivos a promoção da saúde e a melhoria da qualidade de vida do trabalhador e a prevenção de acidentes e de danos à saúde advindos, relacionados ao trabalho ou que ocorram no curso dele, por meio da eliminação ou redução dos riscos nos ambientes de trabalho. Com base na Política Nacional de Segurança e Saúde no Trabalho, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para o alcance de seu objetivo, a Política Nacional de Segurança e Saúde no Trabalho deverá ser implementada por meio da articulação continuada das ações das empresas no campo das relações de trabalho, produção, consumo, ambiente e saúde, com a participação obrigatória das organizações representativas de trabalhadores e empregadores."
+      },
+      {
+        "letra": "B",
+        "texto": "As ações desenvolvidas no âmbito da Política Nacional de Segurança e Saúde no Trabalho devem constar do Plano Nacional de Segurança e Saúde no Trabalho e incluir todos os trabalhadores brasileiros com carteira assinada no Sistema Nacional de Promoção e Proteção da Saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabe aos Ministérios do Trabalho e Emprego a implementação e a execução da Política Nacional de Segurança e Saúde no Trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabe à Organização Internacional do Trabalho (OIT), nos assuntos de sua área de competência, acompanhar o cumprimento, em âmbito nacional, dos acordos e convenções ratificados pelo Governo brasileiro junto aos organismos internacionais."
+      },
+      {
+        "letra": "E",
+        "texto": "A Política Nacional de Segurança e Saúde no Trabalho tem por princípios: a universalidade; a prevenção; a precedência das ações de promoção, proteção e prevenção sobre as de assistência, reabilitação e reparação; o diálogo social; a integralidade."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "decreto-7602-2011",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q052",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 52,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "mental",
+    "subtema": "Transtornos mentais relacionados ao trabalho",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Os transtornos mentais relacionados ao trabalho são condições que podem surgir a partir de fatores psicossociais e organizacionais no ambiente laboral. Sobre a vigilância e a notificação desses agravos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os transtornos mentais relacionados ao trabalho são de notificação compulsória apenas em casos que envolvam violência física contra trabalhadores."
+      },
+      {
+        "letra": "B",
+        "texto": "a notificação compulsória dos transtornos mentais relacionados ao trabalho no Sistema de Informação de Agravos de Notificação (Sinan) tem caráter epidemiológico e visa orientar intervenções no ambiente laboral."
+      },
+      {
+        "letra": "C",
+        "texto": "a notificação dos casos confirmados de transtornos mentais relacionados ao trabalho é feita exclusivamente para atender exigências legais."
+      },
+      {
+        "letra": "D",
+        "texto": "a confirmação da relação entre transtornos mentais e o trabalho só é válida se realizada por inspeção direta do ambiente laboral."
+      },
+      {
+        "letra": "E",
+        "texto": "o afastamento do trabalhador é obrigatório em todos os casos de transtornos mentais relacionados ao trabalho, independentemente da gravidade dos sintomas. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-1999-2023",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-ms-doencas-trabalho",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-townsend",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "men-clin"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q053",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 53,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "clinica",
+    "subtema": "Desidratação",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Um trabalhador apresenta sinais de desidratação tais como diminuição do volume urinário e urina de coloração escura. O técnico de enfermagem do trabalho deve estar ciente do papel dos rins no equilíbrio hídrico. Acerca do tema, avalie as afirmativas a seguir e escolha a que corretamente descreve como os rins contribuem para a manutenção desse equilíbrio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os rins eliminam exclusivamente a água excedente, mantendo os níveis de sódio constantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Os rins filtram todo o sangue do corpo uma vez ao dia para eliminar toxinas e reabsorver água."
+      },
+      {
+        "letra": "C",
+        "texto": "Os rins regulam o volume de água no corpo ajustando a reabsorção de água nos túbulos renais em resposta ao hormônio antidiurético (ADH)."
+      },
+      {
+        "letra": "D",
+        "texto": "Os rins produzem urina concentrada apenas quando o corpo está em estado de hiper-hidratação."
+      },
+      {
+        "letra": "E",
+        "texto": "Os rins eliminam eletrólitos do corpo em maior quantidade que a água para manter a osmolaridade."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "urg-clin"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q054",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 54,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "NR 32: prevenção de riscos",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Com base na Norma Regulamentadora NR-32 - Segurança e Saúde no Trabalho em Serviços de Saúde (atualizada 2022), uma ação correta em relação à prevenção de acidentes envolvendo materiais perfurocortantes é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reencapar agulhas com cuidado, utilizando técnica manual segura, para evitar acidentes."
+      },
+      {
+        "letra": "B",
+        "texto": "desconectar manualmente agulhas das seringas para facilitar o descarte adequado."
+      },
+      {
+        "letra": "C",
+        "texto": "encaminhar materiais perfurocortantes a um setor específico somente ao final do turno de trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "descartar materiais perfurocortantes diretamente no lixo comum para reduzir custos com descarte especializado."
+      },
+      {
+        "letra": "E",
+        "texto": "utilizar recipientes apropriados para descarte de perfurocortantes e localizá-los em suporte exclusivo e em altura visível."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-32",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "bio-resid"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q055",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 55,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "imunizacao",
+    "subtema": "Ferimento e profilaxia do tétano",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Um trabalhador da construção civil apresenta um ferimento cortante na mão direita, causado por um objeto metálico enferrujado. Durante o atendimento no ambulatório da empresa, o trabalhador informou que recebeu a última dose da vacina antitetânica há 15 anos. A conduta correta a ser tomada pelo técnico de enfermagem do trabalho nesse caso é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realizar a limpeza do ferimento com solução fisiológica, notificar o caso ao médico do trabalho e encaminhar o trabalhador para atualização da vacina antitetânica."
+      },
+      {
+        "letra": "B",
+        "texto": "realizar a limpeza do ferimento com hipoclorito de sódio a 0,1% para desinfecção da ferida e encaminhar o trabalhador para atualização da vacina antitetânica."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar a limpeza do ferimento com solução fisiológica e liberar o trabalhador para voltar ao trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "realizar a limpeza do ferimento com solução fisiológica, aplicar um antibiótico tópico na ferida e encaminhar o trabalhador para atualização da vacina antitetânica."
+      },
+      {
+        "letra": "E",
+        "texto": "realizar a limpeza do ferimento com solução fisiológica, aplicar óleo à base de ácidos graxos essenciais (AGEs) na ferida e liberar o trabalhador para voltar ao trabalho. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "calendario-vacinacao",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-imun",
+      "urg-trauma"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q056",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 56,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "saude_trabalhador",
+    "subtema": "Dermatoses ocupacionais",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "As dermatoses ocupacionais são alterações na pele, mucosa e anexos relacionadas ao ambiente e processos de trabalho. Sobre as características e a vigilância das dermatoses ocupacionais, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As dermatoses ocupacionais são exclusivamente causadas por agentes químicos presentes no ambiente de trabalho. ( ) A notificação de dermatoses ocupacionais no Sinan (Sistema de Informações de Agravos de Notificação) deve ser realizada somente em casos graves que causem incapacidade para o trabalho. ( ) As manifestações clínicas das dermatoses ocupacionais se limitam a eritema e edema, sem apresentar complicações secundárias. ( ) As dermatoses ocupacionais podem ocorrer quando as atividades profissionais desenvolvidas, as condições de trabalho, o uso inadequado ou a falta de Equipamentos de Proteção Individual (EPI) expõem o trabalhador a agentes químicos, físicos, biológicos ou psicossociais. As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – F – F – V."
+      },
+      {
+        "letra": "B",
+        "texto": "F – F – F – V."
+      },
+      {
+        "letra": "C",
+        "texto": "V – V – F – F."
+      },
+      {
+        "letra": "D",
+        "texto": "V – V – V – F."
+      },
+      {
+        "letra": "E",
+        "texto": "F – F – V – V."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "lista-notificacao-compulsoria",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-ms-doencas-trabalho",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-mendes-patologia",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q057",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 57,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "fund",
+    "subtema": "Pressão arterial",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Pressão Arterial (PA) refere-se à pressão exercida pelo sangue contra as paredes das artérias. Em relação ao tema, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A pressão sistólica é a pressão mais alta gerada pelo coração, durante a contração do ventrículo esquerdo. ( ) A pressão diastólica é a pressão mais baixa gerada pelo coração, durante o relaxamento do ventrículo esquerdo. ( ) A pressão sistólica é a pressão mais baixa gerada pelo coração, durante a contração do ventrículo esquerdo. ( ) A pressão diastólica é a pressão mais alta gerada pelo coração, durante o relaxamento do ventrículo esquerdo. As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – F – F – V."
+      },
+      {
+        "letra": "B",
+        "texto": "F – V – F – V."
+      },
+      {
+        "letra": "C",
+        "texto": "V – V – F – F."
+      },
+      {
+        "letra": "D",
+        "texto": "V – V – V – F."
+      },
+      {
+        "letra": "E",
+        "texto": "F – F – V – V. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "diretrizes-has-2020",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "fund-ssvv"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q058",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 58,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "calc",
+    "subtema": "Cálculo e mistura de insulinas",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Para um paciente com diabetes mellitus, a prescrição médica para a administração de insulina é de 14 unidades de insulina regular (R) e 18 unidades de insulina NPH, ambas a serem administradas na mesma seringa, antes do café da manhã. Considerando as boas práticas de preparo e administração de insulina, as etapas que descrevem corretamente o procedimento para a aspiração das doses são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "higienizar as mãos, aspirar primeiro 18 unidades de insulina NPH, depois 14 unidades de insulina regular, evitando misturar as soluções no frasco."
+      },
+      {
+        "letra": "B",
+        "texto": "higienizar as mãos, aspirar 14 unidades de insulina regular primeiro, depois 18 unidades de insulina NPH, evitando misturar as soluções no frasco."
+      },
+      {
+        "letra": "C",
+        "texto": "higienizar as mãos, homogeneizar o frasco da insulina NPH, aspirar primeiro 14 unidades de insulina regular e, em seguida, 18 unidades de insulina NPH."
+      },
+      {
+        "letra": "D",
+        "texto": "higienizar as mãos, homogeneizar o frasco da insulina NPH, aspirar primeiro 18 unidades de insulina NPH, depois 14 unidades de insulina regular."
+      },
+      {
+        "letra": "E",
+        "texto": "higienizar as mãos, misturar a insulina NPH agitando o frasco vigorosamente, aspirar primeiro 18 unidades de insulina NPH e, depois, 14 unidades de insulina regular."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-giovani",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-clayton",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "cli-cron",
+      "farm-calc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q059",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 59,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "bio",
+    "subtema": "Exposição a material biológico",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Um trabalhador do setor de saúde foi exposto acidentalmente a sangue potencialmente contaminado durante a manipulação de materiais perfurocortantes. O técnico de enfermagem do trabalho deve seguir os protocolos de prevenção de doenças infecciosas. A ação adequada a ser tomada imediatamente após a exposição é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lavar o local da exposição com hipoclorito a 1% para desinfetar rapidamente a área."
+      },
+      {
+        "letra": "B",
+        "texto": "encaminhar o trabalhador para exames laboratoriais apenas se apresentar sinais clínicos de infecção após a exposição."
+      },
+      {
+        "letra": "C",
+        "texto": "aplicar um antisséptico à base de clorexidina e aguardar 24 horas antes de relatar o incidente, caso não surjam sintomas."
+      },
+      {
+        "letra": "D",
+        "texto": "lavar o local com água e sabão e notificar o incidente ao serviço de saúde ocupacional para avaliação e seguimento."
+      },
+      {
+        "letra": "E",
+        "texto": "iniciar profilaxia pós-exposição (PPE) somente após a confirmação laboratorial de que o material estava contaminado. GRUPO TÉCNICO EM ENFERMAGEM - ESPECIALIZAÇÃO TÉCNICA EM SAÚDE"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "pcdt-pep",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "nr-32",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "assuntos": [
+      "bio-resid"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "fgv-2025-ebserh-g16-q060",
+    "origem": "prova",
+    "banca": "FGV",
+    "ano": 2025,
+    "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+    "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+    "categoria_profissional": "tecnico_enfermagem",
+    "especialidades": [
+      "Saúde do Trabalhador"
+    ],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Grupo 16",
+    "tipo_prova": "Tipo 1",
+    "numero": 60,
+    "disciplina": "Conhecimentos Específicos",
+    "tipo": "concurso",
+    "tema": "vigilancia",
+    "subtema": "Febre após viagem: doenças de notificação",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Um técnico de enfermagem do trabalho está acompanhando um trabalhador que apresentou febre, cefaleia, mialgia e fadiga após retorno de uma viagem a uma região endêmica de febre amarela. A ação correta a ser realizada pelo técnico de enfermagem nesse caso é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "administrar antitérmicos e liberar o trabalhador para retornar às atividades enquanto monitora os sintomas."
+      },
+      {
+        "letra": "B",
+        "texto": "encaminhar o trabalhador para isolamento domiciliar, recomendando repouso e hidratação sem necessidade de exames."
+      },
+      {
+        "letra": "C",
+        "texto": "registrar os sintomas no prontuário e orientar o uso de Equipamentos de Proteção Individual (EPIs)."
+      },
+      {
+        "letra": "D",
+        "texto": "solicitar diretamente a vacinação contra febre amarela para evitar a evolução da doença e liberar o trabalhador para atividades."
+      },
+      {
+        "letra": "E",
+        "texto": "encaminhar o trabalhador para avaliação médica imediata e notificar o caso à Vigilância Epidemiológica, considerando a possibilidade de doença infecciosa de notificação compulsória. DO TRABALHADOR – TARDE"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "guia-vigilancia-saude",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": "2025-03-16",
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "referencias": [],
+    "assuntos": [
+      "vig-epi"
+    ],
+    "localidade": "Nacional"
+  }
+]

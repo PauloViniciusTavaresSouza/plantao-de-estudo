@@ -1,0 +1,2464 @@
+[
+  {
+    "id": "exemplo-sus-001",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Qual lei dispõe sobre as condições para a promoção, proteção e recuperação da saúde e sobre a organização e o funcionamento dos serviços, conhecida como Lei Orgânica da Saúde?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lei nº 8.080/1990"
+      },
+      {
+        "letra": "B",
+        "texto": "Lei nº 8.142/1990"
+      },
+      {
+        "letra": "C",
+        "texto": "Lei nº 7.498/1986"
+      },
+      {
+        "letra": "D",
+        "texto": "Lei nº 10.216/2001"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A Lei 8.080/1990 é a Lei Orgânica da Saúde. A 8.142/1990 complementa tratando de participação da comunidade e financiamento; a 7.498/1986 regula o exercício da enfermagem; a 10.216/2001 é a Lei da Reforma Psiquiátrica.",
+    "fontes": [
+      {
+        "documento_id": "lei-8080-1990",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-sus-002",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "A Lei nº 8.142/1990 dispõe principalmente sobre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A participação da comunidade na gestão do SUS e as transferências intergovernamentais de recursos"
+      },
+      {
+        "letra": "B",
+        "texto": "O exercício profissional da enfermagem"
+      },
+      {
+        "letra": "C",
+        "texto": "A organização dos Centros de Atenção Psicossocial"
+      },
+      {
+        "letra": "D",
+        "texto": "As normas de biossegurança em serviços de saúde"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A 8.142/1990 cria as instâncias colegiadas (Conferência e Conselho de Saúde) e trata dos repasses de recursos entre as esferas de governo.",
+    "fontes": [
+      {
+        "documento_id": "lei-8142-1990",
+        "dispositivo": "art. 1"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-sus-003",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "São instâncias colegiadas do SUS previstas na Lei nº 8.142/1990:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conferência de Saúde e Conselho de Saúde"
+      },
+      {
+        "letra": "B",
+        "texto": "Comissão Intergestores Bipartite e Tripartite"
+      },
+      {
+        "letra": "C",
+        "texto": "Ministério da Saúde e Secretarias Estaduais"
+      },
+      {
+        "letra": "D",
+        "texto": "Agência Nacional de Vigilância Sanitária e Fundação Nacional de Saúde"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A lei prevê, em cada esfera de governo, a Conferência de Saúde e o Conselho de Saúde. As comissões intergestores são instâncias de pactuação, previstas em outras normas.",
+    "fontes": [
+      {
+        "documento_id": "lei-8142-1990",
+        "dispositivo": "art. 1"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-sus-004",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Segundo a Lei nº 8.142/1990, a Conferência de Saúde se reúne:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cada quatro anos"
+      },
+      {
+        "letra": "B",
+        "texto": "Anualmente"
+      },
+      {
+        "letra": "C",
+        "texto": "A cada dois anos"
+      },
+      {
+        "letra": "D",
+        "texto": "A cada cinco anos"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A Conferência de Saúde se reúne a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes.",
+    "fontes": [
+      {
+        "documento_id": "lei-8142-1990",
+        "dispositivo": "art. 1"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis",
+      "sus-controle"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-sus-005",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Nos Conselhos e Conferências de Saúde, a representação dos usuários deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paritária em relação ao conjunto dos demais segmentos"
+      },
+      {
+        "letra": "B",
+        "texto": "Minoritária, com até um terço das vagas"
+      },
+      {
+        "letra": "C",
+        "texto": "Indicada pelo gestor local"
+      },
+      {
+        "letra": "D",
+        "texto": "Restrita a entidades de classe da saúde"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A Lei 8.142/1990 determina que a representação dos usuários seja paritária em relação ao conjunto dos demais segmentos, ou seja, metade das vagas.",
+    "fontes": [
+      {
+        "documento_id": "lei-8142-1990",
+        "dispositivo": "art. 1"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-sus-006",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "O princípio do SUS que busca diminuir desigualdades, tratando de forma diferente quem tem necessidades diferentes, é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Equidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Universalidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Integralidade"
+      },
+      {
+        "letra": "D",
+        "texto": "Hierarquização"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Equidade é investir mais onde a necessidade é maior. Universalidade é o acesso de todos, e integralidade é o cuidado completo, da prevenção à reabilitação.",
+    "fontes": [
+      {
+        "documento_id": "lei-8080-1990",
+        "dispositivo": "art. 7"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-sus-007",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "É um princípio organizativo do SUS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Descentralização"
+      },
+      {
+        "letra": "B",
+        "texto": "Universalidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Equidade"
+      },
+      {
+        "letra": "D",
+        "texto": "Integralidade"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Descentralização, regionalização, hierarquização e participação social são organizativos. Universalidade, equidade e integralidade são doutrinários.",
+    "fontes": [
+      {
+        "documento_id": "lei-8080-1990",
+        "dispositivo": "art. 7"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-sus-008",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "sus",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na Constituição Federal de 1988, o artigo que afirma que a saúde é direito de todos e dever do Estado é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Art. 196"
+      },
+      {
+        "letra": "B",
+        "texto": "Art. 5º"
+      },
+      {
+        "letra": "C",
+        "texto": "Art. 198"
+      },
+      {
+        "letra": "D",
+        "texto": "Art. 227"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O art. 196 traz o direito à saúde. O art. 198 trata das diretrizes do SUS, como descentralização e participação da comunidade.",
+    "fontes": [
+      {
+        "documento_id": "cf-1988-saude",
+        "dispositivo": "art. 196"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-etica-009",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "etica",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Qual lei dispõe sobre a regulamentação do exercício da enfermagem no Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lei nº 7.498/1986"
+      },
+      {
+        "letra": "B",
+        "texto": "Lei nº 8.080/1990"
+      },
+      {
+        "letra": "C",
+        "texto": "Lei nº 5.905/1973"
+      },
+      {
+        "letra": "D",
+        "texto": "Lei nº 8.142/1990"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A Lei 7.498/1986 regula o exercício da enfermagem. A Lei 5.905/1973 cria os Conselhos Federal e Regionais de Enfermagem.",
+    "fontes": [
+      {
+        "documento_id": "lei-7498-1986",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-etica-010",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "etica",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Segundo a Lei nº 7.498/1986, é atividade privativa do enfermeiro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A consulta de enfermagem"
+      },
+      {
+        "letra": "B",
+        "texto": "A administração de medicamentos"
+      },
+      {
+        "letra": "C",
+        "texto": "A verificação de sinais vitais"
+      },
+      {
+        "letra": "D",
+        "texto": "A higiene e o conforto do paciente"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Consulta de enfermagem e prescrição da assistência de enfermagem são privativas do enfermeiro. As demais atividades são compartilhadas com técnicos e auxiliares.",
+    "fontes": [
+      {
+        "documento_id": "lei-7498-1986",
+        "dispositivo": "art. 11"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-etica-011",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "etica",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "De acordo com a Lei nº 7.498/1986, cabe ao técnico de enfermagem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Participar da programação da assistência de enfermagem"
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar a consulta de enfermagem"
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever a assistência de enfermagem"
+      },
+      {
+        "letra": "D",
+        "texto": "Dirigir o órgão de enfermagem da instituição"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O técnico participa da programação da assistência e executa ações assistenciais. Consulta, prescrição e direção do serviço são privativas do enfermeiro.",
+    "fontes": [
+      {
+        "documento_id": "lei-7498-1986",
+        "dispositivo": "art. 12"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-etica-012",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "etica",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "O Código de Ética dos Profissionais de Enfermagem vigente foi aprovado pela Resolução COFEN nº:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "564/2017"
+      },
+      {
+        "letra": "B",
+        "texto": "311/2007"
+      },
+      {
+        "letra": "C",
+        "texto": "358/2009"
+      },
+      {
+        "letra": "D",
+        "texto": "240/2000"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A Resolução COFEN 564/2017 aprovou o Código de Ética atual e revogou a 311/2007, o código anterior.",
+    "fontes": [
+      {
+        "documento_id": "res-cofen-564-2017",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-etica-013",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "etica",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Qual das opções NÃO é penalidade prevista no Código de Ética dos Profissionais de Enfermagem?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prisão"
+      },
+      {
+        "letra": "B",
+        "texto": "Advertência verbal"
+      },
+      {
+        "letra": "C",
+        "texto": "Multa"
+      },
+      {
+        "letra": "D",
+        "texto": "Cassação do direito ao exercício profissional"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "As penalidades são advertência verbal, multa, censura, suspensão do exercício profissional e cassação. Prisão é pena criminal, aplicada pela Justiça.",
+    "fontes": [
+      {
+        "documento_id": "res-cofen-564-2017",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-etica-014",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "etica",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "O Processo de Enfermagem é organizado em quantas etapas inter-relacionadas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cinco"
+      },
+      {
+        "letra": "B",
+        "texto": "Três"
+      },
+      {
+        "letra": "C",
+        "texto": "Quatro"
+      },
+      {
+        "letra": "D",
+        "texto": "Seis"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "São cinco etapas. A Resolução COFEN 736/2024, que substituiu a 358/2009, as nomeia como avaliação, diagnóstico, planejamento, implementação e evolução de enfermagem.",
+    "fontes": [
+      {
+        "documento_id": "res-cofen-736-2024",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-pe"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-etica-015",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "etica",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Segundo o Código de Ética, o profissional de enfermagem pode revelar fato sigiloso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em casos previstos em lei, por ordem judicial ou com consentimento escrito da pessoa envolvida"
+      },
+      {
+        "letra": "B",
+        "texto": "Sempre que a família do paciente solicitar"
+      },
+      {
+        "letra": "C",
+        "texto": "Quando a chefia de enfermagem pedir verbalmente"
+      },
+      {
+        "letra": "D",
+        "texto": "Após a alta hospitalar do paciente"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O sigilo só pode ser quebrado nas exceções previstas: casos previstos em lei, ordem judicial ou consentimento escrito da pessoa ou de seu representante legal.",
+    "fontes": [
+      {
+        "documento_id": "res-cofen-564-2017",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-fund-016",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "fund",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Em um adulto em repouso, a frequência cardíaca considerada normal está entre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 e 100 bpm"
+      },
+      {
+        "letra": "B",
+        "texto": "40 e 60 bpm"
+      },
+      {
+        "letra": "C",
+        "texto": "100 e 140 bpm"
+      },
+      {
+        "letra": "D",
+        "texto": "50 e 70 bpm"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Abaixo de 60 bpm é bradicardia, e acima de 100 bpm é taquicardia, em adultos em repouso.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-card"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-fund-017",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "fund",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "A frequência respiratória normal de um adulto em repouso fica entre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 e 20 irpm"
+      },
+      {
+        "letra": "B",
+        "texto": "8 e 10 irpm"
+      },
+      {
+        "letra": "C",
+        "texto": "20 e 30 irpm"
+      },
+      {
+        "letra": "D",
+        "texto": "25 e 35 irpm"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Valores acima de 20 irpm indicam taquipneia, e abaixo de 12 irpm, bradipneia, em adultos.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-resp"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-fund-018",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "fund",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na posição de Fowler, a cabeceira do leito fica elevada em aproximadamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "45° a 60°"
+      },
+      {
+        "letra": "B",
+        "texto": "10° a 15°"
+      },
+      {
+        "letra": "C",
+        "texto": "90°"
+      },
+      {
+        "letra": "D",
+        "texto": "Nenhuma elevação, com os pés acima da cabeça"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Fowler eleva a cabeceira entre 45° e 60° e favorece a expansão pulmonar. Pés acima da cabeça descrevem a posição de Trendelenburg.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-fund-019",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "fund",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na posição de Trendelenburg, o paciente fica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em decúbito dorsal, com a cabeça mais baixa que os pés"
+      },
+      {
+        "letra": "B",
+        "texto": "Sentado, com a cabeceira a 90°"
+      },
+      {
+        "letra": "C",
+        "texto": "Em decúbito lateral esquerdo, com a perna direita flexionada"
+      },
+      {
+        "letra": "D",
+        "texto": "Em decúbito ventral, com a cabeça lateralizada"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Trendelenburg é o decúbito dorsal com a cabeça abaixo do nível dos pés. O decúbito lateral esquerdo com a perna direita flexionada é a posição de Sims.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-fund-020",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "fund",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na administração intradérmica, a agulha é introduzida com um ângulo de aproximadamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10° a 15°"
+      },
+      {
+        "letra": "B",
+        "texto": "45°"
+      },
+      {
+        "letra": "C",
+        "texto": "90°"
+      },
+      {
+        "letra": "D",
+        "texto": "60° a 75°"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A via intradérmica usa um ângulo quase paralelo à pele, de 10° a 15°, como no teste tuberculínico e na vacina BCG. A intramuscular usa 90°.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-fund-021",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "fund",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Qual das opções NÃO faz parte dos 5 momentos para a higiene das mãos da OMS?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antes de entrar no posto de enfermagem"
+      },
+      {
+        "letra": "B",
+        "texto": "Antes de tocar o paciente"
+      },
+      {
+        "letra": "C",
+        "texto": "Após risco de exposição a fluidos corporais"
+      },
+      {
+        "letra": "D",
+        "texto": "Após tocar superfícies próximas ao paciente"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Os 5 momentos são: antes de tocar o paciente, antes de procedimento limpo ou asséptico, após risco de exposição a fluidos, após tocar o paciente e após tocar superfícies próximas a ele.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-fund-022",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "fund",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "No cateter nasal de oxigênio, o fluxo usual máximo recomendado para adultos é de cerca de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 L/min"
+      },
+      {
+        "letra": "B",
+        "texto": "15 L/min"
+      },
+      {
+        "letra": "C",
+        "texto": "1 L/min"
+      },
+      {
+        "letra": "D",
+        "texto": "10 L/min"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Acima de cerca de 6 L/min, o cateter nasal causa ressecamento e desconforto sem ganho real de oxigênio inspirado. Fluxos maiores pedem máscaras.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-023",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Foram prescritos 500 mL de soro fisiológico 0,9% para correr em 8 horas. O gotejamento em macrogotas por minuto será de aproximadamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "21 gotas/min"
+      },
+      {
+        "letra": "B",
+        "texto": "42 gotas/min"
+      },
+      {
+        "letra": "C",
+        "texto": "63 gotas/min"
+      },
+      {
+        "letra": "D",
+        "texto": "10 gotas/min"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Macrogotas: volume ÷ (tempo em horas × 3). 500 ÷ (8 × 3) = 500 ÷ 24 ≈ 20,8, ou seja, cerca de 21 gotas/min.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-calc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-024",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Prescrição: 120 mL de solução em 2 horas, em equipo de microgotas. O gotejamento será de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 microgotas/min"
+      },
+      {
+        "letra": "B",
+        "texto": "20 microgotas/min"
+      },
+      {
+        "letra": "C",
+        "texto": "120 microgotas/min"
+      },
+      {
+        "letra": "D",
+        "texto": "40 microgotas/min"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Microgotas: volume ÷ tempo em horas. 120 ÷ 2 = 60 microgotas/min.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-calc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-025",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Quantas macrogotas e microgotas correspondem, respectivamente, a 1 mL?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20 macrogotas e 60 microgotas"
+      },
+      {
+        "letra": "B",
+        "texto": "10 macrogotas e 30 microgotas"
+      },
+      {
+        "letra": "C",
+        "texto": "60 macrogotas e 20 microgotas"
+      },
+      {
+        "letra": "D",
+        "texto": "20 macrogotas e 100 microgotas"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Pela convenção usada em cálculos de enfermagem, 1 mL = 20 gotas = 60 microgotas. Por isso 1 gota = 3 microgotas.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-calc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-026",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Foram prescritos 300 mg de um medicamento. A ampola disponível contém 500 mg em 5 mL. Quanto deve ser aspirado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 mL"
+      },
+      {
+        "letra": "B",
+        "texto": "1,5 mL"
+      },
+      {
+        "letra": "C",
+        "texto": "5 mL"
+      },
+      {
+        "letra": "D",
+        "texto": "0,3 mL"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Regra de três: 500 mg estão em 5 mL, então 300 mg estão em x. x = 300 × 5 ÷ 500 = 3 mL.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-adm"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-027",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Prescrição de 25 UI de insulina regular, usando seringa de insulina de 100 UI/mL. O volume a aspirar é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,25 mL"
+      },
+      {
+        "letra": "B",
+        "texto": "2,5 mL"
+      },
+      {
+        "letra": "C",
+        "texto": "0,025 mL"
+      },
+      {
+        "letra": "D",
+        "texto": "0,5 mL"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Na seringa U-100, 1 mL contém 100 UI. 25 UI ÷ 100 UI/mL = 0,25 mL.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-cron"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-028",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Um frasco de penicilina cristalina de 5.000.000 UI, depois de diluído, fica com volume final de 10 mL. Para administrar 2.000.000 UI, deve-se aspirar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 mL"
+      },
+      {
+        "letra": "B",
+        "texto": "2 mL"
+      },
+      {
+        "letra": "C",
+        "texto": "5 mL"
+      },
+      {
+        "letra": "D",
+        "texto": "8 mL"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "5.000.000 UI estão em 10 mL. Para 2.000.000 UI: 2.000.000 × 10 ÷ 5.000.000 = 4 mL.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-calc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-029",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Um frasco de heparina contém 5.000 UI/mL. Para administrar 2.500 UI, aspira-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,5 mL"
+      },
+      {
+        "letra": "B",
+        "texto": "2,5 mL"
+      },
+      {
+        "letra": "C",
+        "texto": "0,25 mL"
+      },
+      {
+        "letra": "D",
+        "texto": "5 mL"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Cada mL tem 5.000 UI. 2.500 ÷ 5.000 = 0,5 mL.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-calc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-calc-030",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "calc",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Quantos gramas de glicose há em 500 mL de soro glicosado a 5%?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25 g"
+      },
+      {
+        "letra": "B",
+        "texto": "5 g"
+      },
+      {
+        "letra": "C",
+        "texto": "50 g"
+      },
+      {
+        "letra": "D",
+        "texto": "2,5 g"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "5% significa 5 g em cada 100 mL. Em 500 mL: 5 × 5 = 25 g.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-calc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-urg-031",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "urg",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na ressuscitação cardiopulmonar do adulto, a frequência recomendada de compressões torácicas é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100 a 120 por minuto"
+      },
+      {
+        "letra": "B",
+        "texto": "60 a 80 por minuto"
+      },
+      {
+        "letra": "C",
+        "texto": "80 a 100 por minuto"
+      },
+      {
+        "letra": "D",
+        "texto": "120 a 150 por minuto"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "As diretrizes da American Heart Association recomendam de 100 a 120 compressões por minuto, com retorno total do tórax entre elas.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-rcp",
+      "cli-card"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-urg-032",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "urg",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Em adultos, a profundidade das compressões torácicas na RCP deve ser de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo menos 5 cm, sem passar de 6 cm"
+      },
+      {
+        "letra": "B",
+        "texto": "Entre 2 e 3 cm"
+      },
+      {
+        "letra": "C",
+        "texto": "Exatamente 4 cm"
+      },
+      {
+        "letra": "D",
+        "texto": "Mais de 8 cm"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A AHA recomenda pelo menos 5 cm e no máximo 6 cm em adultos. Compressões rasas não geram fluxo suficiente, e profundas demais aumentam lesões.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-rcp"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-urg-033",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "urg",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Em adulto sem via aérea avançada, a relação compressão-ventilação na RCP é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30:2"
+      },
+      {
+        "letra": "B",
+        "texto": "15:2"
+      },
+      {
+        "letra": "C",
+        "texto": "5:1"
+      },
+      {
+        "letra": "D",
+        "texto": "3:1"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Para adultos, com um ou dois socorristas, a relação é 30:2. A relação 3:1 é usada na reanimação neonatal.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-rcp",
+      "cli-resp"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-urg-034",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "urg",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "São ritmos chocáveis na parada cardiorrespiratória:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibrilação ventricular e taquicardia ventricular sem pulso"
+      },
+      {
+        "letra": "B",
+        "texto": "Assistolia e atividade elétrica sem pulso"
+      },
+      {
+        "letra": "C",
+        "texto": "Bradicardia sinusal e assistolia"
+      },
+      {
+        "letra": "D",
+        "texto": "Fibrilação atrial e flutter atrial"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "FV e TV sem pulso são tratadas com desfibrilação. Assistolia e AESP não são chocáveis e seguem com RCP e adrenalina.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-rcp",
+      "cli-card"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-urg-035",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "urg",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na PCR em adultos, a dose de adrenalina recomendada é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 mg por via intravenosa ou intraóssea, a cada 3 a 5 minutos"
+      },
+      {
+        "letra": "B",
+        "texto": "10 mg em dose única"
+      },
+      {
+        "letra": "C",
+        "texto": "0,1 mg a cada 10 minutos"
+      },
+      {
+        "letra": "D",
+        "texto": "1 mg por via intramuscular, a cada 30 minutos"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Na PCR, a adrenalina é de 1 mg IV ou IO a cada 3 a 5 minutos. A via intramuscular é usada na anafilaxia, não na PCR.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-rcp",
+      "cli-nef"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-urg-036",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "urg",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Qual é a menor pontuação possível na Escala de Coma de Glasgow?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3"
+      },
+      {
+        "letra": "B",
+        "texto": "0"
+      },
+      {
+        "letra": "C",
+        "texto": "1"
+      },
+      {
+        "letra": "D",
+        "texto": "8"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A escala vai de 3 a 15, porque cada um dos três itens (abertura ocular, resposta verbal e resposta motora) vale no mínimo 1 ponto.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-trauma",
+      "cli-neuro"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-urg-037",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "urg",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "No atendimento ao politraumatizado, segundo o protocolo XABCDE, o que significa o X?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Controle de hemorragia externa grave"
+      },
+      {
+        "letra": "B",
+        "texto": "Exame físico completo"
+      },
+      {
+        "letra": "C",
+        "texto": "Exposição do paciente"
+      },
+      {
+        "letra": "D",
+        "texto": "Raio-X de tórax"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O X foi incluído no PHTLS para priorizar o controle de hemorragias exsanguinantes, antes mesmo da via aérea.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-trauma"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mulher-038",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mulher",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Pela regra de Naegele, uma gestante com data da última menstruação em 10/01/2026 terá data provável do parto em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17/10/2026"
+      },
+      {
+        "letra": "B",
+        "texto": "10/10/2026"
+      },
+      {
+        "letra": "C",
+        "texto": "17/11/2026"
+      },
+      {
+        "letra": "D",
+        "texto": "03/10/2026"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Regra de Naegele: some 7 dias ao dia e diminua 3 meses (ou some 9) ao mês da DUM. 10 + 7 = 17, e janeiro − 3 meses = outubro. Resultado: 17/10/2026.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "mul-obs"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mulher-039",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mulher",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Por volta de 20 semanas de gestação, o fundo uterino costuma estar na altura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da cicatriz umbilical"
+      },
+      {
+        "letra": "B",
+        "texto": "Da sínfise púbica"
+      },
+      {
+        "letra": "C",
+        "texto": "Do apêndice xifoide"
+      },
+      {
+        "letra": "D",
+        "texto": "Do rebordo costal"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Na 12ª semana o útero começa a ser palpável acima da sínfise. Por volta da 20ª semana, chega à cicatriz umbilical.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "mul-obs"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mulher-040",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mulher",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "No Brasil, a faixa etária prioritária para o rastreamento do câncer do colo do útero é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25 a 64 anos"
+      },
+      {
+        "letra": "B",
+        "texto": "18 a 35 anos"
+      },
+      {
+        "letra": "C",
+        "texto": "40 a 69 anos"
+      },
+      {
+        "letra": "D",
+        "texto": "30 a 50 anos"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "As diretrizes nacionais priorizam mulheres de 25 a 64 anos que já iniciaram vida sexual.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "mul-gin"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mulher-041",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mulher",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "A coloração violácea da mucosa vaginal na gestação é conhecida como sinal de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Chadwick (ou Jacquemier)"
+      },
+      {
+        "letra": "B",
+        "texto": "Hegar"
+      },
+      {
+        "letra": "C",
+        "texto": "Piskacek"
+      },
+      {
+        "letra": "D",
+        "texto": "Goodell"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O sinal de Chadwick, também chamado de Jacquemier, é a coloração arroxeada da vulva e vagina. Hegar é o amolecimento do istmo uterino, e Goodell o amolecimento do colo.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "mul-obs"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-crianca-042",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "crianca",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "O teste do pezinho deve ser coletado preferencialmente entre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O 3º e o 5º dia de vida"
+      },
+      {
+        "letra": "B",
+        "texto": "As primeiras 6 horas de vida"
+      },
+      {
+        "letra": "C",
+        "texto": "O 10º e o 15º dia de vida"
+      },
+      {
+        "letra": "D",
+        "texto": "O 1º e o 2º mês de vida"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A coleta entre o 3º e o 5º dia permite detectar doenças como fenilcetonúria e hipotireoidismo congênito, depois que o bebê já começou a mamar.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-crianca-043",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "crianca",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "O índice de Apgar é avaliado no:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1º e 5º minutos de vida"
+      },
+      {
+        "letra": "B",
+        "texto": "Momento do parto e 1 hora depois"
+      },
+      {
+        "letra": "C",
+        "texto": "1º e 10º minutos de vida"
+      },
+      {
+        "letra": "D",
+        "texto": "Momento da alta da sala de parto"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O Apgar é feito no 1º e no 5º minuto e pode ser repetido a cada 5 minutos enquanto for menor que 7.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cri-neo"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-crianca-044",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "crianca",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Qual destes itens NÃO faz parte do índice de Apgar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Temperatura corporal"
+      },
+      {
+        "letra": "B",
+        "texto": "Frequência cardíaca"
+      },
+      {
+        "letra": "C",
+        "texto": "Tônus muscular"
+      },
+      {
+        "letra": "D",
+        "texto": "Coloração da pele"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O Apgar avalia frequência cardíaca, esforço respiratório, tônus muscular, irritabilidade reflexa e cor da pele.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cri-neo"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-crianca-045",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "crianca",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na reanimação neonatal em sala de parto, a relação compressão-ventilação é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3:1"
+      },
+      {
+        "letra": "B",
+        "texto": "30:2"
+      },
+      {
+        "letra": "C",
+        "texto": "15:2"
+      },
+      {
+        "letra": "D",
+        "texto": "5:1"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "No recém-nascido, são 3 compressões para 1 ventilação, cerca de 90 compressões e 30 ventilações por minuto.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "urg-rcp",
+      "cri-neo"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-crianca-046",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "crianca",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "O aleitamento materno exclusivo é recomendado até:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 meses de idade"
+      },
+      {
+        "letra": "B",
+        "texto": "3 meses de idade"
+      },
+      {
+        "letra": "C",
+        "texto": "1 ano de idade"
+      },
+      {
+        "letra": "D",
+        "texto": "2 anos de idade"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A recomendação é aleitamento exclusivo até os 6 meses e complementado até 2 anos ou mais.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cri-alei"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-bio-047",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "bio",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Para um paciente com suspeita de tuberculose pulmonar, o profissional deve adotar precaução para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aerossóis, com máscara N95 ou PFF2"
+      },
+      {
+        "letra": "B",
+        "texto": "Gotículas, com máscara cirúrgica"
+      },
+      {
+        "letra": "C",
+        "texto": "Contato, apenas com luvas e avental"
+      },
+      {
+        "letra": "D",
+        "texto": "Somente precaução padrão"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A tuberculose pulmonar se transmite por aerossóis. O profissional usa N95 ou PFF2, e o paciente fica em quarto privativo, de preferência com pressão negativa.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-resp",
+      "cli-infec"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-bio-048",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "bio",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Na meningite meningocócica, nas primeiras 24 horas de antibiótico, a precaução indicada é para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gotículas"
+      },
+      {
+        "letra": "B",
+        "texto": "Aerossóis"
+      },
+      {
+        "letra": "C",
+        "texto": "Contato"
+      },
+      {
+        "letra": "D",
+        "texto": "Nenhuma além da precaução padrão"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A doença meningocócica se transmite por gotículas. A precaução é mantida até completar 24 horas de antibiótico eficaz.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "bio-prec"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-bio-049",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "bio",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Para paciente com varicela, devem ser adotadas precauções para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aerossóis e contato"
+      },
+      {
+        "letra": "B",
+        "texto": "Somente gotículas"
+      },
+      {
+        "letra": "C",
+        "texto": "Somente contato"
+      },
+      {
+        "letra": "D",
+        "texto": "Gotículas e contato"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A varicela se transmite pelo ar e pelo contato com as lesões. Por isso, aerossóis e contato até todas as lesões virarem crostas.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "bio-prec"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-bio-050",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "bio",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "A Norma Regulamentadora que trata da segurança e saúde no trabalho em serviços de saúde é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "NR 32"
+      },
+      {
+        "letra": "B",
+        "texto": "NR 6"
+      },
+      {
+        "letra": "C",
+        "texto": "NR 17"
+      },
+      {
+        "letra": "D",
+        "texto": "NR 10"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A NR 32 trata de riscos biológicos, químicos e radiações em serviços de saúde. A NR 6 é sobre EPI, a NR 17 sobre ergonomia e a NR 10 sobre eletricidade.",
+    "fontes": [
+      {
+        "documento_id": "nr-32",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "vig-trab"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-bio-051",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "bio",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "A caixa de descarte de perfurocortantes deve ser fechada e trocada quando atingir:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2/3 da capacidade ou a linha indicada pelo fabricante"
+      },
+      {
+        "letra": "B",
+        "texto": "Toda a capacidade"
+      },
+      {
+        "letra": "C",
+        "texto": "1/3 da capacidade"
+      },
+      {
+        "letra": "D",
+        "texto": "O fim de cada plantão, independentemente do volume"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Encher além do limite aumenta o risco de acidentes. A troca é feita ao atingir 2/3 ou a linha marcada pelo fabricante.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "bio-resid"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-bio-052",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "bio",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Segundo a RDC ANVISA nº 222/2018, os resíduos perfurocortantes pertencem ao:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Grupo E"
+      },
+      {
+        "letra": "B",
+        "texto": "Grupo A"
+      },
+      {
+        "letra": "C",
+        "texto": "Grupo B"
+      },
+      {
+        "letra": "D",
+        "texto": "Grupo D"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "Grupo A são resíduos infectantes, B químicos, C radioativos, D comuns e E perfurocortantes.",
+    "fontes": [
+      {
+        "documento_id": "rdc-222-2018",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "vig-sanit",
+      "bio-resid"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mental-053",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mental",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "A lei que dispõe sobre a proteção e os direitos das pessoas com transtornos mentais, conhecida como Lei da Reforma Psiquiátrica, é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lei nº 10.216/2001"
+      },
+      {
+        "letra": "B",
+        "texto": "Lei nº 8.080/1990"
+      },
+      {
+        "letra": "C",
+        "texto": "Lei nº 11.343/2006"
+      },
+      {
+        "letra": "D",
+        "texto": "Lei nº 13.146/2015"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A Lei 10.216/2001 redireciona o modelo de atenção em saúde mental para serviços comunitários. A 11.343/2006 é a Lei de Drogas, e a 13.146/2015 é o Estatuto da Pessoa com Deficiência.",
+    "fontes": [
+      {
+        "documento_id": "lei-10216-2001",
+        "dispositivo": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-pol",
+      "men-clin"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mental-054",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mental",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "O CAPS voltado ao atendimento de pessoas com problemas decorrentes do uso de álcool e outras drogas é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CAPS AD"
+      },
+      {
+        "letra": "B",
+        "texto": "CAPS i"
+      },
+      {
+        "letra": "C",
+        "texto": "CAPS I"
+      },
+      {
+        "letra": "D",
+        "texto": "CAPS II"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O CAPS AD atende usuários de álcool e outras drogas. O CAPS i é infantojuvenil, e CAPS I e II variam conforme o porte populacional.",
+    "fontes": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-pol"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mental-055",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mental",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "Pela Lei nº 10.216/2001, a internação feita sem o consentimento do usuário, a pedido de terceiro, é chamada de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Involuntária"
+      },
+      {
+        "letra": "B",
+        "texto": "Voluntária"
+      },
+      {
+        "letra": "C",
+        "texto": "Compulsória"
+      },
+      {
+        "letra": "D",
+        "texto": "Emergencial"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "A lei prevê três tipos: voluntária, com consentimento; involuntária, a pedido de terceiro; e compulsória, determinada pela Justiça.",
+    "fontes": [
+      {
+        "documento_id": "lei-10216-2001",
+        "dispositivo": "art. 6"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-pol"
+    ],
+    "localidade": null
+  },
+  {
+    "id": "exemplo-mental-056",
+    "origem": "exemplo",
+    "banca": null,
+    "ano": null,
+    "orgao": null,
+    "cargo": null,
+    "tipo": "treino",
+    "tema": "mental",
+    "subtema": null,
+    "dificuldade": 2,
+    "enunciado": "A internação psiquiátrica involuntária deve ser comunicada ao Ministério Público Estadual em até:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "72 horas"
+      },
+      {
+        "letra": "B",
+        "texto": "24 horas"
+      },
+      {
+        "letra": "C",
+        "texto": "7 dias"
+      },
+      {
+        "letra": "D",
+        "texto": "30 dias"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": "O responsável técnico do estabelecimento deve comunicar o Ministério Público em até 72 horas, inclusive na alta.",
+    "fontes": [
+      {
+        "documento_id": "lei-10216-2001",
+        "dispositivo": "art. 8"
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-pol"
+    ],
+    "localidade": null
+  }
+]

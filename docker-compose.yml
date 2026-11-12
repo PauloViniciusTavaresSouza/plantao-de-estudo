@@ -1,0 +1,24 @@
+# Postgres do Plantão de Estudo, já com a extensão pgvector para a fase da IA.
+#   docker compose up -d      sobe o banco
+#   docker compose down       para (os dados ficam no volume)
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: plantao-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: plantao
+      POSTGRES_PASSWORD: plantao
+      POSTGRES_DB: plantao
+    ports:
+      - "5432:5432"
+    volumes:
+      - plantao_db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U plantao -d plantao"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  plantao_db:

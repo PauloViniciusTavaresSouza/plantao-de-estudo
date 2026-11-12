@@ -1,0 +1,3928 @@
+[
+  {
+    "id": "aocp-2021-enare-enf-q001",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 1,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "História das políticas de saúde no Brasil",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Considerando o contexto da história das políticas de saúde no Brasil, assinale a alternativa que apresenta características pertinentes ao período que corresponde ao final do império e à primeira república.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Foi um período baseado no autoritarismo e privatização dos recursos de saúde, visando principalmente fortalecer os moldes capitalistas."
+      },
+      {
+        "letra": "B",
+        "texto": "Teve como momento marcante a criação do INPS em 1946, para racionalização administrativa da assistência médica e cobertura previdenciária."
+      },
+      {
+        "letra": "C",
+        "texto": "Nesse período, havia privilegiamento da prática médica individual, assistencialista e especializada em detrimento às ações de saúde pública que ocorreram a partir de 1974."
+      },
+      {
+        "letra": "D",
+        "texto": "Foi um período apoiado no desenvolvimento de terceirização da prestação de serviços médicos devido à incapacidade da rede própria do Estado em fornecer assistência adequada à saúde."
+      },
+      {
+        "letra": "E",
+        "texto": "Nesse período, os serviços médicos hospitalares estavam nas mãos de entidades filantrópicas, como as Santas Casas, que tinham hospitais em diversas cidades."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-paim",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-historia"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q002",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 2,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Movimento sanitário",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Na composição originária do movimento sanitário no Brasil, podem ser identificadas três vertentes principais, sendo que a primeira vertente, caracterizada por difundir a teoria da medicina social, é constituída por",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "médicos residentes e renovação estudantil."
+      },
+      {
+        "letra": "B",
+        "texto": "movimento estudantil e centro brasileiro de estudos de saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "profissionais da área de saúde coletiva e academia."
+      },
+      {
+        "letra": "D",
+        "texto": "união nacional de estudantes e movimento Brasil livre."
+      },
+      {
+        "letra": "E",
+        "texto": "liga acadêmica de saúde e movimento liberal estudantil."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-paim",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-historia"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q003",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 3,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "8ª Conferência Nacional de Saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "É possível afirmar que os principais desdobramentos da oitava Conferência Nacional de Saúde foram a constituição da Comissão Nacional da Reforma Sanitária (CNRS) e a conformação do(a)",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plenária Nacional de Saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "Pacto pela Saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "Constituição Federal de 1986."
+      },
+      {
+        "letra": "D",
+        "texto": "Norma Operacional de Saúde."
+      },
+      {
+        "letra": "E",
+        "texto": "Aliança Democrática em Saúde."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-paim",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-historia"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q004",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 4,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Instâncias de pactuação do SUS (CIB e CIT)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O arranjo institucional do SUS prevê uma série de instâncias de negociação e estabelecimento de pactos, envolvendo diferentes níveis gestores do sistema e diversos segmentos da sociedade. Tal arranjo permite que vários atores – mesmo os não diretamente responsáveis pelo desempenho de funções típicas da gestão dos sistemas – participem do processo decisório sobre a política de saúde. Assim, é possível afirmar que, na estrutura decisória e institucional do SUS, a representação dos gestores na esfera MUNICIPAL se dá por meio do(a)",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conass."
+      },
+      {
+        "letra": "B",
+        "texto": "Comissão Bipartite."
+      },
+      {
+        "letra": "C",
+        "texto": "Comam."
+      },
+      {
+        "letra": "D",
+        "texto": "Cosems."
+      },
+      {
+        "letra": "E",
+        "texto": "Comissão Tripartite."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "lei-8080-1990",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "decreto-7508-2011",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q005",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 5,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Participação social: Lei 8.142/1990",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "As bases legais sobre a participação social no SUS foram promulgadas em 1990 na Lei Orgânica da Saúde (LOS). É importante registrar que a LOS foi editada após importantes vetos do governo em uma atmosfera muito nebulosa quanto à efetivação das conquistas constitucionais. A lei n° 8.080/90 reafirma, no seu artigo 7°, a participação social como um princípio para o SUS e a lei n° 8.142/90, no seu artigo 1°, define que",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o orçamento da seguridade social destinará ao Sistema Único de Saúde (SUS), de acordo com a receita estimada, os recursos necessários à realização de suas finalidades."
+      },
+      {
+        "letra": "B",
+        "texto": "as ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS) sejam deliberados pelo conselho social de saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "a formulação da política de medicamentos, equipamentos, imunobiológicos e outros insumos de interesse para a saúde e a participação na sua produção fique a cargo do conselho nacional de saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "sem prejuízo das funções do poder legislativo, sejam criados os conselhos e as conferências de saúde como forma de instituição de participação da comunidade na gestão do SUS."
+      },
+      {
+        "letra": "E",
+        "texto": "a assistência às pessoas, por intermédio de ações de promoção, proteção e recuperação da saúde, seja realizada sob fiscalização dos respectivos conselhos de saúde."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "lei-8142-1990",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "lei-8080-1990",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis",
+      "sus-controle"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q006",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 6,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Contrato Organizativo da Ação Pública (COAP)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Os gestores de uma região de saúde realizaram planejamento regional integrado para a elaboração do contrato organizativo da ação pública, que tem a função de definir entre os entes federativos as suas responsabilidades no SUS, sendo um instrumento",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "jurídico que explicita os compromissos pactuados em cada região de saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "de hierarquização dos prestadores de saúde conveniados ao SUS."
+      },
+      {
+        "letra": "C",
+        "texto": "de coleta de dados para o planejamento local de saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "para capacitação dos entes federativos na organização da atenção básica."
+      },
+      {
+        "letra": "E",
+        "texto": "de alocação de recursos centralizado na esfera federal de Governo."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "decreto-7508-2011",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q007",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 7,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Regionalização",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Os acadêmicos da residência multiprofissional realizaram, junto aos profissionais das regionais de saúde, um evento para capacitar secretários municipais de saúde sobre o processo de regionalização e explicaram que a regionalização em saúde tem como finalidade",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "implantar políticas de saúde inclusivas e garantir ambiente acolhedor nas unidades de saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "conduzir a implantação dos modelos de atenção em saúde mais adequados à realidade da população."
+      },
+      {
+        "letra": "C",
+        "texto": "organizar os serviços de saúde em cada região, para que as pessoas possam ter acesso a todos os tipos de atendimento ofertados."
+      },
+      {
+        "letra": "D",
+        "texto": "estratificar os níveis de atenção em saúde para garantir principalmente as ações de atenção primária em saúde em cada região."
+      },
+      {
+        "letra": "E",
+        "texto": "delimitar as regiões de saúde para garantir o acesso aos serviços de saúde à população com baixa renda."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "decreto-7508-2011",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-leis"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q008",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 8,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Redes de Atenção à Saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Atravessamos uma crise sem precedentes na história do Sistema Único de Saúde. Para além dos tantos desafios enfrentados no cotidiano, com a pandemia da covid-19 a situação se agrava, acarretando sobrecarga ainda maior para o sistema de saúde, concretizando a urgência de uma organização do serviço em Redes de Atenção à Saúde (RAS). Assim, como uma das características das RAS, tem-se",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "que o conhecimento e a ação clínica são concentrados nos profissionais, principalmente médicos."
+      },
+      {
+        "letra": "B",
+        "texto": "o aumenta à ênfase nas ações de saúde curativas e que visam à reabilitação."
+      },
+      {
+        "letra": "C",
+        "texto": "que os serviços especializados devem ser desconcentrados para garantir igualdade."
+      },
+      {
+        "letra": "D",
+        "texto": "que a forma de reação do sistema à demanda é reativa e episódica."
+      },
+      {
+        "letra": "E",
+        "texto": "que a coordenação da atenção se dá por meio da atenção primária em saúde."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-4279-2010",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-mendes-ras",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q009",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 9,
+    "disciplina": "Competências comuns",
+    "tema": "vigilancia",
+    "subtema": "Indicadores: incidência",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A queda dos indicadores de incidência, mortalidade e ocupação de leitos de UTI, decorrentes da pandemia da Covid-19, vem configurando um cenário que pode ser resultado do avanço da campanha de vacinação que ocorre no país. Com base no exposto e considerando os conceitos da epidemiologia, qual alternativa refere-se à definição de incidência?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possibilidade de adoecimento por determinado agente, fator de risco ou conjunto de causas."
+      },
+      {
+        "letra": "B",
+        "texto": "Frequência com que surgem novos casos de uma doença em um intervalo de tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "Número de casos existentes de uma doença em um dado momento."
+      },
+      {
+        "letra": "D",
+        "texto": "Taxa de portadores de determinada doença em relação à população susceptível."
+      },
+      {
+        "letra": "E",
+        "texto": "Relação entre frequências atribuídas de determinado evento, sendo que, no numerador, é registrada a frequência absoluta do evento."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-rouquayrol",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "vig-epi"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q010",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 10,
+    "disciplina": "Competências comuns",
+    "tema": "vigilancia",
+    "subtema": "Rede Cievs",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Os anos de 2020/2021 foram marcados pela Emergência em Saúde Pública de Importância Internacional (ESPII) decorrente da pandemia de Coronavírus. Nesse contexto, para o enfrentamento das emergências em saúde pública nas diferentes esferas de gestão, o sistema de saúde conta com uma rede integrada de unidades de alerta e resposta, denominada rede",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cievs."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinan."
+      },
+      {
+        "letra": "C",
+        "texto": "Sia-SUS."
+      },
+      {
+        "letra": "D",
+        "texto": "Rename."
+      },
+      {
+        "letra": "E",
+        "texto": "Renases."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "guia-vigilancia-saude",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-rouquayrol",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "vig-epi"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q011",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 11,
+    "disciplina": "Competências comuns",
+    "tema": "vigilancia",
+    "subtema": "Competências da Anvisa",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "São competências da Agência Nacional de Vigilância Sanitária (ANVISA), EXCETO",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coordenar o Sistema Nacional de Vigilância Sanitária."
+      },
+      {
+        "letra": "B",
+        "texto": "gerenciar as Operadoras de Planos de Saúde e a capacidade de qualificação da própria função reguladora em consonância com os preceitos do SUS."
+      },
+      {
+        "letra": "C",
+        "texto": "estabelecer normas e padrões sobre limites de contaminantes, resíduos tóxicos, desinfetantes, metais pesados e outros que envolvam risco à saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "conceder registros de produtos, segundo as normas de sua área de atuação."
+      },
+      {
+        "letra": "E",
+        "texto": "estabelecer normas, propor, acompanhar e executar as políticas, as diretrizes e as ações de vigilância sanitária."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "lei-9782-1999",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "vig-sanit"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q012",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 12,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "História natural da doença (Leavell e Clark)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Um grupo de profissionais de saúde, que trabalha em uma Equipe de Saúde da Família e utiliza o modelo explicativo e as ações propostas por Leavell e Clark sobre o potencial das ações no ambiente e nos estilos de vida na prevenção de doenças, sabe que, ao realizar as atividades propostas pela equipe de promoção em saúde, estas ocorrem no período de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prevenção secundária."
+      },
+      {
+        "letra": "B",
+        "texto": "proteção específica."
+      },
+      {
+        "letra": "C",
+        "texto": "reabilitação."
+      },
+      {
+        "letra": "D",
+        "texto": "diagnóstico precoce."
+      },
+      {
+        "letra": "E",
+        "texto": "pré-patogênese."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-rouquayrol",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "vig-epi"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q013",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 13,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Política Nacional de Atenção Básica",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A Política Nacional de Atenção Básica tem na Saúde da Família sua estratégia prioritária para expansão e consolidação da Atenção Básica, sendo uma de suas diretrizes",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a indivisibilidade do cuidado."
+      },
+      {
+        "letra": "B",
+        "texto": "o apoio ambulatorial."
+      },
+      {
+        "letra": "C",
+        "texto": "as ações solidárias."
+      },
+      {
+        "letra": "D",
+        "texto": "a população adscrita."
+      },
+      {
+        "letra": "E",
+        "texto": "a gestão de apoio à infraestrutura."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-2436-2017",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q014",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 14,
+    "disciplina": "Competências comuns",
+    "tema": "gestao",
+    "subtema": "Educação permanente em saúde",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Os residentes, juntamente com os profissionais do pronto atendimento de um hospital universitário, realizaram um cronograma de atividades para os profissionais do setor, com enfoque na Educação Permanente, a qual",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é uma estratégia descontínua de capacitação com rupturas no tempo: com cursos periódicos sem sequência constante."
+      },
+      {
+        "letra": "B",
+        "texto": "representa uma continuidade do modelo escolar ou acadêmico, centralizado na atualização de conhecimentos."
+      },
+      {
+        "letra": "C",
+        "texto": "incorpora o ensino e o aprendizado à vida cotidiana das organizações e às práticas sociais e laborais."
+      },
+      {
+        "letra": "D",
+        "texto": "tem enfoque disciplinar, em ambiente didático e baseado em técnicas de transmissão de conhecimento."
+      },
+      {
+        "letra": "E",
+        "texto": "conceitua tecnicamente a prática enquanto campo de aplicação de conhecimentos especializados."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-1996-2007",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "gest-edu"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q015",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 15,
+    "disciplina": "Competências comuns",
+    "tema": "mental",
+    "subtema": "Trabalho interdisciplinar em saúde mental",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Uma equipe de saúde interdisciplinar desenvolve, em espaços de atenção à saúde mental, uma atuação integrada da equipe, valorizando outros aspectos além do diagnóstico psiquiátrico e da medicação no tratamento dos usuários, que é definida, dentro da Política Nacional de Humanização, como",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "projeto terapêutico singular."
+      },
+      {
+        "letra": "B",
+        "texto": "programa saúde para todos."
+      },
+      {
+        "letra": "C",
+        "texto": "ambiência."
+      },
+      {
+        "letra": "D",
+        "texto": "modelo de gestão em saúde mental."
+      },
+      {
+        "letra": "E",
+        "texto": "práticas integrativas de saúde coletiva."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-3088-2011",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-townsend",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-clin"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q016",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 16,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Política de Saúde Integral LGBT",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A discriminação por orientação sexual e por identidade de gênero incide na determinação social da saúde, no processo de sofrimento e adoecimento decorrente do preconceito e do estigma social reservado às populações de lésbicas, gays, bissexuais, travestis e transexuais/outros. Assim, no âmbito do Sistema Único de Saúde (SUS), a Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais (Política Nacional de Saúde Integral LGBT) é instituída pela portaria n°",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2.537/2003."
+      },
+      {
+        "letra": "B",
+        "texto": "2.132/2006."
+      },
+      {
+        "letra": "C",
+        "texto": "2.221/2008."
+      },
+      {
+        "letra": "D",
+        "texto": "2.836/2011."
+      },
+      {
+        "letra": "E",
+        "texto": "2.754/2015."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-2836-2011",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q017",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 17,
+    "disciplina": "Competências comuns",
+    "tema": "gestao",
+    "subtema": "Avaliação em saúde: estrutura, processo e resultado",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Ao realizar a avaliação normativa, ao verificarmos os recursos de uma intervenção, assim como sua organização para saber se os recursos serão suficientes para oferecer o leque completo de serviços prestados, faz-se uma apreciação de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "processo."
+      },
+      {
+        "letra": "B",
+        "texto": "resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "satisfação."
+      },
+      {
+        "letra": "D",
+        "texto": "objetividade."
+      },
+      {
+        "letra": "E",
+        "texto": "estrutura."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-kurcgant",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "gest-enf"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q018",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 18,
+    "disciplina": "Competências comuns",
+    "tema": "seguranca",
+    "subtema": "Classificação Internacional de Segurança do Paciente (OMS)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A seguir, são citados alguns conceitos-chave da Classificação Internacional de Segurança do Paciente da Organização Mundial da Saúde. Assinale a alternativa que apresenta corretamente um desses conceitos.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dano – probabilidade de um incidente ocorrer."
+      },
+      {
+        "letra": "B",
+        "texto": "Incidente – comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo."
+      },
+      {
+        "letra": "C",
+        "texto": "Circunstância Notificável – incidente que atingiu o paciente, mas não causou dano."
+      },
+      {
+        "letra": "D",
+        "texto": "Evento Adverso – incidente que resulta em dano ao paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "Risco – evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário ao paciente."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-529-2013",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "rdc-36-2013",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "gest-qual"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q019",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 19,
+    "disciplina": "Competências comuns",
+    "tema": "sus",
+    "subtema": "Modelos assistenciais",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O termo “modelo assistencial” é utilizado com diversas variações terminológicas. Uma delas, utilizada por Merhy, é a denominação de “modelo tecnoassistencial” que por sua vez, designa um processo composto por “tecnologias do trabalho em saúde” e a assistência, como uma “tecnologia do cuidado”, operada por três tipos de arranjos tecnológicos, sendo eles as tecnologias:",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "leves, leve-duras e duras."
+      },
+      {
+        "letra": "B",
+        "texto": "compactas, estruturais e reclusas."
+      },
+      {
+        "letra": "C",
+        "texto": "construtivas, distributivas e analistas."
+      },
+      {
+        "letra": "D",
+        "texto": "primárias, secundárias e terciárias."
+      },
+      {
+        "letra": "E",
+        "texto": "rasas, intermediárias e terminais."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-paim",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "sus-politicas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q020",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 20,
+    "disciplina": "Competências comuns",
+    "tema": "etica",
+    "subtema": "Princípios da bioética",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Maurício é residente em um hospital público e, na sua atuação profissional, sempre reconheceu seu dever em ajudar o outro, considerando que, maximizando o bem do outro, possivelmente reduziria o mal. Além disso, na sua atuação profissional, sempre foi comprometido a avaliar riscos e benefícios aos quais os seus clientes estão expostos ao se decidir por determinados procedimentos. Pode-se relacionar a atitude de Maurício ao que, em Bioética, se conhece por Princípio do(a)",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indiligência."
+      },
+      {
+        "letra": "B",
+        "texto": "Autonomia."
+      },
+      {
+        "letra": "C",
+        "texto": "Equidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Beneficência."
+      },
+      {
+        "letra": "E",
+        "texto": "Não maleficência."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-beauchamp",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q021",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 21,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Processo de enfermagem: diagnóstico",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "“É a etapa do processo de enfermagem que corresponde ao julgamento clínico, servindo como base para selecionar quais serão as intervenções necessárias para o indivíduo. Inclui sistemas de linguagem específicos da enfermagem, como a Classificação de Diagnósticos da NANDA-I, CIPE, entre outros”. Com base no exposto, qual é a etapa citada pelo enunciado?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diagnóstico de Enfermagem."
+      },
+      {
+        "letra": "B",
+        "texto": "Planejamento de Enfermagem."
+      },
+      {
+        "letra": "C",
+        "texto": "Histórico de Enfermagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Exame físico da Enfermagem."
+      },
+      {
+        "letra": "E",
+        "texto": "Evolução de Enfermagem."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cofen-736-2024",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "res-cofen-358-2009",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-pe"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q022",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 22,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Anamnese: avaliação da dor",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante a anamnese, o enfermeiro avalia o nível de dor que o paciente apresenta, dando notas, por exemplo, de zero a dez, o que abrange desde um paciente sem dor até o que se encontra com uma dor mais intensa. Qual padrão da anamnese está sendo ilustrado nesse exemplo?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cognitivo."
+      },
+      {
+        "letra": "B",
+        "texto": "De sono e repouso."
+      },
+      {
+        "letra": "C",
+        "texto": "Sensitivo."
+      },
+      {
+        "letra": "D",
+        "texto": "De relacionamento."
+      },
+      {
+        "letra": "E",
+        "texto": "De valor-crença."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q023",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 23,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Percussão",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante o processo de percussão no paciente, o enfermeiro descreveu o som como maciço. Sobre esse tipo de som, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é encontrado em regiões com presença de sangue e secreções."
+      },
+      {
+        "letra": "B",
+        "texto": "é característico da respiração, do coração e das alças intestinais."
+      },
+      {
+        "letra": "C",
+        "texto": "se dá na região do tórax normal, sem alterações."
+      },
+      {
+        "letra": "D",
+        "texto": "é obtido em áreas que contêm ar e que são recobertas por membrana flexível."
+      },
+      {
+        "letra": "E",
+        "texto": "é encontrado em regiões nas quais não existe ar."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-posso",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q024",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 24,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Sistema vascular periférico",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Quanto ao sistema vascular periférico, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a principal artéria que nutre o braço é chamada de ulnar."
+      },
+      {
+        "letra": "B",
+        "texto": "a principal artéria da perna é chamada tibial."
+      },
+      {
+        "letra": "C",
+        "texto": "as veias podem ser divididas em três tipos: profundas, superficiais e perfurantes, também chamadas de comunicantes."
+      },
+      {
+        "letra": "D",
+        "texto": "as veias que se localizam na cabeça, no pescoço e na parte superior do tronco transportam sangue para a veia cava inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "o sangue que vem das pernas e da porção inferior do tronco é transportado pela veia cava superior."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-porto",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-card"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q025",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 25,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Exame vascular dos membros inferiores",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante o exame físico de um paciente adulto, com intuito de avaliar a circulação dos membros inferiores, o enfermeiro estava verificando a possibilidade de flebite profunda, fazendo uma rápida pressão sobre",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a musculatura da coxa contra o fêmur."
+      },
+      {
+        "letra": "B",
+        "texto": "a musculatura da panturrilha contra a tíbia."
+      },
+      {
+        "letra": "C",
+        "texto": "a musculatura da patela contra a fíbula."
+      },
+      {
+        "letra": "D",
+        "texto": "a musculatura do quadríceps contra a fíbula"
+      },
+      {
+        "letra": "E",
+        "texto": "a musculatura do bíceps femoral contra o fêmur."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio",
+      "fund-proc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q026",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 26,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Termorregulação",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O equilíbrio da temperatura corporal é regulado precisamente por mecanismos comportamentais e fisiológicos. Isso ocorre devido a uma constante entre o calor produzido versus o calor perdido. Considerando o exposto, assinale a alternativa que apresenta a região do encéfalo responsável pelo controle da temperatura.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipófise."
+      },
+      {
+        "letra": "B",
+        "texto": "Medula espinhal."
+      },
+      {
+        "letra": "C",
+        "texto": "Corpo caloso."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotálamo."
+      },
+      {
+        "letra": "E",
+        "texto": "Glândula pineal."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-ssvv"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q027",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 27,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Exame do estado mental",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante a avaliação do estado mental de um paciente adulto, o enfermeiro solicitou que ele executasse algumas ações, como fechar os olhos e manter os braços acima da cabeça e esticados para a frente, a fim de avaliar sua coordenação. Tal procedimento é usado para avaliação da função",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cerebelar."
+      },
+      {
+        "letra": "B",
+        "texto": "sensitiva."
+      },
+      {
+        "letra": "C",
+        "texto": "motora."
+      },
+      {
+        "letra": "D",
+        "texto": "cognitiva."
+      },
+      {
+        "letra": "E",
+        "texto": "térmica."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q028",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 28,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Ausculta cardíaca",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Sobre a ausculta cardíaca, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a B1 corresponde à bulha com som mais claro e distinto, sendo mais alta nos focos aórtico e pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "a B2 pode apresentar o som mais suave durante a inspiração."
+      },
+      {
+        "letra": "C",
+        "texto": "a pausa diastólica é ouvida entre B1 e B2. Trata-se de uma pausa silenciosa entre o final de B1 e o início de B2, sem ruídos durante esse intervalo."
+      },
+      {
+        "letra": "D",
+        "texto": "a pausa sistólica é escutada entre B2 e a próxima B1. Trata-se de uma pausa silenciosa entre o final de B2 e o início de B1 seguinte."
+      },
+      {
+        "letra": "E",
+        "texto": "a B3 caracteriza-se por som baixo, fraco, que acontece no início da pausa diastólica e desaparece com o paciente em pé ou sentado. Pode ser ouvida em pessoas com o débito cardíaco elevado ou em mulheres no terceiro trimestre de gravidez."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-porto",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-card",
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q029",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 29,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Aferição da pressão arterial: tamanho do manguito",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante a verificação dos sinais vitais (SSVV), especificamente da pressão arterial (PA), o tamanho do manguito, a postura do paciente e o posicionamento do estetoscópio podem levar ao erro durante a avaliação da PA. Dessa forma, uma leitura de PA baixa falsa, ou seja, errônea, pode se dar quando",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o braço não estiver apoiado."
+      },
+      {
+        "letra": "B",
+        "texto": "o braço estiver abaixo do nível cardíaco."
+      },
+      {
+        "letra": "C",
+        "texto": "o braço estiver acima do nível cardíaco."
+      },
+      {
+        "letra": "D",
+        "texto": "o manguito estiver envolvido com folga ou desigual."
+      },
+      {
+        "letra": "E",
+        "texto": "a bolsa ou o manguito forem muito estreitos ou muito pequenos."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "diretrizes-has-2020",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-ssvv"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q030",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 30,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Cianose",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Um paciente que apresente uma quantidade reduzida de oxi-hemoglobina, resultante da diminuição do fluxo sanguíneo, proveniente de uma anemia ou choque, estará com qual aspecto de pele?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Castanho-marrom."
+      },
+      {
+        "letra": "B",
+        "texto": "Eritema."
+      },
+      {
+        "letra": "C",
+        "texto": "Cianose."
+      },
+      {
+        "letra": "D",
+        "texto": "Palidez."
+      },
+      {
+        "letra": "E",
+        "texto": "Perda de pigmentação."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q031",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 31,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Lesões elementares de pele",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Observe os seguintes tipos de lesões de pele e assinale a alternativa correta.",
+    "imagens": [
+      "imagens/enare-2021-enf-q031-0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A figura 1 refere-se à lesão do tipo pápula."
+      },
+      {
+        "letra": "B",
+        "texto": "A figura 2 refere-se à lesão tipo tumor."
+      },
+      {
+        "letra": "C",
+        "texto": "A figura 3 refere-se à lesão do tipo vesícula."
+      },
+      {
+        "letra": "D",
+        "texto": "A figura 4 refere-se à lesão do tipo úlcera."
+      },
+      {
+        "letra": "E",
+        "texto": "A figura 5 refere-se à lesão do tipo pústula."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-posso",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q032",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 32,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Ruídos adventícios pulmonares",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Em relação à avaliação do tórax e dos pulmões, observe os ruídos adventícios ilustrados nas figuras 1 e 2 e suas respectivas características e assinale a alternativa correta.",
+    "imagens": [
+      "imagens/enare-2021-enf-q032-1.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As figuras 1 e 2 ilustram chiados e roncos, respectivamente."
+      },
+      {
+        "letra": "B",
+        "texto": "As figuras 1 e 2 ilustram roncos e sibilos, respectivamente."
+      },
+      {
+        "letra": "C",
+        "texto": "As figuras 1 e 2 ilustram crepitações e roncos, respectivamente."
+      },
+      {
+        "letra": "D",
+        "texto": "As figuras 1 e 2 ilustram roncos e atrito pleural, respectivamente."
+      },
+      {
+        "letra": "E",
+        "texto": "As figuras 1 e 2 ilustram crepitações e atrito pleural, respectivamente."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-resp"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q033",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 33,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Marcos anatômicos do tórax",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Sabe-se da importância do enfermeiro, durante a anamnese, conhecer os marcos anatômicos para realizar uma boa avaliação da função cardíaca dos pacientes. Nesse sentido, observe a seguinte figura e assinale a alternativa INCORRETA.",
+    "imagens": [
+      "imagens/enare-2021-enf-q033-0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O foco aórtico está no segundo espaço intercostal, à direita do esterno, perto da borda esternal (1)."
+      },
+      {
+        "letra": "B",
+        "texto": "O foco pulmonar está no segundo espaço intercostal, à esquerda do esterno, próximo à borda do esterno (2)."
+      },
+      {
+        "letra": "C",
+        "texto": "O foco pulmonar acessório é encontrado com o movimento para baixo do lado esquerdo do esterno até o terceiro espaço intercostal, próximo da borda esternal (3), também referida como ponto de Erb."
+      },
+      {
+        "letra": "D",
+        "texto": "O foco tricúspide (4) está localizado na parte esquerda do quarto espaço intercostal ao longo do esterno, próximo à borda esternal."
+      },
+      {
+        "letra": "E",
+        "texto": "O foco mitral é encontrado pelos dedos que se deslocam lateralmente à direita do paciente para localizar o quinto espaço intercostal no lado direito da linha média clavicular (3)."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio",
+      "cli-resp"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q034",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 34,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Insuficiência venosa e arterial",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante anamnese das extremidades inferiores, a fim de verificar os sinais de insuficiência venosa ou arterial, o enfermeiro precisa estar atento a mudanças na cor e na condição da pele, textura da pele e das unhas, distribuição de pelo, padrões venosos, edema e cicatrizes ou úlceras. Com base nas informações mencionadas, assinale qual das seguintes situações indica uma insuficiência venosa.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parestesia nos membros inferiores (MMII) e coloração pálida quando o membro é elevado."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença de dor nos MMII, principalmente à noite; edema frequentemente marcado e temperatura normal ao toque."
+      },
+      {
+        "letra": "C",
+        "texto": "Pulso diminuído ou ausente e temperatura fria ao toque."
+      },
+      {
+        "letra": "D",
+        "texto": "Pele fina, brilhante, unhas espessadas e enchimento capilar > que 2 segundos."
+      },
+      {
+        "letra": "E",
+        "texto": "Edema leve ou ausente, temperatura fria ao toque e câimbras, principalmente com exercícios."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-card"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q035",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 35,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Avaliação do edema (cacifo)",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Avaliar os membros inferiores (MMII) para verificação de edema é extremamente importante durante o exame físico em pacientes com possíveis alterações cardiovasculares. A verificação da profundidade do edema pode ser feita pressionando-se firmemente a área por cinco segundos e, depois, soltando-a. Nesse sentido e considerando essa avaliação, observe as seguintes figuras e assinale a alternativa correta.",
+    "imagens": [
+      "imagens/enare-2021-enf-q035-0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A figura 2 apresenta a seguinte avaliação do edema: 2+ e 4mm de profundidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A figura 1 apresenta a seguinte avaliação do edema: 3+ e 2mm de profundidade."
+      },
+      {
+        "letra": "C",
+        "texto": "A figura 2 apresenta a seguinte avaliação do edema: 3+ e 2mm de profundidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A figura 1 apresenta a seguinte avaliação do edema: 1+ e 2mm de profundidade."
+      },
+      {
+        "letra": "E",
+        "texto": "A figura 1 apresenta a seguinte avaliação do edema: 2+ e 8mm de profundidade."
+      }
+    ],
+    "gabarito": null,
+    "anulada": true,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-barros",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-semio"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q036",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 36,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Riscos nutricionais na internação",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Todas as seguintes alternativas apresentam fatores de risco para potenciais problemas de nutrição durante período de internação dos pacientes, EXCETO",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hematócrito: < 43% em homens, < 37% em mulheres; hemoglobina < 14 g/dL em homens, < 12 g/dL em mulheres."
+      },
+      {
+        "letra": "B",
+        "texto": "diminuição absoluta na contagem de linfócitos (< 1.500 células/mm3)."
+      },
+      {
+        "letra": "C",
+        "texto": "colesterol plasmático total elevado (> 250 mg/dL) ou diminuído (< 130 mg/dL)."
+      },
+      {
+        "letra": "D",
+        "texto": "albumina sérica < 3 g/dL em pacientes sem doença renal ou hepática, dermatite generalizada, hidratação excessiva."
+      },
+      {
+        "letra": "E",
+        "texto": "pacientes sob dieta pastosa completa por mais de três dias."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q037",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 37,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Disfagia e risco de aspiração",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A aspiração de alimentos em adultos ocorre, normalmente, como resultado da disfagia. Essa condição está associada a causas musculares, nervosas e obstrutivas. Qual alternativa exemplifica uma causa obstrutiva?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paralisia cerebral."
+      },
+      {
+        "letra": "B",
+        "texto": "Envelhecimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Miastenia grave."
+      },
+      {
+        "letra": "D",
+        "texto": "Espondilose cervical."
+      },
+      {
+        "letra": "E",
+        "texto": "Neuropatia diabética."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q038",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 38,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "calc",
+    "subtema": "Apresentações de medicamentos",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "É extremamente importante que o profissional de saúde conheça as formas de apresentação e a administração dos medicamentos, para que possa orientar corretamente os pacientes aos seus cuidados. Nesse sentido, assinale a alternativa correta.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O elixir é um medicamento administrado em forma oral (sólida) e consiste em um medicamento dissolvido em solução açucarada concentrada."
+      },
+      {
+        "letra": "B",
+        "texto": "O xarope é um medicamento administrado em forma oral (líquida) e consiste em um líquido transparente contendo água e álcool, geralmente com adição de adoçante."
+      },
+      {
+        "letra": "C",
+        "texto": "O pó é um medicamento administrado em forma parenteral e consiste em partículas estéreis de medicamento que são dissolvidas em uma solução estéril (por exemplo, água, solução salina normal) antes da administração."
+      },
+      {
+        "letra": "D",
+        "texto": "O extrato é um medicamento administrado em forma tópica e consiste em uma suspensão semilíquida usada, muitas vezes, para refrescar, proteger ou limpar a pele."
+      },
+      {
+        "letra": "E",
+        "texto": "A loção é um medicamento administrado em forma líquida e consiste em um concentrado feito por meio da remoção da porção ativa da substância."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-clayton",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-giovani",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-adm"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q039",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 39,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "calc",
+    "subtema": "Medidas caseiras e conversão de doses",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "As medidas domésticas para administração de medicação são familiares para a maioria dos indivíduos, mas não são recomendadas devido à variabilidade do tamanho dos utensílios domésticos. No entanto, caso necessário, o profissional percebendo a dificuldade do paciente, poderá ajudá-lo a converter unidades e calcular as doses de medicamentos. Por exemplo, um paciente que precisa ser medicado com 30 mL de alguma medicação poderá utilizar",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 colheres de sopa (csp) dessa medicação."
+      },
+      {
+        "letra": "B",
+        "texto": "1 colher de sopa (csp) dessa medicação."
+      },
+      {
+        "letra": "C",
+        "texto": "15 gotas (gt) dessa medicação."
+      },
+      {
+        "letra": "D",
+        "texto": "1 xícara (x) dessa medicação."
+      },
+      {
+        "letra": "E",
+        "texto": "3 colheres de sopa (csp) dessa medicação."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-giovani",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "farm-calc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q040",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 40,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Avaliação de feridas",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Observe a seguinte figura e assinale a alternativa correta.",
+    "imagens": [
+      "imagens/enare-2021-enf-q040-0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O profissional de saúde está verificando o tipo de cobertura a ser utilizado na ferida."
+      },
+      {
+        "letra": "B",
+        "texto": "O profissional de saúde está mensurando a profundidade e a largura da ferida."
+      },
+      {
+        "letra": "C",
+        "texto": "O profissional de saúde está verificando o tipo de tecido presente na ferida."
+      },
+      {
+        "letra": "D",
+        "texto": "O profissional de saúde está verificando o grau de queimadura da ferida."
+      },
+      {
+        "letra": "E",
+        "texto": "O profissional de saúde está mensurando a perda sensorial do tecido."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-feridas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q041",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 41,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Terapia de feridas por pressão negativa",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Como é denominado o tratamento de feridas ilustrado na figura a seguir?",
+    "imagens": [
+      "imagens/enare-2021-enf-q041-1.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tratamento de feridas com pressão positiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratamento de feridas à vácuo."
+      },
+      {
+        "letra": "C",
+        "texto": "Tratamento de feridas hiperbárico."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratamento de feridas por segunda intenção."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratamento de feridas com pressão negativa."
+      }
+    ],
+    "gabarito": null,
+    "anulada": true,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-feridas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q042",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 42,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "seguranca",
+    "subtema": "Locais de lesão por pressão",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante a consulta de enfermagem, o enfermeiro fazia orientações sobre os principais locais de lesões por pressão, pois se tratava de um paciente que estava em uso de cadeira de rodas. Nesse sentido, os principais locais relatados pelo profissional estão indicados na figura a seguir e contemplados corretamente em qual alternativa?",
+    "imagens": [
+      "imagens/enare-2021-enf-q042-0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1=Processo espinhoso, 2=Ísquio, 3=Lombar, 4=Trocanter, 5=maléolo."
+      },
+      {
+        "letra": "B",
+        "texto": "1=Crista ilíaca, 2=Ísquio, 3=Fêmur, 4=Trocanter, 5=Tíbia."
+      },
+      {
+        "letra": "C",
+        "texto": "1=Escápula, 2=Sacro, 3=Lombar, 4=Trocanter, 5=Planta do pé."
+      },
+      {
+        "letra": "D",
+        "texto": "1=Escápula, 2=Sacro, 3=Ísquio, 4=Porção posterior do joelho, 5=Planta do pé."
+      },
+      {
+        "letra": "E",
+        "texto": "1=Trapézio, 2=Ísquio, 3=Sacro, 4=Patela, 5=Maléolo."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-529-2013",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-feridas"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q043",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 43,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Escala de flebite",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O paciente em terapia intravenosa necessita da observação cuidadosa do profissional durante a permanência do acesso venoso, pelo risco de flebite a que está exposto. Nesse sentido, caso o enfermeiro observe dor no local de acesso venoso, com eritema e edema, deve considerar a seguinte pontuação na escala que verifica o nível de flebite:",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0."
+      },
+      {
+        "letra": "B",
+        "texto": "1."
+      },
+      {
+        "letra": "C",
+        "texto": "2."
+      },
+      {
+        "letra": "D",
+        "texto": "3."
+      },
+      {
+        "letra": "E",
+        "texto": "4."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q044",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 44,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Fatores que alteram a velocidade de infusão",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Em relação aos fatores que alteram as taxas de infusão venosa, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) A mudança na posição do paciente, contribui para alterar as taxas de infusão venosa. ( ) A manipulação do dispositivo pelo paciente ou visitante contribui para alterar as taxas de infusão venosa. ( ) A bateria da bomba de infusão com carga baixa não interfere nas taxas de infusão venosa. ( ) Equipo ou extensões do conjunto de infusão amassados contribuem para alterar as taxas de infusão venosa. ( ) Espasmo venoso não causa alteração durante a infusão venosa.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – V – V – V – V."
+      },
+      {
+        "letra": "B",
+        "texto": "V – V – F – F – F."
+      },
+      {
+        "letra": "C",
+        "texto": "F – V – F – V – F."
+      },
+      {
+        "letra": "D",
+        "texto": "V – V – F – V – F."
+      },
+      {
+        "letra": "E",
+        "texto": "V – V – F – V – V."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-giovani",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q045",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 45,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Compatibilidade ABO na transfusão",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Durante a internação de um paciente, cujo tipo sanguíneo era A+, foi preciso realizar uma transfusão de hemoderivados. Diante dessa informação, é preciso se atentar ao fato de que um paciente com esse tipo sanguíneo",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não poderá receber transfusão do tipo O."
+      },
+      {
+        "letra": "B",
+        "texto": "tem como opções de transfusão A+ e O-."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá receber transfusão do tipo AB."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá receber transfusão do tipo B."
+      },
+      {
+        "letra": "E",
+        "texto": "tem o antígeno de eritrócitos AB."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-158-2016",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-hemo"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q046",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 46,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Controle da transfusão de hemocomponentes",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A enfermagem tem o papel de controlar a infusão sanguínea, pois, assim, poderá evitar as reações adversas. Além dos cuidados preconizados relacionados ao paciente, ao pedido médico e aos aspectos do hemoderivado, é importante observar a duração da transfusão, pois um tempo prolongado poderá acarretar exposição do paciente à infecção bacteriana. Nesse sentido, após iniciar a transfusão, o sangue deve ser transfundido dentro de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 horas após o início."
+      },
+      {
+        "letra": "B",
+        "texto": "5 horas após o início."
+      },
+      {
+        "letra": "C",
+        "texto": "15 minutos após o início."
+      },
+      {
+        "letra": "D",
+        "texto": "6 horas após o início."
+      },
+      {
+        "letra": "E",
+        "texto": "30 minutos após o início."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "portaria-158-2016",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-hemo"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q047",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 47,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Classificação ASA e sedação",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A equipe de enfermagem que está gerenciando um paciente que receberá sedação moderada precisa conhecer o sistema de classificação ASA (Sociedade Americana de Anestesiologistas) do estado físico do paciente. Assim, um paciente com doença sistêmica grave que seja uma ameaça constante à vida recebe qual classificação ASA?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ASA 1."
+      },
+      {
+        "letra": "B",
+        "texto": "ASA 2."
+      },
+      {
+        "letra": "C",
+        "texto": "ASA 3."
+      },
+      {
+        "letra": "D",
+        "texto": "ASA 4."
+      },
+      {
+        "letra": "E",
+        "texto": "ASA 5."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-sobecc",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-cir"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q048",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 48,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Cuidados pós-operatórios",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A fase pós-operatória de qualquer procedimento cirúrgico tem como objetivo evitar complicações, manter o controle da dor adequado nas atividades de recuperação e promover o autocuidado do paciente. Assim, os resultados esperados durante esse período estão descritos em todas as alternativas, EXCETO",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os sinais vitais do paciente continuam dentro dos limites normais coerentes com os valores basais pré-operatórios."
+      },
+      {
+        "letra": "B",
+        "texto": "o paciente descreve dor abaixo de 4 em uma escala de 0 a 10 enquanto engajado em atividade física moderada para a alta hospitalar."
+      },
+      {
+        "letra": "C",
+        "texto": "os ruídos intestinais normais estão presentes após a cirurgia intestinal ou anestesia geral dentro de 48 a 72 horas após a cirurgia."
+      },
+      {
+        "letra": "D",
+        "texto": "as bordas da ferida da incisão estão bem aproximadas; não se observa drenagem."
+      },
+      {
+        "letra": "E",
+        "texto": "os ruídos respiratórios do paciente continuam limpos e com presença de ruídos adventícios."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-sobecc",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-cir"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q049",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 49,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "mental",
+    "subtema": "Efeitos extrapiramidais de antipsicóticos",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Paciente, 35 anos, com histórico de transtorno mental familiar, nega uso de substâncias psicoativas. Chegou ao serviço de saúde ansioso, relatando que as pessoas e os objetos estavam mudando de tamanho e forma, os sons estavam diferentes do normal e ele não conseguia lembrar onde estava. Dizia que estava desacoplado de si mesmo e do mundo e que tudo parecia um sonho. Com base no comportamento apresentado pelo paciente, é correto afirmar que ele estava apresentando um quadro de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "litemia."
+      },
+      {
+        "letra": "B",
+        "texto": "intoxicação por neuroléptico."
+      },
+      {
+        "letra": "C",
+        "texto": "acatisia."
+      },
+      {
+        "letra": "D",
+        "texto": "despersonalização e desrealização."
+      },
+      {
+        "letra": "E",
+        "texto": "discinesia."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-townsend",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-clin",
+      "farm-adm"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q050",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 50,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "mental",
+    "subtema": "Delirium",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A avaliação do paciente com delirium baseiase inicialmente no reconhecimento da síndrome, seguido da busca pelo evento subjacente que pode tê-la desencadeado. Nesse sentido, é preciso investigar os fatores precipitantes desse quadro. Um deles, por exemplo, pode ser o controle inadequado da dor, pois consiste em",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fator metabólico para desencadeamento do delirium."
+      },
+      {
+        "letra": "B",
+        "texto": "fator sistêmico para desencadeamento do delirium."
+      },
+      {
+        "letra": "C",
+        "texto": "fator iatrogênico para desencadeamento do delirium."
+      },
+      {
+        "letra": "D",
+        "texto": "fator cardiopulmonar para desencadeamento do delirium."
+      },
+      {
+        "letra": "E",
+        "texto": "fator psíquico para desencadeamento do delirium."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-townsend",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-clin"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q051",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 51,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "mental",
+    "subtema": "Síndrome neuroléptica maligna",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Uma das emergências médicas em psiquiatria, relacionada com maior frequência a fármacos antipsicóticos de primeira geração, consiste em rigidez muscular, hipertermia e alterações no estado mental. Os sintomas geralmente se desenvolvem durante as duas primeiras semanas após o início ou devido ao aumento da terapia com antipsicóticos. O enunciado refere-se à",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Asperger."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Tourette."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome neuroléptica maligna."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome do túnel do carpo."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Edwards."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-townsend",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-clin"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q052",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 52,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "clinica",
+    "subtema": "Infecção do trato urinário",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Sobre as infecções no trato urinário, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) Infecções urinárias em pacientes que usam cateter duplo J são consideradas associadas a cateter vesical. ( ) Infecções relacionadas a procedimentos urológicos cirúrgicos não são consideradas infecções de sítio cirúrgico. ( ) Há grande probabilidade de ser contaminação da amostra quando são identificadas acima de duas espécies microbianas na urocultura. ( ) Idosos podem ter sintomas atípicos, como alterações cognitivas, letargia, anorexia e outros sintomas generalizados que podem estar associados a ITU. ( ) A urina é rica em nitratos e a maioria das enterobactérias transforma nitratos em nitritos, porém nem todas as bactérias realizam essa metabolização. Dessa forma, o exame de urina com nitrito negativo não descarta ITU.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – F – F – V – V."
+      },
+      {
+        "letra": "B",
+        "texto": "F – V – F – V – F."
+      },
+      {
+        "letra": "C",
+        "texto": "V – F – V – V – V."
+      },
+      {
+        "letra": "D",
+        "texto": "F – F – V – F – V."
+      },
+      {
+        "letra": "E",
+        "texto": "F – F – V – V – V."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-brunner",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "cli-nef",
+      "cli-infec"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q053",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 53,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Preparo para exames de sangue",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Foram prescritos para um paciente os seguintes exames de sangue: glicemia, colesterol, ureia, creatinina, sódio, potássio, amilase e cálcio. Tais exames são indicados para detectar alterações",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hematológicas."
+      },
+      {
+        "letra": "B",
+        "texto": "hormonais."
+      },
+      {
+        "letra": "C",
+        "texto": "bioquímicas."
+      },
+      {
+        "letra": "D",
+        "texto": "imunológicas."
+      },
+      {
+        "letra": "E",
+        "texto": "genéticas."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q054",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 54,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "bio",
+    "subtema": "Biossegurança hospitalar",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O enfermeiro responsável pela implantação do setor de biossegurança hospitalar estava reunindo materiais para aprimorar seu conhecimento sobre a segurança e a saúde no ambiente de trabalho e a exposição ocupacional a agentes biológicos. Qual das seguintes leituras é primordial para o conhecimento desse enfermeiro?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A leitura da Norma Regulamentadora (NR) 35."
+      },
+      {
+        "letra": "B",
+        "texto": "A leitura da Norma Regulamentadora (NR) 20."
+      },
+      {
+        "letra": "C",
+        "texto": "A leitura da Norma Regulamentadora (NR) 07."
+      },
+      {
+        "letra": "D",
+        "texto": "A leitura da Norma Regulamentadora (NR) 32."
+      },
+      {
+        "letra": "E",
+        "texto": "A leitura da Norma Regulamentadora (NR) 08."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "nr-32",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "bio-resid"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q055",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 55,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Diagnósticos de enfermagem NANDA-I: domínios",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "“Pacientes em condições críticas correm risco de muitas complicações passíveis de prevenção pela prática independente dos enfermeiros. Por exemplo, pneumonias associadas à ventilação mecânica (1) e lesões por pressão (2). Além disso, é comum que os pacientes estejam com medo (3) e as famílias estressadas (4), pelo fato de precisar de conhecimento (5) para cuidar do ente querido quando voltarem para casa, diante dessa nova situação”. Analise o enunciado, observe os números citados e assinale a qual domínio do diagnóstico de enfermagem (NANDA-I) eles pertencem.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(1) refere-se ao domínio de promoção da saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "(3) refere-se ao domínio de enfrentamento e tolerância ao estresse."
+      },
+      {
+        "letra": "C",
+        "texto": "(4) refere-se ao domínio de percepção e cognição."
+      },
+      {
+        "letra": "D",
+        "texto": "(5) refere-se ao domínio de enfrentamento e tolerância."
+      },
+      {
+        "letra": "E",
+        "texto": "(2) refere-se ao domínio de autopercepção."
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cofen-736-2024",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "res-cofen-358-2009",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-nanda",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-pe"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q056",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 56,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "mulher",
+    "subtema": "Cistos mamários",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Referente aos cistos mamários em mulheres, assinale a alternativa correta.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os cistos ocorrem com maior frequência em mulheres de 30 a 55 anos de idade e podem ser exacerbados durante a perimenopausa."
+      },
+      {
+        "letra": "B",
+        "texto": "Embora sua etiologia seja desconhecida, os cistos comumente aumentam depois da menopausa, sugerindo que o estrogênio seja u m fator."
+      },
+      {
+        "letra": "C",
+        "texto": "Com frequência, as áreas císticas flutuam em tamanho e, comumente, tornam-se inflamatórias no período pré-menstrual."
+      },
+      {
+        "letra": "D",
+        "texto": "Os cistos que são confirmados em uma ultrassonografia necessitam de intervenção cirúrgica."
+      },
+      {
+        "letra": "E",
+        "texto": "Os cistos aumentam o risco de câncer de mama."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-cab-13",
+        "onde": null
+      },
+      {
+        "referencia_id": "ref-ricci",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "mul-gin"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q057",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 57,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "etica",
+    "subtema": "Análise ética na enfermagem",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "Na enfermagem, existem muitas situações em que se faz necessária a análise ética. Algumas situações se enquadram em dilemas morais, outras representam problemas morais, incerteza moral e angústia do dilema. Com base nessas situações, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) Dilemas morais são situações nas quais há um conflito nítido entre dois ou mais princípios morais ou alegações morais competitivas, devendo os(as) enfermeiros(as) optar pelo menor dentre os dois danos. ( ) Problemas morais são situações nas quais podem existir princípios ou alegações morais competitivas, mas em que uma alegação ou princípio é claramente dominante. ( ) Incerteza moral são situações nas quais não se pode definir com exatidão o que é a situação moral ou quais são os princípios morais que se aplicam, mas percebe-se que há uma forte sensação de que alguma coisa não está correta. ( ) Angústia do dilema são situações nas quais as informações obtidas de um indivíduo não serão reveladas para outro a menos que elas venham beneficiar a pessoa ou que exista uma ameaça direta ao bem social.",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – V – F – V."
+      },
+      {
+        "letra": "B",
+        "texto": "F – V – V – F."
+      },
+      {
+        "letra": "C",
+        "texto": "V – V – F – F."
+      },
+      {
+        "letra": "D",
+        "texto": "V – V – V – F."
+      },
+      {
+        "letra": "E",
+        "texto": "V – V – V – V."
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cofen-564-2017",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-prof"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q058",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 58,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Processo de enfermagem: implementação",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "O processo de enfermagem é realizado em várias etapas. Quando o enfermeiro coloca o plano de cuidado em ação, coordena as atividades do paciente e/ou família e registra as respostas do paciente às ações de enfermagem, ele está realizando",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o histórico de enfermagem."
+      },
+      {
+        "letra": "B",
+        "texto": "o diagnóstico de enfermagem."
+      },
+      {
+        "letra": "C",
+        "texto": "a evolução de enfermagem."
+      },
+      {
+        "letra": "D",
+        "texto": "o exame físico de enfermagem."
+      },
+      {
+        "letra": "E",
+        "texto": "a implementação de enfermagem."
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [
+      {
+        "documento_id": "res-cofen-736-2024",
+        "dispositivo": null
+      },
+      {
+        "documento_id": "res-cofen-358-2009",
+        "dispositivo": null
+      }
+    ],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "leg-pe"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q059",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 59,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "mental",
+    "subtema": "Comunicação terapêutica",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A técnica de comunicação terapêutica enfermeiro-paciente é uma estratégia muito eficaz para o estabelecimento do vínculo entre os envolvidos. Ela inclui várias estratégias, como a escuta, o silêncio, o esclarecimento, entre outras. Por exemplo, quando o enfermeiro está ouvindo e valida, reforça ou chama a atenção para alguma coisa importante que foi dita pelo paciente, ele está utilizando a técnica de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reafirmação."
+      },
+      {
+        "letra": "B",
+        "texto": "reflexão."
+      },
+      {
+        "letra": "C",
+        "texto": "informação."
+      },
+      {
+        "letra": "D",
+        "texto": "silêncio."
+      },
+      {
+        "letra": "E",
+        "texto": "escuta."
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-townsend",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "men-clin"
+    ],
+    "localidade": "Nacional"
+  },
+  {
+    "id": "aocp-2021-enare-enf-q060",
+    "origem": "prova",
+    "banca": "Instituto AOCP",
+    "ano": 2021,
+    "orgao": "EBSERH, ENARE 2021/2022 (Edital 2/2021), residência multiprofissional e uniprofissional",
+    "cargo": "Residência em área profissional da saúde · Enfermagem",
+    "categoria_profissional": "enfermeiro",
+    "especialidades": [],
+    "unidades": [
+      "Todas"
+    ],
+    "grupo_prova": "Enfermagem",
+    "tipo_prova": "Tipo 01",
+    "tipo": "residencia",
+    "numero": 60,
+    "disciplina": "Competências específicas de Enfermagem",
+    "tema": "fund",
+    "subtema": "Modelo transteórico de mudança de comportamento",
+    "dificuldade": 3,
+    "texto_apoio": null,
+    "enunciado": "A motivação de uma pessoa para tomar decisões que promovam a mudança de comportamento saudável engloba seis estágios de um modelo denominado “Modelo de Mudança Transteórico”. Assim, quando um paciente, em parceria com o profissional de saúde, constrói um plano para mudar seu comportamento, é correto afirmar que esse paciente está no estágio",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pré-contemplativo."
+      },
+      {
+        "letra": "B",
+        "texto": "contemplativo."
+      },
+      {
+        "letra": "C",
+        "texto": "de Tomada de decisão."
+      },
+      {
+        "letra": "D",
+        "texto": "de Manutenção."
+      },
+      {
+        "letra": "E",
+        "texto": "de Término."
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "comentario": null,
+    "fontes": [],
+    "referencias": [
+      {
+        "referencia_id": "ref-potter",
+        "onde": null
+      }
+    ],
+    "data_referencia": null,
+    "status_revisao": "rascunho",
+    "revisor": null,
+    "assuntos": [
+      "fund-proc"
+    ],
+    "localidade": "Nacional"
+  }
+]

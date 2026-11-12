@@ -1,0 +1,272 @@
+/* Página inicial: uma coluna, seções largas, cartões em grade. */
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: color-mix(in srgb, var(--bg) 85%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--line);
+}
+.navIn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-block: 12px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 1.08rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+.links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+.links a {
+  color: var(--muted);
+  font-weight: 700;
+  text-decoration: none;
+}
+@media (max-width: 760px) {
+  .links a:not(.btn) {
+    display: none;
+  }
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 14px 22px;
+  border: none;
+  border-radius: 14px;
+  font-weight: 800;
+  text-decoration: none;
+  cursor: pointer;
+}
+.links a.primario,
+.primario {
+  background: var(--accent);
+  color: var(--accent-ink);
+  box-shadow: 0 8px 22px color-mix(in srgb, var(--accent) 35%, transparent);
+}
+.secundario {
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--line);
+}
+.btnNav {
+  min-height: 42px;
+  padding: 10px 16px;
+}
+
+.tag {
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: 48px;
+  align-items: center;
+  padding-block: 64px 40px;
+}
+.hero h1 {
+  font-size: clamp(2.2rem, 5.4vw, 3.9rem);
+  line-height: 1.04;
+  margin: 14px 0 18px;
+}
+.hero h1 em {
+  font-style: normal;
+  color: var(--accent);
+}
+.lead {
+  font-size: 1.15rem;
+  max-width: 560px;
+}
+.ctas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+.confianca {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin: 26px 0 0;
+  padding: 0;
+  list-style: none;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+.confianca li::before {
+  content: "✓ ";
+  color: var(--good);
+  font-weight: 800;
+}
+.capa svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 460px;
+}
+@media (max-width: 900px) {
+  .hero {
+    grid-template-columns: 1fr;
+    padding-block: 36px 24px;
+  }
+  .capa {
+    display: none;
+  }
+}
+
+.secao {
+  padding-block: 40px;
+}
+.cabeca {
+  max-width: 720px;
+  margin-bottom: 28px;
+}
+.cabeca h2 {
+  font-size: clamp(1.7rem, 3.6vw, 2.5rem);
+  line-height: 1.12;
+  margin-top: 10px;
+}
+.cabeca p {
+  margin-top: 12px;
+  font-size: 1.05rem;
+}
+
+.grade {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+@media (max-width: 1000px) {
+  .grade {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 520px) {
+  .grade {
+    grid-template-columns: 1fr;
+  }
+}
+
+.alvo,
+.recurso,
+.plano {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 14px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+}
+.recurso,
+.plano {
+  padding: 20px;
+}
+.alvo h3,
+.recurso h3 {
+  font-size: 1.05rem;
+}
+.arte {
+  height: 92px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.arte svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.pequeno {
+  font-size: 0.85rem;
+}
+.pilulas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.pilula {
+  font-size: 0.76rem;
+  font-weight: 800;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--muted);
+}
+.disponivel,
+.embreve {
+  font-size: 0.8rem;
+  font-weight: 800;
+  margin-top: auto;
+}
+.disponivel {
+  color: var(--good);
+}
+.embreve {
+  color: var(--muted);
+}
+
+.planos {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+@media (max-width: 900px) {
+  .planos {
+    grid-template-columns: 1fr;
+    max-width: 460px;
+  }
+}
+.destaque {
+  border: 2px solid var(--accent);
+}
+.preco {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 2.2rem;
+  line-height: 1;
+}
+.preco small {
+  font-family: var(--body);
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.plano ul {
+  margin: 0;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.rodape {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding-block: 28px 40px;
+  margin-top: 40px;
+  border-top: 1px solid var(--line);
+}

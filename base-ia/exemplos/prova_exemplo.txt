@@ -1,0 +1,22 @@
+Banca: FGV | Ano: 2024 | Órgão: Prefeitura de Exemplo | Cargo: Enfermeiro | Tipo: Concurso | Tema: Legislação do SUS | Dificuldade: 2
+Fonte: lei-8142-1990, art. 1
+De acordo com a Lei 8.142/1990, a Conferência de Saúde reúne-se a cada:
+A) dois anos
+B) três anos
+C) quatro anos
+D) cinco anos
+E) seis anos
+Gabarito: C
+Comentário: Art. 1º, § 1º da Lei 8.142/1990.
+Continua em outra linha.
+---
+Banca: Instituto AOCP | Ano: 2023 | Órgão: Hospital Universitário Teste | Tipo: Residência Multiprofissional | Tema: Urgência e Emergência
+Na RCP do adulto sem via aérea avançada, a relação compressão-ventilação é:
+A) 15:2
+B) 30:2
+C) 3:1
+D) 5:1
+Gabarito: B
+---
+Questão quebrada sem alternativas
+Gabarito: A

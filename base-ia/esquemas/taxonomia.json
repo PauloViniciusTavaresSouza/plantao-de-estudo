@@ -1,0 +1,282 @@
+[
+  {
+    "id": "sus",
+    "nome": "SUS e Políticas de Saúde",
+    "assuntos": [
+      {
+        "id": "sus-leis",
+        "nome": "Legislação do SUS"
+      },
+      {
+        "id": "sus-politicas",
+        "nome": "Políticas de saúde"
+      },
+      {
+        "id": "sus-controle",
+        "nome": "Controle social"
+      },
+      {
+        "id": "sus-financ",
+        "nome": "Financiamento e saúde suplementar"
+      },
+      {
+        "id": "sus-historia",
+        "nome": "História das políticas de saúde"
+      }
+    ]
+  },
+  {
+    "id": "vig",
+    "nome": "Vigilância em Saúde",
+    "assuntos": [
+      {
+        "id": "vig-epi",
+        "nome": "Vigilância epidemiológica"
+      },
+      {
+        "id": "vig-sanit",
+        "nome": "Vigilância sanitária"
+      },
+      {
+        "id": "vig-amb",
+        "nome": "Vigilância ambiental"
+      },
+      {
+        "id": "vig-trab",
+        "nome": "Saúde do trabalhador"
+      },
+      {
+        "id": "vig-imun",
+        "nome": "Imunização"
+      },
+      {
+        "id": "vig-pnvs",
+        "nome": "Política de Vigilância em Saúde"
+      }
+    ]
+  },
+  {
+    "id": "gest",
+    "nome": "Gestão e Gerência",
+    "assuntos": [
+      {
+        "id": "gest-enf",
+        "nome": "Gerenciamento em enfermagem"
+      },
+      {
+        "id": "gest-aud",
+        "nome": "Auditoria"
+      },
+      {
+        "id": "gest-qual",
+        "nome": "Qualidade e segurança do paciente"
+      },
+      {
+        "id": "gest-edu",
+        "nome": "Educação permanente e em saúde"
+      }
+    ]
+  },
+  {
+    "id": "leg",
+    "nome": "Ética e Legislação",
+    "assuntos": [
+      {
+        "id": "leg-prof",
+        "nome": "Exercício profissional e ética"
+      },
+      {
+        "id": "leg-pe",
+        "nome": "Processo de enfermagem"
+      },
+      {
+        "id": "leg-ebserh",
+        "nome": "Legislação da EBSERH"
+      }
+    ]
+  },
+  {
+    "id": "urg",
+    "nome": "Urgência e Emergência",
+    "assuntos": [
+      {
+        "id": "urg-rcp",
+        "nome": "Parada cardiorrespiratória e RCP"
+      },
+      {
+        "id": "urg-trauma",
+        "nome": "Trauma e primeiros socorros"
+      },
+      {
+        "id": "urg-clin",
+        "nome": "Emergências clínicas e choque"
+      },
+      {
+        "id": "urg-org",
+        "nome": "Organização da urgência"
+      }
+    ]
+  },
+  {
+    "id": "cri",
+    "nome": "Saúde da Criança",
+    "assuntos": [
+      {
+        "id": "cri-ped",
+        "nome": "Pediatria"
+      },
+      {
+        "id": "cri-neo",
+        "nome": "Neonatologia"
+      },
+      {
+        "id": "cri-alei",
+        "nome": "Aleitamento materno"
+      }
+    ]
+  },
+  {
+    "id": "mul",
+    "nome": "Saúde da Mulher",
+    "assuntos": [
+      {
+        "id": "mul-obs",
+        "nome": "Obstetrícia e parto"
+      },
+      {
+        "id": "mul-gin",
+        "nome": "Ginecologia e prevenção"
+      }
+    ]
+  },
+  {
+    "id": "cli",
+    "nome": "Clínica Médica e Cirúrgica",
+    "assuntos": [
+      {
+        "id": "cli-cir",
+        "nome": "Centro cirúrgico e perioperatório"
+      },
+      {
+        "id": "cli-card",
+        "nome": "Cardiologia"
+      },
+      {
+        "id": "cli-resp",
+        "nome": "Respiratório e oxigenoterapia"
+      },
+      {
+        "id": "cli-nef",
+        "nome": "Nefrologia e diálise"
+      },
+      {
+        "id": "cli-hemo",
+        "nome": "Hemoterapia"
+      },
+      {
+        "id": "cli-feridas",
+        "nome": "Feridas e lesão por pressão"
+      },
+      {
+        "id": "cli-cron",
+        "nome": "Doenças crônicas"
+      },
+      {
+        "id": "cli-infec",
+        "nome": "Doenças infecciosas e IST"
+      },
+      {
+        "id": "cli-neuro",
+        "nome": "Neurologia"
+      }
+    ]
+  },
+  {
+    "id": "fund",
+    "nome": "Fundamentos de Enfermagem",
+    "assuntos": [
+      {
+        "id": "fund-semio",
+        "nome": "Semiologia e exame físico"
+      },
+      {
+        "id": "fund-ssvv",
+        "nome": "Sinais vitais"
+      },
+      {
+        "id": "fund-proc",
+        "nome": "Procedimentos de enfermagem"
+      }
+    ]
+  },
+  {
+    "id": "farm",
+    "nome": "Farmacologia e Cálculo",
+    "assuntos": [
+      {
+        "id": "farm-calc",
+        "nome": "Cálculo de medicação"
+      },
+      {
+        "id": "farm-adm",
+        "nome": "Administração de medicamentos"
+      }
+    ]
+  },
+  {
+    "id": "bio",
+    "nome": "Biossegurança e Infecção",
+    "assuntos": [
+      {
+        "id": "bio-prec",
+        "nome": "Precauções e isolamento"
+      },
+      {
+        "id": "bio-proc",
+        "nome": "Processamento de produtos"
+      },
+      {
+        "id": "bio-resid",
+        "nome": "Resíduos, NR 32 e exposição"
+      }
+    ]
+  },
+  {
+    "id": "men",
+    "nome": "Saúde Mental",
+    "assuntos": [
+      {
+        "id": "men-pol",
+        "nome": "Políticas de saúde mental"
+      },
+      {
+        "id": "men-clin",
+        "nome": "Transtornos e cuidado"
+      }
+    ]
+  },
+  {
+    "id": "ido",
+    "nome": "Saúde do Idoso",
+    "assuntos": [
+      {
+        "id": "ido-geral",
+        "nome": "Saúde do idoso"
+      }
+    ]
+  },
+  {
+    "id": "port",
+    "nome": "Língua Portuguesa",
+    "assuntos": [
+      {
+        "id": "port-texto",
+        "nome": "Interpretação de texto"
+      },
+      {
+        "id": "port-gram",
+        "nome": "Gramática"
+      }
+    ]
+  }
+]

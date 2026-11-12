@@ -1,0 +1,85 @@
+id,titulo,tipo,numero,ano,orgao,tema,prioridade,formato,url_oficial,observacao
+lei-7498-1986,Lei do Exercício Profissional da Enfermagem,lei,7.498,1986,Presidência da República,etica,alta,html,https://www.planalto.gov.br/ccivil_03/leis/l7498.htm,
+decreto-94406-1987,Regulamenta a Lei 7.498/1986,decreto,94.406,1987,Presidência da República,etica,alta,html,https://www.planalto.gov.br/ccivil_03/decreto/1980-1989/d94406.htm,
+lei-5905-1973,Cria os Conselhos Federal e Regionais de Enfermagem,lei,5.905,1973,Presidência da República,etica,media,html,https://www.planalto.gov.br/ccivil_03/leis/l5905.htm,
+res-cofen-564-2017,Código de Ética dos Profissionais de Enfermagem,resolucao,564,2017,Cofen,etica,alta,html,https://www.cofen.gov.br/resolucao-cofen-no-5642017/,Conferir alterações posteriores no site do Cofen
+res-cofen-736-2024,Processo de Enfermagem,resolucao,736,2024,Cofen,etica,alta,pdf,https://cofen.gov.br/wp-content/uploads/2024/01/Resolucao-736-2024.pdf,Substituiu a Resolução Cofen 358/2009
+lei-14434-2022,Piso salarial da enfermagem,lei,14.434,2022,Presidência da República,etica,baixa,html,https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14434.htm,Tema com decisões judiciais posteriores; conferir situação atual
+cf-1988-saude,Constituição Federal: seção da Saúde (arts. 196 a 200),constituicao,,1988,Presidência da República,sus,alta,html,https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm,Baixar a página inteira e filtrar os arts. 196 a 200
+lei-8080-1990,Lei Orgânica da Saúde,lei,8.080,1990,Presidência da República,sus,alta,html,https://www.planalto.gov.br/ccivil_03/leis/l8080.htm,
+lei-8142-1990,Participação da comunidade e financiamento do SUS,lei,8.142,1990,Presidência da República,sus,alta,html,https://www.planalto.gov.br/ccivil_03/leis/l8142.htm,
+decreto-7508-2011,Regulamenta a Lei 8.080 (organização do SUS e regiões de saúde),decreto,7.508,2011,Presidência da República,sus,alta,html,https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7508.htm,
+lc-141-2012,Valores mínimos aplicados em saúde,lei complementar,141,2012,Presidência da República,sus,media,html,https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp141.htm,
+portaria-2436-2017,Política Nacional de Atenção Básica (PNAB),portaria,2.436,2017,Ministério da Saúde,sus,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt2436_22_09_2017.html,Consolidada na Portaria de Consolidação nº 2/2017; conferir alterações
+portaria-529-2013,Programa Nacional de Segurança do Paciente,portaria,529,2013,Ministério da Saúde,seguranca,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2013/prt0529_01_04_2013.html,
+rdc-36-2013,Ações para a segurança do paciente em serviços de saúde,rdc,36,2013,Anvisa,seguranca,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2013/rdc0036_25_07_2013.html,
+nr-32,NR 32: Segurança e saúde no trabalho em serviços de saúde,norma regulamentadora,32,2005,Ministério do Trabalho,biosseguranca,alta,pdf,https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/2005/portaria_485_aprova_nr_32.pdf,Este é o texto original de 2005; buscar o texto consolidado atual na página de NRs do gov.br
+rdc-222-2018,Gerenciamento de resíduos de serviços de saúde,rdc,222,2018,Anvisa,biosseguranca,alta,pdf,https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2018/rdc0222_28_03_2018.pdf,
+rdc-15-2012,Processamento de produtos para saúde,rdc,15,2012,Anvisa,biosseguranca,media,html,https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2012/rdc0015_15_03_2012.html,
+rdc-50-2002,Estrutura física de estabelecimentos assistenciais de saúde,rdc,50,2002,Anvisa,gestao,baixa,html,https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html,
+lei-10216-2001,Lei da Reforma Psiquiátrica,lei,10.216,2001,Presidência da República,mental,alta,html,https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm,
+portaria-3088-2011,Rede de Atenção Psicossocial (RAPS),portaria,3.088,2011,Ministério da Saúde,mental,media,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html,Consolidada na Portaria de Consolidação nº 3/2017; conferir alterações
+lei-8069-1990,Estatuto da Criança e do Adolescente,lei,8.069,1990,Presidência da República,crianca,media,html,https://www.planalto.gov.br/ccivil_03/leis/l8069.htm,Focar nos artigos de saúde
+lei-10741-2003,Estatuto da Pessoa Idosa,lei,10.741,2003,Presidência da República,idoso,media,html,https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm,Focar nos artigos de saúde
+lei-13146-2015,Estatuto da Pessoa com Deficiência,lei,13.146,2015,Presidência da República,sus,baixa,html,https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm,
+lei-9263-1996,Planejamento familiar,lei,9.263,1996,Presidência da República,mulher,media,html,https://www.planalto.gov.br/ccivil_03/leis/l9263.htm,Alterada pela Lei 14.443/2022
+lei-11108-2005,Direito a acompanhante no parto,lei,11.108,2005,Presidência da República,mulher,media,html,https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11108.htm,
+lei-10778-2003,Notificação compulsória de violência contra a mulher,lei,10.778,2003,Presidência da República,mulher,media,html,https://www.planalto.gov.br/ccivil_03/leis/2003/l10.778.htm,
+lei-6259-1975,Vigilância epidemiológica e Programa Nacional de Imunizações,lei,6.259,1975,Presidência da República,vigilancia,media,html,https://www.planalto.gov.br/ccivil_03/leis/l6259.htm,
+lista-notificacao-compulsoria,Lista nacional de notificação compulsória,portaria,,,Ministério da Saúde,vigilancia,alta,html,,Está na Portaria de Consolidação nº 4/2017 e muda com frequência; buscar a versão mais recente no gov.br
+calendario-vacinacao,Calendário Nacional de Vacinação,manual,,,Ministério da Saúde,imunizacao,alta,html,,Muda todo ano; buscar a versão vigente no gov.br/saude
+manual-vacinacao,Manual de Normas e Procedimentos para Vacinação,manual,,,Ministério da Saúde,imunizacao,alta,pdf,,Buscar a edição mais recente na BVS do Ministério da Saúde
+cab-32-prenatal,Caderno de Atenção Básica nº 32: Atenção ao pré-natal de baixo risco,manual,32,2012,Ministério da Saúde,mulher,alta,pdf,,Conferir se há protocolo mais recente da Rede Alyne
+protocolo-saude-mulheres,Protocolos da Atenção Básica: Saúde das Mulheres,manual,,2016,Ministério da Saúde,mulher,media,pdf,,
+diretriz-rcp-aha,Diretrizes de RCP e ACE da American Heart Association,diretriz,,,AHA,urgencia,alta,pdf,,Material com direitos autorais: usar só resumo próprio e citar a edição
+lei-12550-2011,Lei de criação da Ebserh,lei,12.550,2011,Presidência da República,legislacao_institucional,alta,html,https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12550.htm,Base da disciplina Legislação EBSERH
+ebserh-estatuto-social,Estatuto Social da Ebserh,estatuto,,,Ebserh,legislacao_institucional,alta,pdf,,Buscar a versão vigente no site da Ebserh (gov.br/ebserh)
+ebserh-regimento-interno,Regimento Interno da Ebserh,regimento,,,Ebserh,legislacao_institucional,alta,pdf,,Buscar a versão vigente no site da Ebserh
+ebserh-regulamento-pessoal,Regulamento de Pessoal da Ebserh,regulamento,,,Ebserh,legislacao_institucional,media,pdf,,Buscar a versão vigente no site da Ebserh
+ebserh-codigo-etica,Código de Ética e Conduta da Ebserh,codigo,,,Ebserh,legislacao_institucional,media,pdf,,Buscar a versão vigente no site da Ebserh
+res-cns-553-2017,Carta dos direitos e deveres da pessoa usuária da saúde,resolucao,553,2017,Conselho Nacional de Saúde,sus,alta,pdf,https://conselho.saude.gov.br/resolucoes/2017/Reso553.pdf,Conferir o link
+pnh-humanizasus,Política Nacional de Humanização (HumanizaSUS),politica,,,Ministério da Saúde,sus,alta,pdf,,Buscar o documento base na BVS do Ministério da Saúde
+portaria-3390-2013,Política Nacional de Atenção Hospitalar (PNHOSP),portaria,3.390,2013,Ministério da Saúde,sus,media,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2013/prt3390_30_12_2013.html,Consolidada na Portaria de Consolidação nº 2/2017
+portaria-992-2009,Política Nacional de Saúde Integral da População Negra,portaria,992,2009,Ministério da Saúde,sus,media,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2009/prt0992_13_05_2009.html,Consolidada na Portaria de Consolidação nº 2/2017
+nob-rh-sus,Norma Operacional Básica de Recursos Humanos do SUS,norma,,2005,Conselho Nacional de Saúde,sus,baixa,pdf,,Buscar na BVS do Ministério da Saúde
+portaria-5350-2024,Rede Alyne: altera a Rede Cegonha,portaria,5.350,2024,Ministério da Saúde,mulher,alta,html,,Publicada em 12/09/2024; buscar no Diário Oficial da União
+portaria-5359-2024,Rede Alyne: incentivos financeiros,portaria,5.359,2024,Ministério da Saúde,mulher,media,html,,Publicada em 12/09/2024; buscar no Diário Oficial da União
+pcdt-tab-2016,Protocolo Clínico e Diretrizes Terapêuticas do Transtorno Afetivo Bipolar tipo I,protocolo,,2016,Ministério da Saúde,mental,media,pdf,,Buscar na página de PCDTs da Conitec
+instrutivo-raps-2022,Instrutivo técnico da Rede de Atenção Psicossocial,manual,,2022,Ministério da Saúde,mental,media,pdf,,Buscar na BVS do Ministério da Saúde
+caderneta-crianca,Caderneta da Criança,manual,,,Ministério da Saúde,crianca,alta,pdf,,Usar a edição mais recente
+pcdt-pep,PCDT de Profilaxia Pós-Exposição (PEP) ao HIV e outras ISTs,protocolo,,,Ministério da Saúde,clinica,alta,pdf,,Buscar a versão vigente na Conitec
+pcdt-prep,PCDT de Profilaxia Pré-Exposição (PrEP) ao HIV,protocolo,,,Ministério da Saúde,clinica,media,pdf,,Buscar a versão vigente na Conitec
+abc-do-cancer-2020,ABC do Câncer: abordagens básicas para o controle do câncer,manual,,2020,INCA,clinica,media,pdf,,Buscar no site do INCA
+res-cofen-710-2022,Atuação da enfermagem no processo de doação e transplante,resolucao,710,2022,Cofen,clinica,media,pdf,,Buscar no site do Cofen
+parecer-cofen-1-2024,Parecer Normativo Cofen nº 1/2024 (dimensionamento de pessoal),parecer,1,2024,Cofen,gestao,alta,pdf,,Buscar no site do Cofen; conferir se houve atualização posterior
+anvisa-caderno-iras-2017,Medidas de prevenção de infecção relacionada à assistência à saúde,manual,,2017,Anvisa,bio,alta,pdf,,Série Segurança do Paciente e Qualidade em Serviços de Saúde; buscar no site da Anvisa
+guia-vigilancia-saude,Guia de Vigilância em Saúde,manual,,,Ministério da Saúde,vigilancia,alta,pdf,,Usar a edição mais recente
+portaria-230-2023,"Programa Nacional de Equidade de Gênero, Raça e Valorização das Trabalhadoras no SUS",portaria,230,2023,Ministério da Saúde,sus,media,html,,Buscar no Saúde Legis (bvsms.saude.gov.br)
+res-cns-453-2012,Diretrizes para os Conselhos de Saúde,resolucao,453,2012,Conselho Nacional de Saúde,sus,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/cns/2012/res0453_10_05_2012.html,Conferir o link
+rdc-63-2011,RDC 63/2011: Boas Práticas de Funcionamento dos serviços de saúde,rdc,63,2011,Anvisa,seguranca,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2011/rdc0063_25_11_2011.html,Conferir o link
+portaria-4279-2010,Diretrizes para a organização da Rede de Atenção à Saúde (RAS),portaria,4.279,2010,Ministério da Saúde,sus,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2010/prt4279_30_12_2010.html,Consolidada na Portaria de Consolidação nº 3/2017
+portaria-1526-2023,"Portaria GM/MS 1.526/2023: altera as Portarias de Consolidação 2, 3 e 6 (Política Nacional de Atenção Integral à Saúde da Pessoa com Deficiência)",portaria,1.526,2023,Ministério da Saúde,sus,media,html,,Buscar no Saúde Legis e conferir o tema
+res-cns-588-2018,Política Nacional de Vigilância em Saúde (PNVS),resolucao,588,2018,Conselho Nacional de Saúde,vigilancia,alta,pdf,https://conselho.saude.gov.br/resolucoes/2018/Reso588.pdf,Conferir o link
+portaria-1996-2007,Política Nacional de Educação Permanente em Saúde (PNEPS),portaria,1.996,2007,Ministério da Saúde,gestao,media,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2007/prt1996_20_08_2007.html,Conferir alterações posteriores
+portaria-502-2023,Programa Nacional de Controle do Tabagismo (PNCT),portaria,502,2023,Ministério da Saúde,sus,media,html,,Buscar no Saúde Legis
+decreto-7602-2011,Política Nacional de Segurança e Saúde no Trabalho (PNSST),decreto,7.602,2011,Presidência da República,saude_trabalhador,alta,html,https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7602.htm,
+clt,"Consolidação das Leis do Trabalho (Decreto-Lei 5.452/1943), capítulo de segurança e medicina do trabalho",decreto-lei,5.452,1943,Presidência da República,saude_trabalhador,media,html,https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm,Cobrar só os arts. 154 a 201
+nr-4,NR 4: Serviços Especializados em Segurança e Medicina do Trabalho (SESMT),norma regulamentadora,4,,Ministério do Trabalho,saude_trabalhador,alta,pdf,,Buscar o texto vigente na página de NRs do gov.br
+nr-6,NR 6: Equipamento de Proteção Individual (EPI),norma regulamentadora,6,,Ministério do Trabalho,saude_trabalhador,alta,pdf,,Buscar o texto vigente na página de NRs do gov.br
+nr-9,"NR 9: Avaliação e controle das exposições ocupacionais a agentes físicos, químicos e biológicos",norma regulamentadora,9,,Ministério do Trabalho,saude_trabalhador,alta,pdf,,Texto de 2020 substituiu o PPRA pelo PGR (NR 1); conferir a versão vigente
+nr-17,NR 17: Ergonomia,norma regulamentadora,17,,Ministério do Trabalho,saude_trabalhador,alta,pdf,,Buscar o texto vigente na página de NRs do gov.br
+nho-fundacentro,Normas de Higiene Ocupacional (NHO) da Fundacentro,norma tecnica,,,Fundacentro,saude_trabalhador,baixa,pdf,,Conferir direitos de uso antes de incluir o texto
+diretrizes-has-2020,Diretrizes Brasileiras de Hipertensão Arterial 2020,diretriz,,2020,Sociedade Brasileira de Cardiologia,clinica,alta,pdf,,Material com direitos autorais: usar só resumo próprio e citar a edição
+lei-8213-1991,"Planos de Benefícios da Previdência Social (definição de acidente de trabalho, arts. 19 a 21)",lei,8.213,1991,Presidência da República,saude_trabalhador,alta,html,https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm,Cobrar arts. 19 a 23
+portaria-1999-2023,Lista de Doenças Relacionadas ao Trabalho (LDRT),portaria,1.999,2023,Ministério da Saúde,saude_trabalhador,alta,html,,Altera a Portaria de Consolidação nº 5/2017; buscar no Saúde Legis
+decreto-1254-1994,Promulga a Convenção 155 da OIT (segurança e saúde dos trabalhadores),decreto,1.254,1994,Presidência da República,saude_trabalhador,media,html,https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d1254.htm,Conferir o link
+nr-5,NR 5: Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA),norma regulamentadora,5,,Ministério do Trabalho,saude_trabalhador,alta,pdf,,Buscar o texto vigente na página de NRs do gov.br
+portaria-2048-2002,Regulamento Técnico dos Sistemas Estaduais de Urgência e Emergência,portaria,2.048,2002,Ministério da Saúde,urg,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2002/prt2048_05_11_2002.html,Conferir o link
+res-cfm-1451-1995,Definições de urgência e emergência e estrutura do pronto-socorro,resolucao,1.451,1995,Conselho Federal de Medicina,urg,media,html,,Buscar no portal do CFM
+lei-9656-1998,Planos e seguros privados de assistência à saúde (saúde suplementar),lei,9.656,1998,Presidência da República,sus,media,html,https://www.planalto.gov.br/ccivil_03/leis/l9656.htm,
+res-cofen-266-2001,Atividades do enfermeiro auditor,resolucao,266,2001,Cofen,gestao,media,html,,Buscar no portal do Cofen
+portaria-1944-2009,Política Nacional de Atenção Integral à Saúde do Homem (PNAISH),portaria,1.944,2009,Ministério da Saúde,clinica,media,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2009/prt1944_27_08_2009.html,Consolidada na Portaria de Consolidação nº 2/2017
+lei-9782-1999,Sistema Nacional de Vigilância Sanitária e criação da Anvisa,lei,9.782,1999,Presidência da República,vigilancia,alta,html,https://www.planalto.gov.br/ccivil_03/leis/l9782.htm,
+portaria-2836-2011,"Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais",portaria,2.836,2011,Ministério da Saúde,sus,media,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2836_01_12_2011.html,Consolidada na Portaria de Consolidação nº 2/2017
+res-cofen-358-2009,Processo de Enfermagem (revogada),resolucao,358,2009,Cofen,fund,media,html,,Revogada pela Resolução Cofen 736/2024. Serve só para entender questões antigas
+portaria-158-2016,Regulamento técnico de procedimentos hemoterápicos,portaria,158,2016,Ministério da Saúde,clinica,alta,html,https://bvsms.saude.gov.br/bvs/saudelegis/gm/2016/prt0158_04_02_2016.html,Consolidada na Portaria de Consolidação nº 5/2017

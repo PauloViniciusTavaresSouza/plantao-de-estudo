@@ -1,0 +1,641 @@
+{
+  "banca": "FGV",
+  "ano": 2025,
+  "orgao": "EBSERH, Concurso Nacional, Área Assistencial (Edital 03/2024)",
+  "data_prova": "2025-03-16",
+  "tipo": "concurso",
+  "unidades": [
+    "Todas"
+  ],
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ebserrhassistencial2024_gabarito_definitivo.pdf",
+  "fonte_gabarito": "gabarito definitivo FGV",
+  "cargo": "Técnico em Enfermagem - Especialização Técnica em Saúde do Trabalhador",
+  "categoria_profissional": "tecnico_enfermagem",
+  "grupo_prova": "Grupo 16",
+  "tipo_prova": "Tipo 1",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/grupo-16-tecnico-em-enfermagem-especializacao-tecnica-em-saude-do-trabalhadore3cnmgp16-tipo-1.pdf",
+  "especialidades": [
+    "Saúde do Trabalhador"
+  ],
+  "status": "texto das questões importado (rascunho, falta revisão)",
+  "questoes": [
+    {
+      "numero": 1,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 2,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 3,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 4,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 5,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "D",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 6,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 7,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 8,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 9,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 10,
+      "disciplina": "Língua Portuguesa",
+      "tema": "portugues",
+      "assunto": null,
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 11,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Regulamento de Pessoal da Ebserh",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "ebserh-regulamento-pessoal"
+      ]
+    },
+    {
+      "numero": 12,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Lei 12.550/2011: criação e regras da Ebserh",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "lei-12550-2011"
+      ]
+    },
+    {
+      "numero": 13,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Estatuto Social da Ebserh (Decreto 7.661/2011)",
+      "gabarito": null,
+      "anulada": true,
+      "normas": [
+        "ebserh-estatuto-social"
+      ]
+    },
+    {
+      "numero": 14,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Conselho Consultivo da Ebserh",
+      "gabarito": null,
+      "anulada": true,
+      "normas": [
+        "ebserh-estatuto-social"
+      ]
+    },
+    {
+      "numero": 15,
+      "disciplina": "Legislação EBSERH",
+      "tema": "legislacao_institucional",
+      "assunto": "Código de Ética e Conduta da Ebserh",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "ebserh-codigo-etica"
+      ]
+    },
+    {
+      "numero": 16,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Programa de Equidade de Gênero e Raça no SUS",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "portaria-230-2023"
+      ]
+    },
+    {
+      "numero": 17,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Conselhos de Saúde",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "res-cns-453-2012",
+        "lei-8142-1990"
+      ]
+    },
+    {
+      "numero": 18,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "seguranca",
+      "assunto": "Boas Práticas de Funcionamento dos serviços de saúde",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "rdc-63-2011"
+      ]
+    },
+    {
+      "numero": 19,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Estratégia Saúde da Família",
+      "gabarito": null,
+      "anulada": true,
+      "normas": [
+        "portaria-2436-2017"
+      ]
+    },
+    {
+      "numero": 20,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Política Nacional de Atenção Básica",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "portaria-2436-2017"
+      ]
+    },
+    {
+      "numero": 21,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Financiamento: LC 141/2012",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "lc-141-2012"
+      ]
+    },
+    {
+      "numero": 22,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Redes de Atenção à Saúde",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "portaria-4279-2010"
+      ]
+    },
+    {
+      "numero": 23,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Portaria GM/MS 1.526/2023",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "portaria-1526-2023"
+      ]
+    },
+    {
+      "numero": 24,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "vigilancia",
+      "assunto": "Política Nacional de Vigilância em Saúde",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "res-cns-588-2018"
+      ]
+    },
+    {
+      "numero": 25,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "vigilancia",
+      "assunto": "Vigilância de eventos adversos de produtos (Notivisa)",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 26,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "gestao",
+      "assunto": "Educação Permanente em Saúde",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "portaria-1996-2007"
+      ]
+    },
+    {
+      "numero": 27,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Decreto 7.508/2011",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "decreto-7508-2011"
+      ]
+    },
+    {
+      "numero": 28,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Seguridade social na Constituição",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "cf-1988-saude"
+      ]
+    },
+    {
+      "numero": 29,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "seguranca",
+      "assunto": "Boas Práticas de Funcionamento (RDC 63)",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "rdc-63-2011"
+      ]
+    },
+    {
+      "numero": 30,
+      "disciplina": "Políticas Públicas de Saúde e Educação",
+      "tema": "sus",
+      "assunto": "Carta dos direitos e deveres da pessoa usuária",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "res-cns-553-2017"
+      ]
+    },
+    {
+      "numero": 31,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "fund",
+      "assunto": "Preparo de medicamento em frasco-ampola",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 32,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "etica",
+      "assunto": "Código de Ética dos Profissionais de Enfermagem",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "res-cofen-564-2017"
+      ]
+    },
+    {
+      "numero": 33,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "vigilancia",
+      "assunto": "Vigilância em saúde ambiental",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 34,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "sus",
+      "assunto": "Programa Nacional de Controle do Tabagismo",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "portaria-502-2023"
+      ]
+    },
+    {
+      "numero": 35,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Ergonomia e postura",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "nr-17"
+      ]
+    },
+    {
+      "numero": 36,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "vigilancia",
+      "assunto": "Desastres e exposição a rejeitos de mineração",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 37,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Avaliação da força muscular",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 38,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "LER/DORT",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 39,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Doenças infectocontagiosas no trabalho",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "nr-32"
+      ]
+    },
+    {
+      "numero": 40,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Condições ambientais de trabalho",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "nr-17"
+      ]
+    },
+    {
+      "numero": 41,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "NR 4: SESMT",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "nr-4"
+      ]
+    },
+    {
+      "numero": 42,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "NR 6: EPI",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "nr-6"
+      ]
+    },
+    {
+      "numero": 43,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "CLT: segurança e medicina do trabalho",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "clt"
+      ]
+    },
+    {
+      "numero": 44,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "NR 9: exposições ocupacionais",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "nr-9"
+      ]
+    },
+    {
+      "numero": 45,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Controle social em saúde do trabalhador (Cisttão/CNS)",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 46,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "NR 9 e PPRA",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "nr-9"
+      ]
+    },
+    {
+      "numero": 47,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Organização Internacional do Trabalho",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 48,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Normas de Higiene Ocupacional da Fundacentro",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "nho-fundacentro"
+      ]
+    },
+    {
+      "numero": 49,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Prevenção de acidentes",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 50,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "fund",
+      "assunto": "Administração intramuscular de dipirona",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 51,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Política Nacional de Segurança e Saúde no Trabalho",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "decreto-7602-2011"
+      ]
+    },
+    {
+      "numero": 52,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "mental",
+      "assunto": "Transtornos mentais relacionados ao trabalho",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 53,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "clinica",
+      "assunto": "Desidratação",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 54,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "NR 32: prevenção de riscos",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "nr-32"
+      ]
+    },
+    {
+      "numero": 55,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "imunizacao",
+      "assunto": "Ferimento e profilaxia do tétano",
+      "gabarito": "A",
+      "anulada": false,
+      "normas": [
+        "calendario-vacinacao"
+      ]
+    },
+    {
+      "numero": 56,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "saude_trabalhador",
+      "assunto": "Dermatoses ocupacionais",
+      "gabarito": "B",
+      "anulada": false,
+      "normas": [
+        "lista-notificacao-compulsoria"
+      ]
+    },
+    {
+      "numero": 57,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "fund",
+      "assunto": "Pressão arterial",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": [
+        "diretrizes-has-2020"
+      ]
+    },
+    {
+      "numero": 58,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "calc",
+      "assunto": "Cálculo e mistura de insulinas",
+      "gabarito": "C",
+      "anulada": false,
+      "normas": []
+    },
+    {
+      "numero": 59,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "bio",
+      "assunto": "Exposição a material biológico",
+      "gabarito": "D",
+      "anulada": false,
+      "normas": [
+        "pcdt-pep",
+        "nr-32"
+      ]
+    },
+    {
+      "numero": 60,
+      "disciplina": "Conhecimentos Específicos",
+      "tema": "vigilancia",
+      "assunto": "Febre após viagem: doenças de notificação",
+      "gabarito": "E",
+      "anulada": false,
+      "normas": [
+        "guia-vigilancia-saude"
+      ]
+    }
+  ],
+  "arquivo_questoes": "questoes/ebserh-2025-tecnico-saude-trabalhador-grupo16-tipo1.json",
+  "gabarito_conferido": "Conferido em 12/11/2026 contra o PDF do gabarito definitivo da FGV: 60 de 60 respostas iguais"
+}

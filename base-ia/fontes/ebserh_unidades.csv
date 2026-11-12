@@ -1,0 +1,42 @@
+sigla,unidade_cidade,uf,macrorregiao
+HU-UNIFAP,Macapá,AP,MR1
+HU-UFRR,Boa Vista,RR,MR1
+HUGV-UFAM,Manaus,AM,MR1
+HU-UFMA,São Luís,MA,MR1
+CHU-UFPA,Belém,PA,MR1
+HU-UFPI,Teresina,PI,MR1
+CH-UFC,Fortaleza,CE,MR2
+HUJB-UFCG,Cajazeiras,PB,MR2
+HUAC-UFCG,Campina Grande,PB,MR2
+HULW-UFPB,João Pessoa,PB,MR2
+HUOL-UFRN,Natal,RN,MR2
+MEJC-UFRN,Natal,RN,MR2
+HUAB-UFRN,Santa Cruz,RN,MR2
+HUPAA-UFAL,Maceió,AL,MR3
+MCO-UFBA,Salvador,BA,MR3
+HUPES-UFBA,Salvador,BA,MR3
+HC-UFPE,Recife,PE,MR3
+HU-UNIVASF,Petrolina,PE,MR3
+HU-UFS,Aracaju,SE,MR3
+HUL-UFS,Lagarto,SE,MR3
+EBSERH Sede,Brasília,DF,MR4
+HUB-UnB,Brasília,DF,MR4
+HC-UFG,Goiânia,GO,MR4
+HU-UFGD,Dourados,MS,MR4
+HUMAP-UFMS,Campo Grande,MS,MR4
+HUJM-UFMT,Cuiabá,MT,MR4
+HDT-UFT,Araguaína,TO,MR4
+HUCAM-UFES,Vitória,ES,MR5
+HC-UFMG,Belo Horizonte,MG,MR5
+HU-UFJF,Juiz de Fora,MG,MR5
+HC-UFTM,Uberaba,MG,MR5
+HC-UFU,Uberlândia,MG,MR5
+HUAP-UFF,Niterói,RJ,MR5
+HUGG-UNIRIO,Rio de Janeiro,RJ,MR5
+CH-UFRJ,Rio de Janeiro,RJ,MR5
+HU-UFSCAR,São Carlos,SP,MR5
+CHC-UFPR,Curitiba,PR,MR6
+HE-UFPEL,Pelotas,RS,MR6
+HU-FURG,Rio Grande,RS,MR6
+HUSM-UFSM,Santa Maria,RS,MR6
+HU-UFSC,Florianópolis,SC,MR6
